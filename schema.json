@@ -1,0 +1,262 @@
+{
+  "$comment": "VEMAGS Bescheid extraction schema v1. All field names are German (ASCII-safe). Null = not present in PDF.",
+
+  "bescheid_version": null,
+  "antrags_version": null,
+  "antrag_vom": null,
+  "seiten_gesamt": null,
+
+  "1_antragsteller": {
+    "firma": null,
+    "strasse": null,
+    "plz": null,
+    "ort": null,
+    "telefon": null,
+    "fax": null,
+    "email": null,
+    "geschaeftszeichen": null,
+    "transportverantwortlicher": {
+      "name": null,
+      "telefon": null,
+      "fax": null
+    },
+    "zur_verfuegung_von": {
+      "firma": null,
+      "strasse": null,
+      "plz": null,
+      "ort": null
+    }
+  },
+
+  "erlaubnis_genehmigungsbehoerde": {
+    "name": null,
+    "strasse": null,
+    "plz": null,
+    "ort": null,
+    "sachbearbeiter": null,
+    "telefon": null,
+    "fax": null,
+    "email": null
+  },
+
+  "2_antrag": {
+    "art": null,
+    "erlaubnis_29_3_stvo": false,
+    "ausnahmegenehmigungen_70_stvzo": [],
+    "ausnahmegenehmigung_46_1_nr5_stvo": false,
+    "ausnahmegenehmigung_46_1_nr2_stvo": false
+  },
+
+  "3_geltungsdauer": {
+    "$comment": "Applicant's REQUESTED validity period. The authority's GRANTED period is in bescheid.geltungsdauer_von/bis (may differ).",
+    "beantragt_von": null,
+    "beantragt_bis": null,
+    "genehmigt_von": null,
+    "genehmigt_bis": null,
+    "wie_beantragt": false,
+    "fahrten_anzahl": null
+  },
+
+  "4_ladung": {
+    "beschreibung": null,
+    "laenge_m": null,
+    "breite_m": null,
+    "hoehe_m": null,
+    "masse_t": null,
+    "unteilbar": false,
+    "unteilbar_begruendung_liegt_bei": false,
+    "asymmetrisch": false,
+    "asymmetrisch_skizze_liegt_bei": false
+  },
+
+  "5_fahrzeuge": {
+    "kraftfahrzeug": {
+      "art": null,
+      "fin": null,
+      "kennzeichen": null
+    },
+    "anhaenger": {
+      "art": null,
+      "fin": null,
+      "kennzeichen": null
+    },
+    "bauartbedingte_hoechstgeschwindigkeit_kmh": null,
+    "ketten_oder_raupenlaufwerk": false
+  },
+
+  "6_masse_und_massen": {
+    "leerfahrt": {
+      "gesamtlaenge_m": null,
+      "gesamtbreite_m": null,
+      "gesamthoehe_m": null,
+      "transporthoehe_absenkbar_m": null,
+      "leermasse_zugfahrzeug_t": null,
+      "leermasse_anhaenger_t": null,
+      "gesamt_t": null
+    },
+    "lastfahrt": {
+      "gesamtlaenge_m": null,
+      "gesamtbreite_m": null,
+      "gesamthoehe_m": null,
+      "transporthoehe_absenkbar_m": null,
+      "leermasse_zugfahrzeug_t": null,
+      "leermasse_anhaenger_t": null,
+      "gesamt_t": null
+    },
+    "ladung_ragt_ueber": {
+      "nach_vorn_m": null,
+      "nach_hinten_m": null,
+      "nach_rechts_m": null,
+      "nach_links_m": null
+    },
+    "abstand_letzte_achse_bis_ladungsende_m": null,
+    "maximale_breite_beginnt_in_hoehe_m": null
+  },
+
+  "7_leerfahrt_achsen": {
+    "reifenbreite_max_achslast": null,
+    "spurweite_aussen": null,
+    "achsen": [
+      {
+        "$comment": "Repeat per axle. achsabstand_m is distance FROM previous axle (null for 1st axle).",
+        "nr": 1,
+        "achslast_t": null,
+        "achsabstand_m": null,
+        "raeder_je_achse": null
+      }
+    ]
+  },
+
+  "8_lastfahrt_achsen": {
+    "reifenbreite_max_achslast": null,
+    "spurweite_aussen": null,
+    "achsen": [
+      {
+        "nr": 1,
+        "achslast_t": null,
+        "achsabstand_m": null,
+        "raeder_je_achse": null
+      }
+    ]
+  },
+
+  "9_fahrtwege": [
+    {
+      "fahrtweg_nr": 1,
+      "fahrtwegteile": [
+        {
+          "teil_nr": null,
+          "art": null,
+          "start": {
+            "plz": null,
+            "ort": null,
+            "strasse": null,
+            "zusatz": null
+          },
+          "ziel": {
+            "plz": null,
+            "ort": null,
+            "strasse": null,
+            "zusatz": null
+          },
+          "strecke": null
+        }
+      ]
+    }
+  ],
+
+  "10_antragsrelevante_mitteilungen": {
+    "freitext": null,
+    "referenz_antragsidenten": []
+  },
+
+  "11_nachweise": {
+    "nachweis_liegt_bei": false,
+    "begruendung": null
+  },
+
+  "bescheid": {
+    "fahrtweg": null,
+    "geltungsdauer_wie_beantragt": false,
+    "geltungsdauer_von": null,
+    "geltungsdauer_bis": null,
+    "behoerde": null,
+    "behoerde_strasse": null,
+    "behoerde_plz": null,
+    "behoerde_ort": null,
+    "datum": null,
+    "kostenentscheidung": {
+      "gebuehren_eur": null,
+      "auslagen_eur": null,
+      "gesamtbetrag_eur": null
+    }
+  },
+
+  "anlage_2_auflagenkatalog": {
+    "geltungsbereich_von": null,
+    "geltungsbereich_bis": null,
+    "auflagen_gesamt": [
+      {
+        "stichwort": null,
+        "rgst_nr": null,
+        "auflage": null
+      }
+    ],
+    "auflagen_pro_behoerde": [
+      {
+        "traeger": null,
+        "behoerde": null,
+        "fahrtwegteile": [
+          {
+            "$comment": "Only present if authority scopes conditions to a specific Fahrtwegteil. Omit this level if auflagen apply to all Fahrtwegteile.",
+            "teil_nr": null,
+            "strecke": null
+          }
+        ],
+        "auflagen": [
+          {
+            "stichwort": null,
+            "rgst_nr": null,
+            "auflage": null
+          }
+        ]
+      }
+    ]
+  },
+
+  "anlage_3_fahrauflagen": [
+    {
+      "fahrtweg_nr": 1,
+      "fahrtwegteile": [
+        {
+          "teil_nr": null,
+          "von": null,
+          "bis": null,
+          "auflagen": [
+            {
+              "autor": null,
+              "strasse": null,
+              "von_km": null,
+              "bis_km": null,
+              "bauwerks_nr": null,
+              "lokalisation": null,
+              "netzknoten": null,
+              "typ": null,
+              "kmh": null,
+              "abstand_m": null,
+              "fahrauflage_wvz_polizei": null,
+              "hinweis": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "rechtsbehelfsbelehrung": {
+    "gericht": null,
+    "postanschrift": null,
+    "hausanschrift": null,
+    "frist": null
+  }
+}
