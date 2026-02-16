@@ -1,0 +1,652 @@
+{
+  "bescheid_version": "20250255019_B_01",
+  "antrags_version": "20250255019_A_03",
+  "antrag_vom": "2025-11-04",
+  "seiten_gesamt": 79,
+  "1_antragsteller": {
+    "firma": "BOHNET",
+    "strasse": "Neue Messe 1",
+    "plz": "88046",
+    "ort": "Friedrichshafen",
+    "telefon": "07354/9310-0",
+    "fax": null,
+    "email": "vemags@spedition-bohnet.com",
+    "geschaeftszeichen": "25.5065.02",
+    "transportverantwortlicher": {
+      "name": "Peter Bohnet",
+      "telefon": "07354 9310 - 40",
+      "fax": "+49 7354 9310-9950"
+    },
+    "zur_verfuegung_von": {
+      "firma": null,
+      "strasse": null,
+      "plz": null,
+      "ort": null
+    }
+  },
+  "erlaubnis_genehmigungsbehoerde": {
+    "name": "Stadt Friedrichshafen",
+    "strasse": "Adenauerplatz 1",
+    "plz": "88045",
+    "ort": "Friedrichshafen",
+    "sachbearbeiter": "Kuhn, Michelle",
+    "telefon": "07541 203-52105",
+    "fax": null,
+    "email": "schwertransporte@friedrichshafen.de"
+  },
+  "2_antrag": {
+    "art": "kurzzeit",
+    "erlaubnis_29_3_stvo": true,
+    "ausnahmegenehmigungen_70_stvzo": [
+      "2305150106279, RP Tübingen",
+      "2305150109859, RP Tübingen",
+      "2305150096714, RP Tübingen"
+    ],
+    "ausnahmegenehmigung_46_1_nr5_stvo": true,
+    "ausnahmegenehmigung_46_1_nr2_stvo": false
+  },
+  "3_geltungsdauer": {
+    "beantragt_von": "2025-11-05",
+    "beantragt_bis": "2026-02-04",
+    "genehmigt_von": null,
+    "genehmigt_bis": null,
+    "wie_beantragt": true,
+    "fahrten_anzahl": 5
+  },
+  "4_ladung": {
+    "beschreibung": "Abdeckhaube",
+    "laenge_m": 10.35,
+    "breite_m": 4.98,
+    "hoehe_m": 4.64,
+    "masse_t": 32,
+    "unteilbar": false,
+    "unteilbar_begruendung_liegt_bei": false,
+    "asymmetrisch": false,
+    "asymmetrisch_skizze_liegt_bei": false
+  },
+  "5_fahrzeuge": {
+    "kraftfahrzeug": {
+      "art": "Sattelzugmaschine",
+      "fin": "WMA86KZZ3RL079063, WMA86KZZ2RL079071, WMA86KZZ0RL079215, WMA86KZZ8RL079205, WMA86KZZ0RL079229, WMA86KZZ2RL079183, WMA86KZZXRL079237, WMA86KZZ2RL079135",
+      "kennzeichen": "BC-PB 7, BC-PB 33, BC-PB 40, BC-PB 50, BC-PB 66, BC-PB 80, BC-PB 85, BC-PB 99"
+    },
+    "anhaenger": {
+      "art": "Sattelauflieger",
+      "fin": "WG0STZV3580032537, WG0STZV3580032536, YAFTLS008J0021527",
+      "kennzeichen": "BC-PB 90, BC-PB 105, BC-PB 527"
+    },
+    "bauartbedingte_hoechstgeschwindigkeit_kmh": 80,
+    "ketten_oder_raupenlaufwerk": false
+  },
+  "6_masse_und_massen": {
+    "leerfahrt": {
+      "gesamtlaenge_m": null,
+      "gesamtbreite_m": null,
+      "gesamthoehe_m": null,
+      "transporthoehe_absenkbar_m": null,
+      "leermasse_zugfahrzeug_t": 15,
+      "leermasse_anhaenger_t": 17.9,
+      "gesamt_t": null
+    },
+    "lastfahrt": {
+      "gesamtlaenge_m": 25,
+      "gesamtbreite_m": 5.09,
+      "gesamthoehe_m": 4.95,
+      "transporthoehe_absenkbar_m": 4.88,
+      "leermasse_zugfahrzeug_t": 15,
+      "leermasse_anhaenger_t": 17.9,
+      "gesamt_t": 65
+    },
+    "ladung_ragt_ueber": {
+      "nach_vorn_m": null,
+      "nach_hinten_m": null,
+      "nach_rechts_m": null,
+      "nach_links_m": null
+    },
+    "abstand_letzte_achse_bis_ladungsende_m": null,
+    "maximale_breite_beginnt_in_hoehe_m": 0.3
+  },
+  "7_leerfahrt_achsen": {
+    "reifenbreite_max_achslast": null,
+    "spurweite_aussen": null,
+    "achsen": []
+  },
+  "8_lastfahrt_achsen": {
+    "reifenbreite_max_achslast": "0.67 m",
+    "spurweite_aussen": "2.75 m",
+    "achsen": [
+      {
+        "nr": 1,
+        "achslast_t": 7.5,
+        "achsabstand_m": null,
+        "raeder_je_achse": 2
+      },
+      {
+        "nr": 2,
+        "achslast_t": 7.5,
+        "achsabstand_m": 2.6,
+        "raeder_je_achse": 2
+      },
+      {
+        "nr": 3,
+        "achslast_t": 10,
+        "achsabstand_m": 1.45,
+        "raeder_je_achse": 4
+      },
+      {
+        "nr": 4,
+        "achslast_t": 10,
+        "achsabstand_m": 1.4,
+        "raeder_je_achse": 4
+      },
+      {
+        "nr": 5,
+        "achslast_t": 10,
+        "achsabstand_m": 14.15,
+        "raeder_je_achse": 4
+      },
+      {
+        "nr": 6,
+        "achslast_t": 10,
+        "achsabstand_m": 1.5,
+        "raeder_je_achse": 4
+      },
+      {
+        "nr": 7,
+        "achslast_t": 10,
+        "achsabstand_m": 1.5,
+        "raeder_je_achse": 4
+      }
+    ]
+  },
+  "9_fahrtwege": [
+    {
+      "fahrtweg_nr": 1,
+      "fahrtwegteile": [
+        {
+          "teil_nr": "1.1",
+          "art": "Lastfahrt",
+          "start": {
+            "plz": "99086",
+            "ort": "Erfurt",
+            "strasse": "Grubenstraße",
+            "zusatz": "{Siemens}"
+          },
+          "ziel": {
+            "plz": "39340",
+            "ort": "Haldensleben",
+            "strasse": "Am Südhafen",
+            "zusatz": "{Hafen Haldensleben, UHH}"
+          },
+          "strecke": "Grubenstraße - Werner-von-Siemens-Strasse - re. Hohenwindenstraße - li. An der Lache - re. Mittelhäuser Straße - li. Straße der Nationen {ab Brücke Nordhäuser Straße im Gegenverkehr)} - re. Dubliner Straße {ggf. im Gegenverkehr} - li. Lissaboner Straße - Hannoversche Straße - Rampen Demminer Straße ab- und wieder auffahren - B4 - AS Erfurt/Kühnhausen {B4} - AS Andislebener Kreuz - B176 in Richtung Dachwig {ca. 50 m} - rückwärts über Abfahrtsrampe B4 {Fahrtrichtung Nordhausen- Bad Langensalza} - B 176 in Richtung Bad Langensalza {ca. 50m} - entgegen zur Fahrtrichtung und weiter rückwärts B4 entgegen zur Fahrtrichtung im Gegenverkehr bis Abzweig K18 bei Andisleben - rangieren im Kreuzungsbereich/K18 - vorwärts B4 über Gebesee, Straußfurt, Greußen - AS Sondershausen/Zentrum - Bauwerk über die Ab/Auffahrtsrampe umfahren - B4 - re. Steinbrücker Weg - Uthleben - K27 {L2079} - Heringen/Helmen - K 27 - Auleben - K 27 - Görsbach - re. L3080 - Berga - B85 - re. L151 - Rossla - L234 - Hayn - L 234 - re. L 235 - re. B 242 - Saurasen - B242 - Leimbach - B242 - KV über den Gegenverkehr - B86 - B180 - L72 - KV - L72 - Siersleben - L72 - OU Sandersleben - L72 - li. L85 - Mehringen - B180 - Aschersleben - B 180 - Egeln - li. B81 - Ortsumfahrung Kroppenstedt - re. L 66 - Flotts Höhe - re. B 246 {an der Kreuzung links auf} - Wanzleben {an der Kreuzung links auf} - Vor dem Hohen Tor (B246a) - Bahnhofspromenade (B246a) - am KV 3. Ausfahrt Ri. Seehausen (KV ggf. im Gegenverkehr befahren) - Lindenpromenade - re. L 46 - Domersleben - L 46 - Klein Rodensleben - L 46 - Wellen - li. B1 - Eichenbarleben - B1 - KV Brumby - B245 - Haldensleben - KV Waldring - Hinzenbergstrasse - Am Südhafen, UHH"
+        }
+      ]
+    }
+  ],
+  "10_antragsrelevante_mitteilungen": {
+    "freitext": "23.10.2025: Streckenpräzisierung in Thüringen",
+    "referenz_antragsidenten": [
+      "20250100202"
+    ]
+  },
+  "11_nachweise": {
+    "nachweis_liegt_bei": false,
+    "begruendung": "Transport geht zum Binnenwasser"
+  },
+  "bescheid": {
+    "fahrtweg": "geändert (siehe besondere Anlage)",
+    "geltungsdauer_wie_beantragt": true,
+    "geltungsdauer_von": null,
+    "geltungsdauer_bis": null,
+    "behoerde": "Friedrichshafen, Stadt",
+    "behoerde_strasse": "Adenauerplatz 1",
+    "behoerde_plz": "88045",
+    "behoerde_ort": "Friedrichshafen",
+    "datum": "2025-11-04",
+    "kostenentscheidung": {
+      "gebuehren_eur": 670.4,
+      "auslagen_eur": 16.0,
+      "gesamtbetrag_eur": 686.4
+    }
+  },
+  "anlage_2_auflagenkatalog": {
+    "geltungsbereich_von": null,
+    "geltungsbereich_bis": null,
+    "auflagen_gesamt": [],
+    "auflagen_pro_behoerde": [
+      {
+        "traeger": "Freistaat Thüringen",
+        "behoerde": "Thüringer Landesverwaltungsamt",
+        "auflagen": [
+          {
+            "stichwort": "Lastfahrt",
+            "rgst_nr": "10",
+            "auflage": "Nachstehende Auflagen gelten für die Lastfahrt: 1.1"
+          },
+          {
+            "stichwort": "Fahrtweg",
+            "rgst_nr": "12",
+            "auflage": "In Abweichung von dem beantragten Fahrtweg wird nachstehender Fahrtweg festgesetzt: ERFURT - Grubenstraße - Werner-von-Siemens-Strasse - re. Hohenwindenstraße - li. An der Lache - re. Mittelhäuser Straße - li. Straße der Nationen {ab Brücke Nordhäuser Straße im Gegenverkehr)} - re. Dubliner Straße {ggf. im Gegenverkehr} - li. Lissaboner Straße - Hannoversche Straße - Rampen Demminer Straße ab- und wieder auffahren - B4 - AS Andislebener Kreuz - B176 in Richtung Dachwig {ca. 50 m} - B176 - rückwärts über Abfahrtsrampe B4 {Fahrtrichtung Nordhausen- Bad Langensalza} entgegen zur Fahrtrichtung und weiter rückwärts B4 entgegen zur Fahrtrichtung im Gegenverkehr bis Abzweig K18 bei Andisleben - rangieren im Kreuzungsbereich/K18: KREIS zuständig - vorwärts B4 über Gebesee, Straußfurt, Greußen - AS SONDERSHAUSEN/ZENTRUM *) - Bauwerk über die Ab/Auffahrtsrampe umfahren - B4 - Abzweig komm. Str. - komm.Str. (Steinbrücker Weg) - Uthleben - K27 - Görsbach - L3080 - LG TH/ST"
+          },
+          {
+            "stichwort": "private Begleitung auf Teilstrecken (ohne WVZ- Anlage)",
+            "rgst_nr": "18",
+            "auflage": "Zur Absicherung des Transportes ist <nach hinten> ein privates Begleitfahrzeug mit Kennleuchten für gelbes Blinklicht (Rundumlicht) auf folgenden Teilstrecken erforderlich: <gesamte Strecke außerhalb der AB> Das Transportfahrzeug und das private Begleitfahrzeug müssen mit Funk ausgestattet sein."
+          },
+          {
+            "stichwort": "Privates Begleitfahrzeug mit WVZ-Anlage",
+            "rgst_nr": "20",
+            "auflage": "Der Transport ist auf den nachfolgenden Strecken / Streckenabschnitten nach hinten durch ein privates Begleitfahrzeug mit WVZ-Anlage abzusichern: siehe Streckenauflagen und/oder Anhang + gesamte STRECKE Das Zeichen 101 und die nach hinten wirkenden gelben Blinklichter sind stets einzuschalten: - bei Auffahrt auf die AB, - an Steigungen/Gefälle bei einer Geschwindigkeit von weniger als 40 km/h, - bei liegen gebliebenen Fahrzeugen und beim Halt oder - 200 m vor der ersten verkehrsregelnden Maßnahme und während der Durchfahrt von Baustellen. Auf AB und Straßen, die wie eine AB ausgebaut sind, ist bei Inanspruchnahme des 2. Fahrstreifens das Zeichen 276 StVO und bei 3 Fahrstreifen das Zeichen 277 StVO zu setzen. Zur Anzeige von Überholverboten (Zeichen 276 und 277 StVO) darf das private Begleitfahrzeug mit WVZ-Anlage straßenmittig bzw. links fahren."
+          },
+          {
+            "stichwort": "Fahrauflagen bei Fahrzeug mit WVZ-Anlage",
+            "rgst_nr": "22",
+            "auflage": "Das Befahren von Brücken, Unterführungen, Baustellen und lastbeschränkten Strecken sowie die damit verbundenen Fahrstreifenwechsel und/oder das Setzen von Verkehrszeichen haben gemäß Anlage 3 zu erfolgen. 500 m vor Beginn des Auflagenbereiches sind die nach hinten wirkenden gelben Blinklichter einzuschalten und Zeichen 101 zu setzen. Sofern nach der jeweiligen Auflage ein Überholverbot mit Zeichen 276 bzw. 277 angeordnet ist, ist das entsprechende Zeichen 200 m vor Beginn des Auflagenbereiches zu setzen. Gleichzeitig ist der jeweils angeordnete Fahrstreifenwechsel einzuleiten. Hierbei darf der nachfolgende Verkehr nicht gefährdet werden. Nach Verlassen des Auflagenbereiches und der Rückkehr zur ursprünglichen Fahrweise ist die WVZ-Anlage auszuschalten."
+          },
+          {
+            "stichwort": "Polizeibegleitung außerhalb AB",
+            "rgst_nr": "25",
+            "auflage": "Auf folgenden Streckenabschnitten außerhalb der AB und auf Straßen, die nicht wie eine AB ausgebaut sind, ist Polizeibegleitung erforderlich: GESAMTE STRECKE Es ist sicherzustellen, dass zwischen Schwertransport und der begleitenden Polizei eine Funkverbindung besteht."
+          },
+          {
+            "stichwort": "Polizeiliche Maßnahmen",
+            "rgst_nr": "28",
+            "auflage": "Bei folgenden Streckenpunkten/-abschnitten sind polizeiliche Maßnahmen erforderlich: in ERFURT: Sperrung des Gegenverkehrs bei Befahrung entgegen der Fahrtrichtung in der Straße der Nationen Es ist sicherzustellen, dass zwischen Schwertransport und der begleitenden Polizei eine Funkverbindung besteht."
+          },
+          {
+            "stichwort": "Anmeldefrist für Polizeibegleitung",
+            "rgst_nr": "29",
+            "auflage": "Die Polizeibegleitung/polizeiliche Maßnahme ist frühzeitig, d.h. mindestens 48 Stunden vor Transportbeginn anzufordern bei: LPI Erfurt von 8:00 Uhr bis 15:00 Uhr Tel.: 0361 7443 1530 oder 0361 7443 1532; ab 15:00 Uhr Tel.: 0361 7443 1124 per Mail: slt.lpi.erfurt.id-sued@polizei.thueringen.de;"
+          },
+          {
+            "stichwort": "Anmeldefrist für Polizeibegleitung",
+            "rgst_nr": "29",
+            "auflage": "Die Polizeibegleitung/polizeiliche Maßnahme ist frühzeitig, d.h. mindestens 48 Stunden vor Transportbeginn anzufordern bei: LPI Nordhausen Tel.: 03631 960 + EMail: sb3.lpindh@polizei.thueringen.de"
+          },
+          {
+            "stichwort": "Fahrzeiten außerhalb AB (Wochenende)",
+            "rgst_nr": "33",
+            "auflage": "Folgende Strecken / Streckenabschnitte außerhalb von AB dürfen in der Zeit von Sonntag, 22.00 Uhr, bis Samstag, 06.00 Uhr, benutzt werden: GESAMTE STRECKE"
+          },
+          {
+            "stichwort": "Fahrzeiten, alle Straßen, erhebliche Maßüberschreitungen",
+            "rgst_nr": "35",
+            "auflage": "Der Transport darf nur in der Zeit von 20.00 Uhr bis 06.00 Uhr durchgeführt werden. Dies gilt für folgend(e/en) Streckenabschnitt(e) / Geltungsbereich: GESAMTE STRECKE"
+          },
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "STADT ERFURT: Der Straßenverkehrsbehörde Erfurt ist der Transporttermin (Datum und Abfahrtszeit in Erfurt) spätestens 24 Stunden vor Fahrtantritt per Mail unter verkehr.tiefbau-verkehr@erfurt.de mitzuteilen."
+          },
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "Hinweis: Die AS Kühnhausen wird nicht befahren ! Der Fahrtweg ist bei Folgeanträgen anzupassen"
+          },
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "*) Umfahrung auf Grund unzureichender Durchfahrtshöhe am Bauwerk BW-Nr.: 4631534, ÜF einer kommunalen Str. bei Sondershausen. Vor Fahrtantritt hat sich die Transportfirma mit den Gebietsingenieuren des TLBV, Region Mitte, Herr Wicht, Tel.: 0361/574152110, mobil: 0173/5669145 UND TLBV, Region Nord, Herr Schmidt, Tel.: 0361/574119001, mobil: 0162/4190078 in Verbindung zu setzen. Für das eventuell nötige Drehen der Ausleger von Lichtsignalanlagen gemäß beigefügter Anlage eventuelles Abschalten und die erforderliche Wiederinbetriebnahme hat sich die Transportfirma mit folgenden Betreibern in Verbindung zu setzen: S +B Signal- und Beleuchtungstechnik GmbH, Fichtenweg 44, 99098 Erfurt, Telefon 036203/56100, Yunex GmbH, SMO YU GER CS NORD LPZ, Europaplatz 1, 99091 Erfurt, Stührenberg GmbH, Heinrich-Hertz-Straße 8, 07552 Gera, Telefon: 0365/43420. Die zusätzlich notwendigen Sondernutzungserlaubnisse und verkehrsrechtlichen Anordnungen sind rechtzeitig zu beantragen. Für kreuzende Überspannungen ist die Thüringer Straßenbauverwaltung nicht zuständig."
+          },
+          {
+            "stichwort": "Baustelleninformation",
+            "rgst_nr": "37",
+            "auflage": "Vor Durchführung des Transportes sind durch den Transportdurchführenden die aktuellen Baustellen und Sperrungen unter https://baustellen.tlbv.de zu prüfen."
+          }
+        ]
+      },
+      {
+        "traeger": "Freistaat Thüringen",
+        "behoerde": "Thüringer Landesamt für Bau und Verkehr",
+        "auflagen": [
+          {
+            "stichwort": "Polizeibegleitung außerhalb AB",
+            "rgst_nr": "25",
+            "auflage": "gem. VwV"
+          }
+        ]
+      },
+      {
+        "traeger": "Freistaat Thüringen",
+        "behoerde": "Landespolizeiinspektion Nordhausen",
+        "auflagen": [
+          {
+            "stichwort": "Polizeibegleitung außerhalb AB",
+            "rgst_nr": "25",
+            "auflage": "Auf folgenden Streckenabschnitten außerhalb der AB und auf Straßen, die nicht wie eine AB ausgebaut sind, ist Polizeibegleitung erforderlich: <gesamte Strecke> Es ist sicherzustellen, dass zwischen Schwertransport und der begleitenden Polizei eine Funkverbindung besteht."
+          }
+        ]
+      },
+      {
+        "traeger": "Freistaat Thüringen",
+        "behoerde": "DB InfraGO AG / Region Südost",
+        "auflagen": [
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "Halten Sie in ausreichendem Abstand vor dem Bahnübergang, so dass sie auch bei ggf. längeren Wartezeiten vor dem Befahren den Verkehr nicht behindern, spätestens jedoch am Verkehrszeichen Zeichen 156: dreistreifige Bake mit Zeichen 151 (ca. 240 Meter vor dem BÜ). Nehmen Sie Kontakt mit dem, im Zustimmungsschreiben unter Pkt. 2, genannten Mitarbeiter der DB InfraGO AG auf. Mit dem zuständigen Mitarbeiter ist die vsl. Dauer der Befahrung des Bahnüberganges sowie die Erreichbarkeit zu vereinbaren. Befahren Sie den Bahnübergang erst nach Zustimmung des unter 2. genannten Mitarbeiters. Nach dem vollständigen Räumen des Bahnüberganges informieren Sie den zuständigen Mitarbeiter (geforderte Wortlaute sind im Schreiben zu beachten)."
+          }
+        ]
+      },
+      {
+        "traeger": "Sachsen-Anhalt",
+        "behoerde": "Sachsen-Anhalt Landesverwaltungsamt",
+        "auflagen": [
+          {
+            "stichwort": "Lastfahrt",
+            "rgst_nr": "10",
+            "auflage": "Nachstehende Auflagen gelten für die Lastfahrt:"
+          },
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "Bei Anmeldung der Polizeibegleitung ist ein Streckenprotokoll vorzulegen. Es ist der Nachweis zu erbringen, dass die Transportstrecke - insbesondere mit dieser Höhe - befahrbar ist und das alle dafür erforderlichen Genehmigungen, einschließlich Energieversorger für betroffene Stromleitungen und Freileitungen, vorliegen. Aufgrund der Fahrzeugmaße ist die Strecke unmittelbar vor Fahrtantritt nochmals auf Befahrbarkeit zu prüfen. Der Nachweis ist zu dokumentieren und der begleitenden Polizei vorzulegen. Diese Auflagen sind Bestandteil meiner Zustimmung. Bei Nichteinhaltung verliert meine Zustimmung ihre Gültigkeit."
+          },
+          {
+            "stichwort": "Privates Begleitfahrzeug mit WVZ-Anlage",
+            "rgst_nr": "20",
+            "auflage": "Der Transport ist auf den nachfolgenden Strecken / Streckenabschnitten nach hinten durch ein privates Begleitfahrzeug mit WVZ-Anlage abzusichern: - Auf der gesamten Strecke. Das Zeichen 101 und die nach hinten wirkenden gelben Blinklichter sind stets einzuschalten: - bei Auffahrt auf die AB, - an Steigungen/Gefälle bei einer Geschwindigkeit von weniger als 40 km/h, - bei liegen gebliebenen Fahrzeugen und beim Halt oder - 200 m vor der ersten verkehrsregelnden Maßnahme und während der Durchfahrt von Baustellen. Auf AB und Straßen, die wie eine AB ausgebaut sind, ist bei Inanspruchnahme des 2. Fahrstreifens das Zeichen 276 StVO und bei 3 Fahrstreifen das Zeichen 277 StVO zu setzen. Zur Anzeige von Überholverboten (Zeichen 276 und 277 StVO) darf das private Begleitfahrzeug mit WVZ-Anlage straßenmittig bzw. links fahren."
+          },
+          {
+            "stichwort": "Fahrauflagen bei Fahrzeug mit WVZ-Anlage",
+            "rgst_nr": "22",
+            "auflage": "Das Befahren von Brücken, Unterführungen, Baustellen und lastbeschränkten Strecken sowie die damit verbundenen Fahrstreifenwechsel und/oder das Setzen von Verkehrszeichen haben gemäß Anlage 3 zu erfolgen. 500 m vor Beginn des Auflagenbereiches sind die nach hinten wirkenden gelben Blinklichter einzuschalten und Zeichen 101 zu setzen. Sofern nach der jeweiligen Auflage ein Überholverbot mit Zeichen 276 bzw. 277 angeordnet ist, ist das entsprechende Zeichen 200 m vor Beginn des Auflagenbereiches zu setzen. Gleichzeitig ist der jeweils angeordnete Fahrstreifenwechsel einzuleiten. Hierbei darf der nachfolgende Verkehr nicht gefährdet werden. Nach Verlassen des Auflagenbereiches und der Rückkehr zur ursprünglichen Fahrweise ist die WVZ-Anlage auszuschalten."
+          },
+          {
+            "stichwort": "Polizeibegleitung außerhalb AB",
+            "rgst_nr": "25",
+            "auflage": "Auf folgenden Streckenabschnitten außerhalb der AB und auf Straßen, die nicht wie eine AB ausgebaut sind, ist Polizeibegleitung erforderlich: - Auf der gesamten Strecke. Es ist sicherzustellen, dass zwischen Schwertransport und der begleitenden Polizei eine Funkverbindung besteht."
+          },
+          {
+            "stichwort": "Polizeiliche Maßnahmen",
+            "rgst_nr": "28",
+            "auflage": "Bei folgenden Streckenpunkten/-abschnitten sind polizeiliche Maßnahmen erforderlich: - An den Straßen/Bauwerken, welche in der Anlage 3, mit der Auflage \"WVZ + Polizei\" gekennzeichnet sind, sind die Maßnahmen durchzuführen, welche in der Spalte \"Hinweis\" vorgeschrieben sind. - Der Bahnübergang zwischen Niederndodeleben und Wellen(L46) ist mit einer 15000 V Oberleitung überspannt. Die Transporthöhe ragt in den Sicherheitsabstand zur Fahrleitung ein und muss deshalb unbedingt abgesenkt werden. Es ist sicherzustellen, dass zwischen Schwertransport und der begleitenden Polizei eine Funkverbindung besteht."
+          },
+          {
+            "stichwort": "Anmeldefrist für Polizeibegleitung",
+            "rgst_nr": "29",
+            "auflage": "Die Polizeibegleitung/polizeiliche Maßnahme ist frühzeitig, d.h. mindestens 48 Stunden, in der Zeit von Montag bis Freitag, vor Transportbeginn anzufordern bei: Polizeiinspektion Halle (Saale), Telefon: 03443/349-256 (Frau Mund) oder 034771/74267 (Frau Springer), Geschäftszeiten: Mo - Do 08.00 Uhr - 15.00 Uhr, Fr 08.00 Uhr - 13.00 Uhr, vorzugsweise per E-Mail an: vemags.pi-hal@polizei.sachsen-anhalt.de"
+          },
+          {
+            "stichwort": "Fahrzeiten außerhalb AB (Wochenende)",
+            "rgst_nr": "33",
+            "auflage": "Folgende Strecken / Streckenabschnitte außerhalb von AB dürfen in der Zeit von Sonntag, 22.00 Uhr, bis Samstag, 06.00 Uhr, benutzt werden: - Auf der gesamten Strecke."
+          },
+          {
+            "stichwort": "Fahrzeiten, alle Straßen, erhebliche Maßüberschreitungen",
+            "rgst_nr": "35",
+            "auflage": "Der Transport darf nur im zugestimmten Zeitraum in der Zeit von 20.00 Uhr bis 06.00 Uhr durchgeführt werden. Dies gilt für folgend(e/en) Streckenabschnitt(e) / Geltungsbereich: - Auf der gesamten Strecke."
+          },
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "Bei der B86 ist in Mansfeld/Leimbach eine Engstelle, die Geschwindigkeit ist zu reduzieren damit für die anliegenden Häuser keine Gefahr besteht."
+          },
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "Die genaue Örtlichkeit der Fahrauflagen der LSBB gem. Anlage 3 kann online unter https://www.geodatenportal.sachsen-anhalt.de/mapapps/resources/apps/viewer_v40/index.html?lang=de unter Angabe der ersten sieben Ziffern der Bauwerksnummer gefunden werden."
+          },
+          {
+            "stichwort": "Baustelleninformation",
+            "rgst_nr": "37",
+            "auflage": "Vor Durchführung des Transportes sind durch den Transportdurchführenden die aktuellen Baustellen und Sperrungen unter www.lsbb.sachsen-anhalt.de/service/baustellen-und-umleitungen zu prüfen."
+          },
+          {
+            "stichwort": "Baustelleninformation",
+            "rgst_nr": "37",
+            "auflage": "Vor Durchführung des Transportes sind durch den Transportdurchführenden die aktuellen Baustellen und Sperrungen unter https://www.salzlandkreis.de/verwaltung/fachdienste-plattform/32-ordnung-und-strassenverkehr/umleitungen-und-faehren/ vom Salzlandkreis zu prüfen."
+          }
+        ]
+      },
+      {
+        "traeger": "Sachsen-Anhalt",
+        "behoerde": "Landesstraßenbaubehörde Sachsen-Anhalt",
+        "auflagen": [
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "Bei Transporten mit einer Breite ab 4 m und/oder einer Länge ab 30 m ist mit folgenden Meistereien 48 h vor Fahrtantritt Rücksprache zu führen. - Hödingen Tel.: 039061/98090 - Ebendorf Tel.: 039203/516512 - Oschersleben Tel.: 03949/51060 - Atzendorf Tel.: 039266/941412 - Bernburg Tel.: 034692/38540 - Sandersdorf Tel.: 03493/80980 - Eisleben Tel.: 03475/71430 - Berga Tel.: 03464/543440"
+          }
+        ]
+      },
+      {
+        "traeger": "Bundesrepublik Deutschland",
+        "behoerde": "Die Autobahn GmbH des Bundes, Niederlassung Ost",
+        "auflagen": [
+          {
+            "stichwort": "Lastfahrt",
+            "rgst_nr": "10",
+            "auflage": "Nachstehende Auflagen gelten für die Lastfahrt: Fahrtwegteil 1.1 - Die Autobahn, NL Ost Berechneter Fahrtweg / Geltungsbereich Bauwerke: 4931523-2 ... Für den Zwischenabschnitt liegt die Zuständigkeit bei einem anderen Baulastträger ... Bauwerke: 4234676-0, 3834649-0 Keine Auflagen gemäß Anlage 2"
+          }
+        ]
+      },
+      {
+        "traeger": "Sachsen-Anhalt",
+        "behoerde": "DB InfraGO AG / Region Südost",
+        "auflagen": [
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "Halten Sie in ausreichendem Abstand vor dem Bahnübergang, so dass sie auch bei ggf. längeren Wartezeiten vor dem Befahren den Verkehr nicht behindern, spätestens jedoch am Verkehrszeichen Zeichen 156: dreistreifige Bake mit Zeichen 151 (ca. 240 Meter vor dem BÜ). Nehmen Sie Kontakt mit dem, im Zustimmungsschreiben unter Pkt. 2, genannten Mitarbeiter der DB InfraGO AG auf. Mit dem zuständigen Mitarbeiter ist die vsl. Dauer der Befahrung des Bahnüberganges sowie die Erreichbarkeit zu vereinbaren. Befahren Sie den Bahnübergang erst nach Zustimmung des unter 2. genannten Mitarbeiters. Nach dem vollständigen Räumen des Bahnüberganges informieren Sie den zuständigen Mitarbeiter (geforderte Wortlaute sind im Schreiben zu beachten)."
+          }
+        ]
+      },
+      {
+        "traeger": "Sachsen-Anhalt",
+        "behoerde": "Kreiswirtschaftsbetrieb des Salzlandkreises",
+        "auflagen": [
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "Nach Durchführung der Transporte sind die Vz. unverzüglich wieder ordnungsgemäß aufzustellen. 24 Stunden vor Transportbeginn ist die Straßenverkehrsbehörde des Salzlandkreises schriftlich zu informieren (verkehrsorganisation@kreis-slk.de)."
+          }
+        ]
+      },
+      {
+        "traeger": "Sachsen-Anhalt",
+        "behoerde": "Stadt Haldensleben",
+        "auflagen": [
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "Rechtzeitig, spätestens 1 Woche vor Antritt, sind der Stadt Haldensleben nachweislich in Schriftform (Stadt Haldensleben, Bauamt- Abt. Tiefbau, Markt 20-22, 39340 Haldensleben, Email: tiefbau@haldensleben.de) die tagesaktuellen Daten für jede Last-/Leerfahrt anzuzeigen und es ist für jede Last-/Leerfahrt eine Dokumentation (Streckenprotokoll mit Fotos) vom Zustand/Bestand der in Anspruch genommenen städtischen Verkehrsflächen zwischen dem „Kreisverkehr B 245/ Waldring\u201c, über \u201eHinzenbergstraße/Am Südhafen\u201c und der Zufahrt zum Gelände Südhafen zu überlassen. Des Weiteren sind in der benannten Frist die Schleppkurvennachweise für die vor genannten gemeindlichen Straßenabschnitte vorzulegen, die daraus resultierenden erforderlichen Sicherungsleitungen (Art und Weise) aufzuzeigen und entsprechend nachweislich umzusetzen."
+          },
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "Rechtzeitig, spätestens bis eine Woche vor Transport, sind der Stadt Haldensleben nachweislich in Schriftform (Stadt Haldensleben, Bauamt- Abt. Tiefbau, Markt 20-22, 39340 Haldensleben, Email: tiefbau@haldensleben.de) die tagesaktuellen Daten für jede Last-/Leerfahrt außerhalb des befestigten Straßenbereiches anzuzeigen."
+          }
+        ]
+      }
+    ]
+  },
+  "anlage_3_fahrauflagen": [
+    {
+      "fahrtweg_nr": 1,
+      "fahrtwegteile": [
+        {
+          "teil_nr": "1.1",
+          "von": "99086 Erfurt",
+          "bis": "39340 Haldensleben",
+          "auflagen": [
+            {
+              "autor": "Thüringen, Erfurt, Stadt",
+              "strasse": "Mittelhäuser Straße",
+              "von_km": null,
+              "bis_km": null,
+              "bauwerks_nr": null,
+              "lokalisation": "Brücke über Schmale Gera(ca.200m hinter TOTAL-Tankstelle)",
+              "netzknoten": null,
+              "typ": "Br",
+              "kmh": 30,
+              "abstand_m": null,
+              "fahrauflage_wvz_polizei": null,
+              "hinweis": null
+            },
+            {
+              "autor": "Thüringen, Erfurt, Stadt",
+              "strasse": "Straße der Nationen / Apoldaer Straße",
+              "von_km": null,
+              "bis_km": null,
+              "bauwerks_nr": null,
+              "lokalisation": "LSA Höhe Apoldaer Straße Ri. Roter Berg",
+              "netzknoten": null,
+              "typ": "H",
+              "kmh": null,
+              "abstand_m": null,
+              "fahrauflage_wvz_polizei": "Polizei",
+              "hinweis": "im Gegenverkehr umfahren"
+            },
+            {
+              "autor": "Thüringen, Erfurt, Stadt",
+              "strasse": "Straße der Nationen",
+              "von_km": null,
+              "bis_km": null,
+              "bauwerks_nr": null,
+              "lokalisation": "Brücke über die Gera",
+              "netzknoten": null,
+              "typ": "Br",
+              "kmh": 20,
+              "abstand_m": null,
+              "fahrauflage_wvz_polizei": null,
+              "hinweis": null
+            },
+            {
+              "autor": "Thüringen, Erfurt, Stadt",
+              "strasse": "B4/Hannoversche Straße",
+              "von_km": null,
+              "bis_km": null,
+              "bauwerks_nr": null,
+              "lokalisation": "Brücke über die Demminer Straße",
+              "netzknoten": null,
+              "typ": "Br",
+              "kmh": null,
+              "abstand_m": null,
+              "fahrauflage_wvz_polizei": null,
+              "hinweis": "Überfahrverbot! Demminer Straße Rampen ab- und wieder auffahren"
+            },
+            {
+              "autor": "Thüringen, AB_TLBV Erfurt",
+              "strasse": "B 4",
+              "von_km": null,
+              "bis_km": null,
+              "bauwerks_nr": "4631534-0",
+              "lokalisation": "ÜF EINER KOMMUNALEN STR. BEI SONDERSHAUSEN • BEI SONDERSHAUSEN • Abschn. 085 St. 0 (4631085–4631084)",
+              "netzknoten": null,
+              "typ": "H",
+              "kmh": null,
+              "abstand_m": null,
+              "fahrauflage_wvz_polizei": null,
+              "hinweis": "*)"
+            },
+            {
+              "autor": "Thüringen, AB_TLBV Erfurt",
+              "strasse": "B 4",
+              "von_km": null,
+              "bis_km": null,
+              "bauwerks_nr": "4631539-0",
+              "lokalisation": "BAHNBRÜCKE ÜBER DIE B 4 BEI SONDERSHAUSEN • BEI SONDERSHAUSEN • Abschn. 085 St. 2027 (4631085–4631084)",
+              "netzknoten": null,
+              "typ": "H",
+              "kmh": null,
+              "abstand_m": 5,
+              "fahrauflage_wvz_polizei": "WVZ",
+              "hinweis": "ABSENKEN, RECHTS fahren"
+            },
+            {
+              "autor": "Thüringen, AB_TLBV Erfurt",
+              "strasse": "K 062 27",
+              "von_km": null,
+              "bis_km": null,
+              "bauwerks_nr": "4531515-0",
+              "lokalisation": "BRÜCKE ÜBER DIE BAHN BEI GÖRSBACH • BEI GÖRSBACH • Abschn. 011 St. 760 (4531011–4531002)",
+              "netzknoten": null,
+              "typ": "Br",
+              "kmh": null,
+              "abstand_m": null,
+              "fahrauflage_wvz_polizei": null,
+              "hinweis": "Das ÜF Bauwerk ist vom Landkreis zu prüfen."
+            },
+            {
+              "autor": "Thüringen, Sömmerda, LK",
+              "strasse": "B4",
+              "von_km": null,
+              "bis_km": null,
+              "bauwerks_nr": null,
+              "lokalisation": "zwischen AS Elxleben und AS Kühnhausen 4931020 - 4931015",
+              "netzknoten": null,
+              "typ": null,
+              "kmh": 60,
+              "abstand_m": 50.0,
+              "fahrauflage_wvz_polizei": "WVZ",
+              "hinweis": "Erdfallgebiet"
+            },
+            {
+              "autor": "Thüringen, Sömmerda, LK",
+              "strasse": "B4",
+              "von_km": null,
+              "bis_km": null,
+              "bauwerks_nr": null,
+              "lokalisation": "BÜ Vehra 4831 002 - 4831 017",
+              "netzknoten": null,
+              "typ": null,
+              "kmh": null,
+              "abstand_m": 50.0,
+              "fahrauflage_wvz_polizei": "WVZ",
+              "hinweis": "Bahnübergang"
+            },
+            {
+              "autor": "Thüringen, Sömmerda, LK",
+              "strasse": "B4",
+              "von_km": null,
+              "bis_km": null,
+              "bauwerks_nr": null,
+              "lokalisation": "BÜ Straußfurt 4831 0024 - 4831 005",
+              "netzknoten": null,
+              "typ": null,
+              "kmh": null,
+              "abstand_m": 50.0,
+              "fahrauflage_wvz_polizei": "WVZ",
+              "hinweis": "Bahnübergang"
+            },
+            {
+              "autor": "Sachsen-Anhalt, . LSBB ST.",
+              "strasse": "B 180",
+              "von_km": null,
+              "bis_km": null,
+              "bauwerks_nr": "4034535-0",
+              "lokalisation": "Brücke über den Landgraben/ • Egeln • Abschn. 091 St. 3321 (4134091–4034070)",
+              "netzknoten": null,
+              "typ": "Br",
+              "kmh": null,
+              "abstand_m": 50.0,
+              "fahrauflage_wvz_polizei": "WVZ+Polizei",
+              "hinweis": "1. Fahrstreifen, StVO Z276, Sperren Gegenverkehr für LkW"
+            },
+            {
+              "autor": "Sachsen-Anhalt, . LSBB ST.",
+              "strasse": "L 46",
+              "von_km": null,
+              "bis_km": null,
+              "bauwerks_nr": "3934500-0",
+              "lokalisation": "Brücke über einen Graben/ • Domersleben • Abschn. 034 St. 3387 (3934034–3934031)",
+              "netzknoten": null,
+              "typ": "Br",
+              "kmh": null,
+              "abstand_m": 50.0,
+              "fahrauflage_wvz_polizei": "WVZ+Polizei",
+              "hinweis": "1. Fahrstreifen, StVO Z276, Sperren Gegenverkehr für LkW"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "rechtsbehelfsbelehrung": {
+    "gericht": "Stadt Friedrichshafen",
+    "postanschrift": null,
+    "hausanschrift": "Adenauerplatz 1, 88045 Friedrichshafen",
+    "frist": "innerhalb eines Monats nach Bekanntgabe"
+  }
+}
