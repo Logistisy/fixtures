@@ -1,0 +1,682 @@
+{
+  "bescheid_version": "20250299086_B_01",
+  "antrags_version": "20250299086_A_01",
+  "seiten_gesamt": 26,
+  "1_antragsteller": {
+    "firma": "SCHORER + WOLF Service GmbH",
+    "strasse": "Heisinger Straße 9",
+    "plz": "87437",
+    "ort": "Kempten",
+    "telefon": "01703747214",
+    "email": "oliver.vogel@schorer-wolf.de",
+    "transportverantwortlicher": {
+      "name": "Franz Leinfelder",
+      "telefon": "09090 962272",
+      "fax": null
+    },
+    "zur_verfuegung_von": {
+      "firma": "Franz Leinfelder Baumaschinen und Erdbewegungen GmbH",
+      "strasse": "Dorfstraße 5",
+      "plz": "86641",
+      "ort": "Rain"
+    },
+    "fax": null,
+    "geschaeftszeichen": null
+  },
+  "erlaubnis_genehmigungsbehoerde": {
+    "name": "Landkreis Donau-Ries",
+    "strasse": "Pflegstraße 2",
+    "plz": "86609",
+    "ort": "Donauwörth",
+    "sachbearbeiter": "Bauch, Michelle",
+    "telefon": "0906/74-6049",
+    "email": "Schwertransporte@lra-donau-ries.de",
+    "fax": null
+  },
+  "2_antrag": {
+    "art": "einzel",
+    "erlaubnis_29_3_stvo": true,
+    "ausnahmegenehmigungen_70_stvzo": [
+      "ROP-SG23-3614.8-1430-23-2, Regierung der Oberpfalz"
+    ],
+    "ausnahmegenehmigung_46_1_nr5_stvo": true,
+    "ausnahmegenehmigung_46_1_nr2_stvo": false
+  },
+  "3_geltungsdauer": {
+    "beantragt_von": "2025-10-16",
+    "beantragt_bis": "2025-11-15",
+    "genehmigt_von": "2025-10-17",
+    "genehmigt_bis": "2025-11-15",
+    "wie_beantragt": false,
+    "fahrten_anzahl": 1
+  },
+  "4_ladung": {
+    "beschreibung": "Baumaschine",
+    "laenge_m": 21,
+    "breite_m": 3,
+    "hoehe_m": 3.62,
+    "masse_t": 56.7,
+    "unteilbar": false,
+    "unteilbar_begruendung_liegt_bei": false,
+    "asymmetrisch": false,
+    "asymmetrisch_skizze_liegt_bei": false
+  },
+  "5_fahrzeuge": {
+    "kraftfahrzeug": {
+      "art": "Sattelzugmaschine",
+      "fin": "YV2R0P0D4JB842404",
+      "kennzeichen": "DON-LF 750"
+    },
+    "anhaenger": {
+      "art": "Sattelanhänger",
+      "fin": "WG0STZV43P0042334",
+      "kennzeichen": "DON-LF 752"
+    },
+    "bauartbedingte_hoechstgeschwindigkeit_kmh": 80,
+    "ketten_oder_raupenlaufwerk": false
+  },
+  "6_masse_und_massen": {
+    "leerfahrt": {
+      "leermasse_zugfahrzeug_t": 10.65,
+      "leermasse_anhaenger_t": 28.75,
+      "gesamtlaenge_m": null,
+      "gesamtbreite_m": null,
+      "gesamthoehe_m": null,
+      "transporthoehe_absenkbar_m": null,
+      "gesamt_t": null
+    },
+    "lastfahrt": {
+      "gesamtlaenge_m": 28.7,
+      "gesamtbreite_m": 3,
+      "gesamthoehe_m": 4.15,
+      "leermasse_zugfahrzeug_t": 10.65,
+      "leermasse_anhaenger_t": 28.75,
+      "gesamt_t": 96.1,
+      "transporthoehe_absenkbar_m": null
+    },
+    "ladung_ragt_ueber": {
+      "nach_hinten_m": 4,
+      "nach_rechts_m": 0.13,
+      "nach_links_m": 0.13,
+      "nach_vorn_m": null
+    },
+    "abstand_letzte_achse_bis_ladungsende_m": 4.65,
+    "maximale_breite_beginnt_in_hoehe_m": null
+  },
+  "7_leerfahrt_achsen": {
+    "reifenbreite_max_achslast": null,
+    "spurweite_aussen": null,
+    "achsen": []
+  },
+  "8_lastfahrt_achsen": {
+    "achsen": [
+      {
+        "nr": 1,
+        "achslast_t": 7.5,
+        "raeder_je_achse": 2,
+        "achsabstand_m": null
+      },
+      {
+        "nr": 2,
+        "achslast_t": 10,
+        "achsabstand_m": 3.2,
+        "raeder_je_achse": 4
+      },
+      {
+        "nr": 3,
+        "achslast_t": 10,
+        "achsabstand_m": 1.37,
+        "raeder_je_achse": 4
+      },
+      {
+        "nr": 4,
+        "achslast_t": 11.3,
+        "achsabstand_m": 2.72,
+        "raeder_je_achse": 4
+      },
+      {
+        "nr": 5,
+        "achslast_t": 11.3,
+        "achsabstand_m": 1.51,
+        "raeder_je_achse": 4
+      },
+      {
+        "nr": 6,
+        "achslast_t": 11.5,
+        "achsabstand_m": 9.4,
+        "raeder_je_achse": 4
+      },
+      {
+        "nr": 7,
+        "achslast_t": 11.5,
+        "achsabstand_m": 1.51,
+        "raeder_je_achse": 4
+      },
+      {
+        "nr": 8,
+        "achslast_t": 11.5,
+        "achsabstand_m": 1.51,
+        "raeder_je_achse": 4
+      },
+      {
+        "nr": 9,
+        "achslast_t": 11.5,
+        "achsabstand_m": 1.51,
+        "raeder_je_achse": 4
+      }
+    ],
+    "reifenbreite_max_achslast": null,
+    "spurweite_aussen": null
+  },
+  "9_fahrtwege": [
+    {
+      "fahrtweg_nr": 1,
+      "fahrtwegteile": [
+        {
+          "teil_nr": "1.1",
+          "art": "Lastfahrt",
+          "start": {
+            "plz": "88480",
+            "ort": "Achstetten",
+            "strasse": "Tafeläcker 1",
+            "zusatz": "Kieswerk Achstetten"
+          },
+          "ziel": {
+            "plz": "86682",
+            "ort": "Genderkingen",
+            "strasse": "Gewerbegebiet Neuteile 6A",
+            "zusatz": "Lagerplatz Genderkingen"
+          },
+          "strecke": "Tafeläcker - K7521 - K7522 Ulmer Straße - K7522 - K7374 - B311 - B30 - Dreieck Neu-Ulm - B28 - Dreieck Hittistetten - A7 - AK Ulm/Elchingen - A8 - AS Augsburg-West - B2 - DON29 - Gewerbegebiet Neuteile"
+        }
+      ]
+    }
+  ],
+  "10_antragsrelevante_mitteilungen": {
+    "freitext": "Die SCHORER + WOLF Service GmbH beantragt diesen Bescheid als Genehmigungsservice zur Verfügung der oben genannten Firma.\nDie Vollmacht und Haftungserklärung befinden sich im Anhang (Unsere Haftungserklärung umfasst ebenfalls den für Sie relevanten Mustertext aus dem VEMAGS-Antrag Punkt 12).\nRückfragen bitte immer an Oliver Vogel (0170 3747214, oliver.vogel@schorer-wolf.de).\nRechnungsstellung bitte immer auf: SCHORER + WOLF Service GmbH, Heisinger Str. 9, 87437 Kempten.\nVielen Dank.",
+    "referenz_antragsidenten": []
+  },
+  "11_nachweise": {
+    "nachweis_liegt_bei": false,
+    "begruendung": "keine Schienen- oder Wasserwege zur Verfügung stehen."
+  },
+  "bescheid": {
+    "fahrtweg": "geändert",
+    "geltungsdauer_wie_beantragt": false,
+    "geltungsdauer_von": "2025-10-17",
+    "geltungsdauer_bis": "2025-11-15",
+    "behoerde": "Donau-Ries, LK",
+    "behoerde_strasse": "Pflegstraße 2",
+    "behoerde_plz": "86609",
+    "behoerde_ort": "Donauwörth",
+    "datum": "2025-10-17",
+    "kostenentscheidung": {
+      "gebuehren_eur": null,
+      "auslagen_eur": null,
+      "gesamtbetrag_eur": null
+    }
+  },
+  "anlage_2_auflagenkatalog": {
+    "geltungsbereich_von": "2025-10-17",
+    "geltungsbereich_bis": "2025-11-15",
+    "auflagen_gesamt": [
+      {
+        "stichwort": "Lastfahrt",
+        "rgst_nr": "10",
+        "auflage": "Nachstehende Auflagen gelten für die Lastfahrt:"
+      },
+      {
+        "stichwort": "Fahrtweg",
+        "rgst_nr": "12",
+        "auflage": "In Abweichung von dem beantragten Fahrtweg wird nachstehender Fahrtweg festgesetzt: 1.1: ...K 7374 - Auffahrt auf B 311 neu/Querspange - B 311 neu - AS Dellmensingen - B 30 - Dreieck Neu-Ulm - B28…"
+      },
+      {
+        "stichwort": "Fahrauflagen bei Fahrzeug mit WVZ-Anlage",
+        "rgst_nr": "22",
+        "auflage": "Das Befahren von Brücken, Unterführungen, Baustellen und lastbeschränkten Strecken sowie die damit verbundenen Fahrstreifenwechsel und/oder das Setzen von Verkehrszeichen haben gemäß Anlagen zu erfolgen. 500 m vor Beginn des Auflagenbereiches sind die nach hinten wirkenden gelben Blinklichter einzuschalten und Zeichen 101 zu setzen. Sofern nach der jeweiligen Auflage ein Überholverbot mit Zeichen 276 bzw. 277 angeordnet ist, ist das entsprechende Zeichen 200 m vor Beginn des Auflagenbereiches zu setzen. Gleichzeitig ist der jeweils angeordnete Fahrstreifenwechsel einzuleiten. Hierbei darf der nachfolgende Verkehr nicht gefährdet werden. Nach Verlassen des Auflagenbereiches und der Rückkehr zur ursprünglichen Fahrweise ist die WVZ-Anlage auszuschalten."
+      },
+      {
+        "stichwort": "Fahrzeiten außerhalb AB (Werktage)",
+        "rgst_nr": "34",
+        "auflage": "Folgende Strecken/Streckenabschnitte außerhalb von AB dürfen werktags jeweils von 06.00 Uhr bis 09.00 Uhr und von 16.00 Uhr bis 19.00 Uhr nicht befahren werden: - gesamte Strecke im Bereich Baden-Württemberg - Stadt Neu-Ulm - gesamte Strecke LK Augsburg - gesamte Strecke LK Donau-Ries"
+      },
+      {
+        "stichwort": "Weitere Auflagen",
+        "rgst_nr": "36",
+        "auflage": "Eine gültige Erlaubnis bzw. Ausnahmegenehmigung ist allen am Transport beteiligten Transportbegleitern zeitgerecht zur Transportvorbereitung auszuhändigen. Die Erlaubnis bzw. Ausnahmegenehmigung ist während des Transportes im Fahrzeug mitzuführen und zuständigen Personen auf Verlangen auszuhändigen."
+      },
+      {
+        "stichwort": "Weitere Auflagen",
+        "rgst_nr": "36",
+        "auflage": "Zur Gewährleistung eines sicheren und geordneten Verkehrsablaufs ist es bei anhörpflichtigen Transporten erforderlich, dass sich das zur Durchführung des Transports eingesetzte Personal untereinander hinreichend verständigen kann und sich eine dieser Personen hinreichend in deutscher Sprache verständigen kann."
+      },
+      {
+        "stichwort": "Weitere Auflagen",
+        "rgst_nr": "36",
+        "auflage": "Unterschreitungen der auf Seite 1 dieses Bescheides genannten Abmessungen der Ladung dürfen unter der Bedingung, dass die Lage der lotrechten Schwerpunktachse der Ladung in Bezug zum Fahrzeug bzw. der Fahrzeugkombination nicht verändert wird hinsichtlich - der Ladungslänge um maximal 200 cm - der Ladungsbreite um maximal 50 cm - der Ladungshöhe um maximal 25 cm unterschritten werden. Das auf Seite 1 dieses Bescheides angegebene Gesamtgewicht darf insgesamt um maximal 12,69 Tonnen unterschritten werden. Die im Bescheid angegebenen Achslasten dürfen jeweils um maximal 13,2 % unterschritten werden. Überschreitungen der im Bescheid genehmigten Werte sind nicht zulässig."
+      },
+      {
+        "stichwort": "Weitere Auflagen",
+        "rgst_nr": "36",
+        "auflage": "Vor Fahrtantritt ist der beantragte Fahrtweg eigenverantwortlich zu prüfen und ggf. mit einem geeigneten Fahrzeug abzufahren. Soweit durch den Transport Schäden entstehen, verpflichtet sich der Antragsteller für Schäden an Straßen und deren Einrichtungen sowie an Grundstücken aufzukommen und den Straßenbaulastträger von Ersatzansprüchen Dritter, die aus diesen Schäden hergeleitet werden, freizustellen. Er verzichtet ferner darauf Ansprüche daraus herzuleiten, dass die Straßenbeschaffenheit nicht den besonderen Anforderungen des Transportes entspricht."
+      },
+      {
+        "stichwort": "Baustelleninformation",
+        "rgst_nr": "37",
+        "auflage": "Vor Durchführung des Transportes sind durch den Transportdurchführenden die aktuellen Baustellen und Sperrungen zu prüfen unter: - https://verkehrsinfo-bw.de/baustellen (ohne Gewähr) - https://www.bayerninfo.de/ (ohne Anspruch auf Vollständigkeit) - https://verkehr.vz-deutschland.de/?layer=baustellen&zoom=6"
+      }
+    ],
+    "auflagen_pro_behoerde": [
+      {
+        "traeger": "Baden-Württemberg",
+        "behoerde": "Regierungspräsidium Tübingen",
+        "auflagen": [
+          {
+            "stichwort": "Lastfahrt",
+            "rgst_nr": "10",
+            "auflage": "Nachstehende Auflagen gelten für die Lastfahrt 1.1 in Baden-Württemberg außerhalb der Autobahn: ---Die Brückenauflagen sind zu beachten.---"
+          },
+          {
+            "stichwort": "Privates Begleitfahrzeug mit WVZ-Anlage",
+            "rgst_nr": "20",
+            "auflage": "Der Transport ist auf den nachfolgenden Strecken / Streckenabschnitten nach hinten durch ein privates Begleitfahrzeug mit WVZ-Anlage abzusichern: ---Gesamte Strecke gemäß der Brückenauflagen--- Das Zeichen 101 und die nach hinten wirkenden gelben Blinklichter sind stets einzuschalten: - bei Auffahrt auf die AB, - an Steigungen/Gefälle bei einer Geschwindigkeit von weniger als 40 km/h, - bei liegen gebliebenen Fahrzeugen und beim Halt oder - 200 m vor der ersten verkehrsregelnden Maßnahme und während der Durchfahrt von Baustellen. Auf AB und Straßen, die wie eine AB ausgebaut sind, ist bei Inanspruchnahme des 2. Fahrstreifens das Zeichen 276 StVO und bei 3 Fahrstreifen das Zeichen 277 StVO zu setzen. Zur Anzeige von Überholverboten (Zeichen 276 und 277 StVO) darf das private Begleitfahrzeug mit WVZ-Anlage straßenmittig bzw. links fahren."
+          },
+          {
+            "stichwort": "Beifahrer bei Fahrzeug mit WVZ-Anlage",
+            "rgst_nr": "21",
+            "auflage": "Der zu begleitende Schwertransport ist mit einem Beifahrer zu besetzen, der die angeordneten Auflagen sowie die Auflagenbereiche über Funk an das Begleitfahrzeug übermittelt."
+          }
+        ],
+        "fahrtwegteile": []
+      },
+      {
+        "traeger": "Baden-Württemberg",
+        "behoerde": "Stadt Ulm",
+        "auflagen": [
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "An allen Überführungsbauwerken, Verkehrs- und Versorgungseinrichtungen ist besonders vorsichtig zu fahren."
+          },
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "Bei Einschränkungen der lichten Höhe / Durchfahrtshöhe durch Arbeitsstellen an Bauwerken (z.B. Einsatz von Traggerüsten) ist die aktuell vorhandene Durchfahrtshöhe vor Durchführung des Transportes zu prüfen. Kann der erforderliche Sicherheitsabstand nicht eingehalten werden, darf der Transport nicht durchgeführt werden. Es ist ein entsprechender Einzelantrag zu stellen."
+          },
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "Baustellen sind stets eigenverantwortlich zu passieren. Diese Zustimmung gilt NICHT für baustellenbedingte Umleitungen!"
+          }
+        ],
+        "fahrtwegteile": []
+      },
+      {
+        "traeger": "Bayern, Freistaat - Bayerisches Staatsministerium des Innern",
+        "behoerde": "Staatliches Bauamt Krumbach",
+        "auflagen": [
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "Während des Transports ist für den gesamten Fahrtweg sicherzustellen, dass sich kein weiterer Schwertransport gleichzeitig auf einem Bauwerk befindet. Dies ist durch Abstandsregelung für Schwertransporte in gleicher Fahrtrichtung und insbesondere bei langen Brücken für entgegenkommende Schwertransporte durch eine vorausschauende Fahrweise zu gewährleisten!"
+          },
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "Diese Stellungnahme gilt nur auf dem berechneten Fahrtweg und ist nicht mit anderen streckenbezogenen Einzel-, Kurzzeit- oder Dauergenehmigungen kombinierbar. Eine Zwischenauffahrt bzw. Zwischenabfahrt ist nicht gestattet. Fahrten über die hier berechneten Strecken hinaus sind gesondert unter Angabe des vollständigen Fahrtweges zu beantragen."
+          }
+        ],
+        "fahrtwegteile": []
+      },
+      {
+        "traeger": "Bayern, Freistaat - Bayerisches Staatsministerium des Innern",
+        "behoerde": "Landratsamt Neu-Ulm",
+        "auflagen": [
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "Wurden vom Staatlichen Bauamt Krumbach Auflagen zum Befahren der Brücke B28 über DB/FW in Senden erteilt, sind diese zu beachten."
+          }
+        ],
+        "fahrtwegteile": []
+      },
+      {
+        "traeger": "Bayern, Freistaat - Bayerisches Staatsministerium des Innern",
+        "behoerde": "Große Kreisstadt Neu-Ulm",
+        "auflagen": [
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "Bitte auch das LA Neu-Ulm und StBA Krumbach hören!"
+          },
+          {
+            "stichwort": "Privates Begleitfahrzeug mit WVZ-Anlage",
+            "rgst_nr": "20",
+            "auflage": "Der Transport ist nach hinten durch ein privates Begleitfahrzeug mit WVZ-Anlage abzusichern. Das Zeichen 101 und die nach hinten wirkenden gelben Blinklichter sind stets einzuschalten: - bei Auffahrt auf die AB, - an Steigungen/Gefälle bei einer Geschwindigkeit von weniger als 40 km/h, - bei liegen gebliebenen Fahrzeugen und beim Halt oder - 200 m vor der ersten verkehrsregelnden Maßnahme und während der Durchfahrt von Baustellen. Auf AB und Straßen, die wie eine AB ausgebaut sind, ist bei Inanspruchnahme des 2. Fahrstreifens das Zeichen 276 StVO und bei 3 Fahrstreifen das Zeichen 277 StVO zu setzen. Zur Anzeige von Überholverboten (Zeichen 276 und 277 StVO) darf das private Begleitfahrzeug mit WVZ-Anlage straßenmittig bzw. links fahren."
+          },
+          {
+            "stichwort": "Fahrzeiten auf AB (Wochenende)",
+            "rgst_nr": "30",
+            "auflage": "Die AB/AB-Streckenabschnitte dürfen nur in der Zeit von Sonntag, 22.00 Uhr, bis Samstag, 06.00 Uhr, benutzt werden."
+          },
+          {
+            "stichwort": "Fahrzeiten auf AB (Werktage ohne Samstag)",
+            "rgst_nr": "32",
+            "auflage": "Die folgenden AB/AB-Streckenabschnitte dürfen Montag bis Freitag jeweils von 6.00 Uhr bis 9.00 Uhr und von jeweils 16.00 Uhr bis 19.00 Uhr nicht befahren werden."
+          },
+          {
+            "stichwort": "Fahrzeiten außerhalb AB (Wochenende)",
+            "rgst_nr": "33",
+            "auflage": "Die Strecken / Streckenabschnitte außerhalb von AB dürfen in der Zeit von Sonntag, 22.00 Uhr, bis Samstag, 06.00 Uhr, benutzt werden."
+          },
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "Aufgrund der Baustellensituation bis Ende 2028 im Bereich der B 28/B 10 Adenauerbrücke FR Ulm (Neubau) ab dem AD Neu-Ulm kann es zu Änderungen in der Verkehrsführung geben. Vor Fahrtantritt ist der Fahrtweg daher auf Befahrbarkeit zu prüfen ggf. ist eine Änderung zu beantragen!"
+          }
+        ],
+        "fahrtwegteile": []
+      },
+      {
+        "traeger": "Bundesrepublik Deutschland",
+        "behoerde": "Die Autobahn GmbH des Bundes - Zentraler Zugangspunkt (ZZP)",
+        "auflagen": [
+          {
+            "stichwort": "keine Konvoifahrt",
+            "rgst_nr": "05",
+            "auflage": "Es darf nicht im Konvoi gefahren werden."
+          },
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "Diese Stellungnahme beinhaltet keine Ausnahmegenehmigung von Verboten oder Beschränkungen, die durch Vorschriftszeichen (z.B.: 250;251;253;260;262;263;264;265;266;273;274;275;276;277;295), Richtzeichen (z.B.: 330.1; 331.1) oder Verkehrseinrichtungen (z.B.: 605; 628; 629) erlassen sind."
+          },
+          {
+            "stichwort": "Lastfahrt",
+            "rgst_nr": "10",
+            "auflage": "NL Südbayern"
+          },
+          {
+            "stichwort": "Lastfahrt",
+            "rgst_nr": "10",
+            "auflage": "Nachstehende Auflagen gelten für die Lastfahrt: Fahrtwegteil 1.1 - Die Autobahn, NL Südbayern. Berechneter Fahrtweg / Geltungsbereich Strecke: AD Hittistetten - A7 - Kreuz Ulm/Elchingen - (BY/BW)- A8 - AK Augsburg-West"
+          },
+          {
+            "stichwort": "private Begleitung auf Teilstrecken (ohne WVZ-Anlage)",
+            "rgst_nr": "18",
+            "auflage": "Zur Absicherung des Transportes ist nach hinten ein privates Begleitfahrzeug mit Kennleuchten für gelbes Blinklicht (Rundumlicht) auf folgenden Teilstrecken erforderlich: - siehe Anlage 3. Das Transportfahrzeug und das private Begleitfahrzeug müssen mit Funk ausgestattet sein."
+          },
+          {
+            "stichwort": "Privates Begleitfahrzeug mit WVZ-Anlage",
+            "rgst_nr": "20",
+            "auflage": "Der Transport ist auf den nachfolgenden Strecken / Streckenabschnitten nach hinten durch ein privates Begleitfahrzeug mit WVZ-Anlage abzusichern: - siehe Anlage 3. Das Zeichen 101 und die nach hinten wirkenden gelben Blinklichter sind stets einzuschalten: - bei Auffahrt auf die AB, - an Steigungen/Gefälle bei einer Geschwindigkeit von weniger als 40 km/h, - bei liegen gebliebenen Fahrzeugen und beim Halt oder - 200 m vor der ersten verkehrsregelnden Maßnahme und während der Durchfahrt von Baustellen. Auf AB und Straßen, die wie eine AB ausgebaut sind, ist bei Inanspruchnahme des 2. Fahrstreifens das Zeichen 276 StVO und bei 3 Fahrstreifen das Zeichen 277 StVO zu setzen. Zur Anzeige von Überholverboten (Zeichen 276 und 277 StVO) darf das private Begleitfahrzeug mit WVZ-Anlage straßenmittig bzw. links fahren."
+          },
+          {
+            "stichwort": "Fahrzeiten auf AB (Wochenende)",
+            "rgst_nr": "30",
+            "auflage": "Die folgenden AB/AB-Streckenabschnitte dürfen nur in der Zeit von Sonntag, 22.00 Uhr, bis Samstag, 06.00 Uhr, benutzt werden: bei Streckenauflagen mit WVZ, siehe Anlage 3"
+          },
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "Die genaue Örtlichkeit der Fahrauflagen gem. Anlage 3 kann online unter https://www.autobahn.de/fuer-unternehmen/gst-viewer unter Angabe der ersten sieben Ziffern der Bauwerksnummer gefunden werden. Zusätzlich erhalten Sie unter dieser Adresse auch weiterführende Informationen zu Niederlassungsgrenzen sowie Straßennetzdaten mit ASB-Bezug."
+          }
+        ],
+        "fahrtwegteile": []
+      },
+      {
+        "traeger": "Bayern, Freistaat - Bayerisches Staatsministerium des Innern",
+        "behoerde": "Staatliches Bauamt Augsburg",
+        "auflagen": [
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "Während des Transports ist für den gesamten Fahrtweg sicherzustellen, dass sich kein weiterer Schwertransport gleichzeitig auf einem Bauwerk befindet. Dies ist durch Abstandsregelung für Schwertransporte in gleicher Fahrtrichtung und insbesondere bei langen Brücken für entgegenkommende Schwertransporte durch eine vorausschauende Fahrweise zu gewährleisten!"
+          },
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "Diese Stellungnahme gilt nur auf dem berechneten Fahrtweg und ist nicht mit anderen streckenbezogenen Einzel-, Kurzzeit- oder Dauergenehmigungen kombinierbar. Eine Zwischenauffahrt bzw. Zwischenabfahrt ist nicht gestattet. Fahrten über die hier berechneten Strecken hinaus sind gesondert unter Angabe des vollständigen Fahrtweges zu beantragen."
+          }
+        ],
+        "fahrtwegteile": []
+      },
+      {
+        "traeger": "Bayern, Freistaat - Bayerisches Staatsministerium des Innern",
+        "behoerde": "Landkreis Augsburg - Dienststelle Gersthofen",
+        "auflagen": [
+          {
+            "stichwort": "Privates Begleitfahrzeug mit WVZ-Anlage",
+            "rgst_nr": "20",
+            "auflage": "Der Transport ist auf den nachfolgenden Strecken / Streckenabschnitten nach hinten durch ein privates Begleitfahrzeug mit WVZ-Anlage abzusichern: Gesamte Strecke. Das WVZ hat das VZ 101 StVO zu zeigen. Das Zeichen 101 und die nach hinten wirkenden gelben Blinklichter sind stets einzuschalten: - bei Auffahrt auf die AB, - an Steigungen/Gefälle bei einer Geschwindigkeit von weniger als 40 km/h, - bei liegen gebliebenen Fahrzeugen und beim Halt oder - 200 m vor der ersten verkehrsregelnden Maßnahme und während der Durchfahrt von Baustellen. Auf AB und Straßen, die wie eine AB ausgebaut sind, ist bei Inanspruchnahme des 2. Fahrstreifens das Zeichen 276 StVO und bei 3 Fahrstreifen das Zeichen 277 StVO zu setzen. Zur Anzeige von Überholverboten (Zeichen 276 und 277 StVO) darf das private Begleitfahrzeug mit WVZ-Anlage straßenmittig bzw. links fahren."
+          }
+        ],
+        "fahrtwegteile": []
+      },
+      {
+        "traeger": "Bayern, Freistaat - Bayerisches Staatsministerium des Innern",
+        "behoerde": "Landkreis Donau-Ries",
+        "auflagen": [
+          {
+            "stichwort": "Privates Begleitfahrzeug mit WVZ-Anlage",
+            "rgst_nr": "20",
+            "auflage": "Der Transport ist auf den nachfolgenden Strecken / Streckenabschnitten nach hinten durch ein privates Begleitfahrzeug mit WVZ-Anlage abzusichern: siehe Fahrauflagen LK Donau-Ries. Das Zeichen 101 und die nach hinten wirkenden gelben Blinklichter sind stets einzuschalten: - bei Auffahrt auf die AB, - an Steigungen/Gefälle bei einer Geschwindigkeit von weniger als 40 km/h, - bei liegen gebliebenen Fahrzeugen und beim Halt, - 200 m vor der ersten verkehrsregelnden Maßnahme und während der Durchfahrt von Baustellen oder - auf AB und Kraftfahrstraßen wenn durch Fahrauflage mit einer Geschwindigkeit von weniger als 60 km/h (z.B. bei einer Brücke) gefahren werden muss. Auf AB und Straßen, die wie eine AB ausgebaut sind, ist bei Inanspruchnahme des 2. Fahrstreifens das Zeichen 276 StVO und bei 3 Fahrstreifen das Zeichen 277 StVO zu setzen. Hierbei darf das private Begleitfahrzeug mit WVZ-Anlage zur Anzeige von Überholverboten (Zeichen 276 und 277 StVO) straßenmittig bzw. links fahren. Bei Abbiegevorgängen an Kreuzungen und Einmündungen ist 200 m vorher das Zeichen 276 \"Überholverbot\" zu setzen."
+          },
+          {
+            "stichwort": "Anmeldefrist für Polizeibegleitung",
+            "rgst_nr": "29",
+            "auflage": "Der Erlaubnis-/Genehmigungsinhaber hat unter Angabe der Transportdaten die Polizeibegleitung/polizeiliche Maßnahmen frühzeitig, d.h. mindestens 48 Stunden vor Transportbeginn anzumelden bei: PP Schwaben Nord, Tel.: 0821/323-1410, Fax: 0821/323-1450"
+          },
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "Verkehrsrechtliche Anordnung: Der Transport ist auf den nachfolgenden Strecken / Streckenabschnitten durch zwei vorausfahrende, private Begleitfahrzeuge der Stufe 4 (BF-4, Begleitfahrzeug 1+2 im Verkehrszeichenplan) und ein nachfolgendes Begleitfahrzeug mindestens der Stufe 3 (Begleitfahrzeug 3 im Verkehrszeichenplan) (gem. Merkblatt über die Ausrüstung von privaten Begleitfahrzeugen zur Absicherung von Großraum- und Schwertransporten in der aktuell gültigen Fassung) an Stelle der Polizei abzusichern: - Punktuelle Maßnahme zum Befahren mehrerer Brücken: Die Brücken sind aufgrund des Transportgewichts nur unter Ausschluss des Gegenverkehrs, also in Alleinfahrt (Fahrauflage 16), befahrbar, siehe Stellungnahme LRA Donau-Ries. Die punktuelle Maßnahmen werden durch die BF-4 Fahrzeuge durchgeführt. Der beigefügte Plan \"Plan 6.1a\" ist hierbei 1:1 umzusetzen; die Verwaltungshelfer haben keinen Ermessenspielraum. Eine gültige Erlaubnis- bzw. Ausnahmegenehmigung zum durchzuführenden Transport ist allen am Transport beteiligten Transportbegleitern zeitgerecht zur Transportvorbereitung auszuhändigen. Die Erlaubnis bzw. Ausnahmegenehmigung ist während der Durchführung im Fahrzeug mitzuführen und zuständigen Personen auf Verlangen auszuhändigen. Während der Transportdurchführung sind für alle angeordnete Begleitfahrzeuge der Stufe 4 \"Geprüfte Transportbegleiter BF 4\" einzusetzen. Die Schulung zum Transportbegleiter ist mit einer gültigen Bescheinigung nachzuweisen. Der Transport ist bei der zuständigen Polizeidienststelle (siehe RGST-Auflage 29), frühzeitig d.h. mindestens 48 Stunden vor Transportbeginn anzumelden. Die Bereitstellung der einsatzbereiten Begleitfahrzeuge ist der zuständigen Polizeidienststelle (siehe RGST-Auflage 29) unter Angabe der Begleitfirma, der Mobilfunkverbindung des Begleiters / der Begleiter und VEMAGS-Nummer ca. 1 Stunde vor Transportbeginn zu melden. Die beauftragten Begleiter haben vor Transportbeginn das Transportfahrzeug / die Transportfahrzeuge auf offensichtliche technische Mängel und Abweichungen zum Erlaubnis bzw. Genehmigungsbescheid zu überprüfen. Die Überprüfung kann auch einvernehmlich auf einen - oder mehrere Begleiter übertragen werden. Es ist sicherzustellen, dass zwischen Schwertransport, den Begleitfahrzeugen und evtl. weiteren am Transport beteiligten Fahrzeugen Funkverbindung besteht."
+          }
+        ],
+        "fahrtwegteile": []
+      }
+    ]
+  },
+  "anlage_3_fahrauflagen": [
+    {
+      "fahrtweg_nr": 1,
+      "fahrtwegteile": [
+        {
+          "teil_nr": "1.1",
+          "von": "88480 Achstetten",
+          "bis": "86682 Genderkingen",
+          "auflagen": [
+            {
+              "autor": "Bayern, STBA Krumbach",
+              "strasse": "B 30",
+              "bauwerks_nr": "7625595-2",
+              "lokalisation": "Brücke B30 über St 2021 bei Wiblingen - Brücke B 30 Überbau Südseite",
+              "netzknoten": "7625075E - 7625075F",
+              "typ": "Br",
+              "abstand_m": 50.0,
+              "fahrauflage_wvz_polizei": "WVZ",
+              "hinweis": "Abschnitt: B30 LGR Baden-Württemberg (E - F); Station von: 0.003; Position des GST: 1.FS; Zeichen-StVO: 277;",
+              "von_km": null,
+              "bis_km": null,
+              "kmh": null
+            },
+            {
+              "autor": "Bayern, STBA Krumbach",
+              "strasse": "B 28",
+              "bauwerks_nr": "7626666-1",
+              "lokalisation": "Brücke B28 über den Illerkanal bei Ludwigsfeld - Brücke B28 über Illerkanal bei Ludwigsfeld (West)",
+              "netzknoten": "7625207O - 7626212O",
+              "typ": "Br",
+              "abstand_m": 50.0,
+              "fahrauflage_wvz_polizei": "WVZ",
+              "hinweis": "Abschnitt: 120; Station von: 2.195; Position des GST: 1.FS; Zeichen-StVO: 277;",
+              "von_km": null,
+              "bis_km": null,
+              "kmh": null
+            },
+            {
+              "autor": "Bayern, STBA Krumbach",
+              "strasse": "B 28",
+              "bauwerks_nr": "7626671-1",
+              "lokalisation": "Brücke B28 über DB/FW in Senden (Süden)",
+              "netzknoten": "7626212O - 7626222F",
+              "typ": "Br",
+              "abstand_m": 50.0,
+              "fahrauflage_wvz_polizei": "WVZ",
+              "hinweis": "Abschnitt: 140; Station von: 0.659; Position des GST: 1.FS; Zeichen-StVO: 277;",
+              "von_km": null,
+              "bis_km": null,
+              "kmh": null
+            },
+            {
+              "autor": "Deutschland, Autobahn GmbH (d)ZZP",
+              "strasse": "A7",
+              "von_km": 841.778,
+              "bis_km": 841.704,
+              "bauwerks_nr": "7526808-2",
+              "lokalisation": "Brücke A7 über B10 Nersingen - NU (AS Nersingen) - Brücke Überbau FR Würzburg ( 5-3 )",
+              "netzknoten": "7626222O - 7526452O",
+              "typ": "Br",
+              "kmh": 25.0,
+              "hinweis": "Pos.: 1.FS Privates Begleitfahrzeug",
+              "abstand_m": null,
+              "fahrauflage_wvz_polizei": null
+            },
+            {
+              "autor": "Deutschland, Autobahn GmbH (d)ZZP",
+              "strasse": "A8",
+              "von_km": 105.369,
+              "bis_km": 104.968,
+              "bauwerks_nr": "7527669-1",
+              "lokalisation": "Brücke A8 über Donau bei Leipheim - Brücke Überbau FR München (156 )",
+              "netzknoten": "7527001O - 7527213O",
+              "typ": "Br",
+              "kmh": 25.0,
+              "hinweis": "Pos.: 1.FS Privates Begleitfahrzeug",
+              "abstand_m": null,
+              "fahrauflage_wvz_polizei": null
+            },
+            {
+              "autor": "Deutschland, Autobahn GmbH (d)ZZP",
+              "strasse": "A8",
+              "von_km": 70.483,
+              "bis_km": 70.432,
+              "bauwerks_nr": "7529669-1",
+              "lokalisation": "Brücke A8 über FW Auerbach - Wollbach - Brücke Überbau FR München (100 )",
+              "netzknoten": "7529015O - 7530013O",
+              "typ": "Br",
+              "kmh": 50.0,
+              "fahrauflage_wvz_polizei": "WVZ",
+              "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
+              "abstand_m": null
+            },
+            {
+              "autor": "Deutschland, Autobahn GmbH (d)ZZP",
+              "strasse": "A8",
+              "von_km": 57.132,
+              "bis_km": 57.074,
+              "bauwerks_nr": "7530670-1",
+              "lokalisation": "Brücke A8 über Schmutter bei Täfertingen - Brücke Überbau FR München ( 89 )",
+              "netzknoten": "7530013O - 7531042O",
+              "typ": "Br",
+              "kmh": 25.0,
+              "hinweis": "Pos.: 1.FS Privates Begleitfahrzeug",
+              "abstand_m": null,
+              "fahrauflage_wvz_polizei": null
+            },
+            {
+              "autor": "Bayern, STBA Augsburg",
+              "strasse": "B 2",
+              "bauwerks_nr": "7431519-1",
+              "lokalisation": "Brücke B2 über die DB und FW - TBW 1 Brücke B2 über DB und FW",
+              "netzknoten": "7431024O - 7431026O",
+              "typ": "Br",
+              "kmh": 25.0,
+              "hinweis": "Abschnitt: 1780; Station von: 0.665; Position des GST: 1.FS; Begleitung: Privates Begleitfahrzeug;",
+              "von_km": null,
+              "bis_km": null,
+              "abstand_m": null,
+              "fahrauflage_wvz_polizei": null
+            },
+            {
+              "autor": "Bayern, STBA Augsburg",
+              "strasse": "B 2",
+              "bauwerks_nr": "7431525-0",
+              "lokalisation": "Brücke B 2 über DB Augsburg-Nürnberg",
+              "netzknoten": "7431028O - 7431023O",
+              "typ": "Br",
+              "kmh": 25.0,
+              "hinweis": "Abschnitt: 1820; Station von: 0.610; Station bis: 0.706; Position des GST: 1.FS; Begleitung: Privates Begleitfahrzeug;",
+              "von_km": null,
+              "bis_km": null,
+              "abstand_m": null,
+              "fahrauflage_wvz_polizei": null
+            },
+            {
+              "autor": "Bayern, STBA Augsburg",
+              "strasse": "B 2",
+              "bauwerks_nr": "7230500-2",
+              "lokalisation": "Brücke K DON29 über die B2 - TBW 2 Überbau Nord FR Nordheim",
+              "netzknoten": "7230012E - 7230012K",
+              "typ": "Br",
+              "kmh": 50.0,
+              "fahrauflage_wvz_polizei": "WVZ",
+              "hinweis": "Abschnitt: B2 DON29 (E - K); Station von: 0.141; Position des GST: mittig; Zeichen-StVO: 276; Weitere besondere Maßnahmen: Achtung: Die Fahrauflage ist nur erforderlich, wenn das Hindernis bei der Auf- bzw. Abfahrt tatsächlich befahren wird.",
+              "von_km": null,
+              "bis_km": null,
+              "abstand_m": null
+            },
+            {
+              "autor": "Bayern, Donau-Ries, LK",
+              "strasse": "DON29",
+              "bauwerks_nr": "2904",
+              "lokalisation": "Flutgraben",
+              "typ": "Br",
+              "kmh": 15.0,
+              "abstand_m": 16,
+              "hinweis": "Abschnitt 120/ Station 2,095",
+              "von_km": null,
+              "bis_km": null,
+              "netzknoten": null,
+              "fahrauflage_wvz_polizei": null
+            },
+            {
+              "autor": "Bayern, Donau-Ries, LK",
+              "strasse": "DON29",
+              "bauwerks_nr": "2906",
+              "lokalisation": "Egelseebachbrücke öst. B2",
+              "typ": "Br",
+              "kmh": 15.0,
+              "abstand_m": 16,
+              "hinweis": "Abschnitt 120/ Station 0,792",
+              "von_km": null,
+              "bis_km": null,
+              "netzknoten": null,
+              "fahrauflage_wvz_polizei": null
+            },
+            {
+              "autor": "Bayern, Donau-Ries, LK",
+              "strasse": "DON 29",
+              "bauwerks_nr": "2905",
+              "lokalisation": "Egelseebachbrücke östl. B2",
+              "typ": "Br",
+              "kmh": 15.0,
+              "abstand_m": 16,
+              "hinweis": "Abschnitt 120/ Station 1,659",
+              "von_km": null,
+              "bis_km": null,
+              "netzknoten": null,
+              "fahrauflage_wvz_polizei": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "rechtsbehelfsbelehrung": {
+    "gericht": "Bayerisches Verwaltungsgericht in Augsburg",
+    "postanschrift": "86048 Augsburg, Postfach 112343",
+    "hausanschrift": "86152 Augsburg, Kornhausgasse 4",
+    "frist": "innerhalb eines Monats nach Bekanntgabe"
+  }
+}

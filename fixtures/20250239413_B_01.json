@@ -1,0 +1,453 @@
+{
+  "bescheid_version": "20250239413_B_01",
+  "antrags_version": "20250239413_A_01",
+  "antrag_vom": "2025-08-18",
+  "seiten_gesamt": 15,
+  "1_antragsteller": {
+    "firma": "Trans-Solution-Service, Inh. E.Schaarschmidt",
+    "strasse": "Ritterstraße 23",
+    "plz": "31737",
+    "ort": "Rinteln",
+    "telefon": "05751/40197-61",
+    "email": "erwin.schneider@trans-solution-service.de",
+    "geschaeftszeichen": "Besteller: Adrian Schwagmann",
+    "transportverantwortlicher": {
+      "name": "Adrian Schwagmann",
+      "telefon": "05751/40197-72",
+      "fax": "033843/50929"
+    },
+    "zur_verfuegung_von": {
+      "firma": "LiWooD Gesellschaft AG",
+      "strasse": "Rückertstraße 5",
+      "plz": "80336",
+      "ort": "München"
+    },
+    "fax": null
+  },
+  "erlaubnis_genehmigungsbehoerde": {
+    "name": "Polizei Hamburg - Verkehrsdirektion 12 - Transportgenehmigungsmanagement/Großveranstaltungen",
+    "strasse": "Stresemannstraße 341 - 347",
+    "plz": "22761",
+    "ort": "Hamburg",
+    "sachbearbeiter": "Kansky, Sofie",
+    "telefon": "040 4286 - 57369",
+    "email": "VD1-TGM@polizei.hamburg.de",
+    "fax": null
+  },
+  "2_antrag": {
+    "art": "kurzzeit",
+    "erlaubnis_29_3_stvo": true,
+    "ausnahmegenehmigungen_70_stvzo": [
+      "ROP-SG23-3614.8-1126-3-2, Regierung der Oberpfalz"
+    ],
+    "ausnahmegenehmigung_46_1_nr5_stvo": true,
+    "ausnahmegenehmigung_46_1_nr2_stvo": false
+  },
+  "3_geltungsdauer": {
+    "beantragt_von": "2025-08-19",
+    "beantragt_bis": "2025-11-18",
+    "genehmigt_von": "2025-08-21",
+    "genehmigt_bis": "2025-11-18",
+    "wie_beantragt": false,
+    "fahrten_anzahl": 20
+  },
+  "4_ladung": {
+    "beschreibung": "Modul",
+    "laenge_m": 7,
+    "breite_m": 3.28,
+    "hoehe_m": 3.2,
+    "masse_t": 17.9,
+    "unteilbar": false,
+    "unteilbar_begruendung_liegt_bei": false,
+    "asymmetrisch": false,
+    "asymmetrisch_skizze_liegt_bei": false
+  },
+  "5_fahrzeuge": {
+    "kraftfahrzeug": {
+      "art": "Sattelzugmaschine",
+      "fin": "WMA30XZZXGM707071",
+      "kennzeichen": "M-LW 432"
+    },
+    "anhaenger": {
+      "art": "Sattelauflieger",
+      "fin": "YAMT52XX6M0106795",
+      "kennzeichen": "M-LW 1148"
+    },
+    "bauartbedingte_hoechstgeschwindigkeit_kmh": 80,
+    "ketten_oder_raupenlaufwerk": false
+  },
+  "6_masse_und_massen": {
+    "leerfahrt": {
+      "leermasse_zugfahrzeug_t": 10.05,
+      "leermasse_anhaenger_t": 13.85,
+      "gesamtlaenge_m": null,
+      "gesamtbreite_m": null,
+      "gesamthoehe_m": null,
+      "transporthoehe_absenkbar_m": null,
+      "gesamt_t": null
+    },
+    "lastfahrt": {
+      "gesamtlaenge_m": 18.15,
+      "gesamtbreite_m": 3.28,
+      "gesamthoehe_m": 4.1,
+      "leermasse_zugfahrzeug_t": 10.05,
+      "leermasse_anhaenger_t": 13.85,
+      "gesamt_t": 41.8,
+      "transporthoehe_absenkbar_m": null
+    },
+    "ladung_ragt_ueber": {
+      "nach_vorn_m": null,
+      "nach_hinten_m": null,
+      "nach_rechts_m": null,
+      "nach_links_m": null
+    },
+    "abstand_letzte_achse_bis_ladungsende_m": null,
+    "maximale_breite_beginnt_in_hoehe_m": null
+  },
+  "7_leerfahrt_achsen": {
+    "reifenbreite_max_achslast": null,
+    "spurweite_aussen": null,
+    "achsen": []
+  },
+  "8_lastfahrt_achsen": {
+    "reifenbreite_max_achslast": null,
+    "spurweite_aussen": null,
+    "achsen": []
+  },
+  "9_fahrtwege": [
+    {
+      "fahrtweg_nr": 1,
+      "fahrtwegteile": [
+        {
+          "teil_nr": "1.1",
+          "art": "Lastfahrt",
+          "start": {
+            "plz": "22119",
+            "ort": "Hamburg",
+            "strasse": "Everlingweg 11A",
+            "zusatz": "Baustelle LiWood AG"
+          },
+          "ziel": {
+            "plz": "19258",
+            "ort": "Boizenburg/Elbe",
+            "strasse": "Fährweg 5",
+            "zusatz": "LiWood AG Produktionshalle"
+          },
+          "strecke": "Everlingweg - Legienstr. - Kattenstreet - Glinder Str. - AS Hamburg-Öjendorf - A24 - AS Schwarzenbek-Grande - B404 - B209 - Schwarzenbek - B209 - B5 - Lauenburg/Elbe - B5 - Am Elbberg - Hamburger Str. - Fährweg",
+          "richtung": null
+        },
+        {
+          "teil_nr": "1.2",
+          "art": "Lastfahrt",
+          "start": {
+            "plz": "19258",
+            "ort": "Boizenburg/Elbe",
+            "strasse": "Fährweg 5",
+            "zusatz": "LiWood AG Produktionshalle"
+          },
+          "ziel": {
+            "plz": "22119",
+            "ort": "Hamburg",
+            "strasse": "Everlingweg 11A",
+            "zusatz": "Baustelle LiWood AG"
+          },
+          "strecke": "Fährweg - Hamburger Str. - Am Elbberg - B5 - Lauenburg/Elbe - B5 - B209 - Schwarzenbek - B209 - B404 - AS Schwarzenbek-Grande - A24 - AS Hamburg-Öjendorf - Glinder Str. - Kattenstreet - Legienstr. - Everlingweg",
+          "richtung": null
+        }
+      ]
+    }
+  ],
+  "10_antragsrelevante_mitteilungen": {
+    "freitext": "Die Strecke wurde im Vorfeld geprüft.\nJJ",
+    "kommissionsnummer": null,
+    "referenz_antragsidenten": []
+  },
+  "11_nachweise": {
+    "nachweis_liegt_bei": false,
+    "begruendung": "kein Anschluß"
+  },
+  "bescheid": {
+    "fahrtweg": "geändert",
+    "geltungsdauer_wie_beantragt": false,
+    "geltungsdauer_von": "2025-08-21",
+    "geltungsdauer_bis": "2025-11-18",
+    "behoerde": "Hamburg, Stadt",
+    "behoerde_strasse": "Stresemannstraße 341 - 347",
+    "behoerde_plz": "22761",
+    "behoerde_ort": "Hamburg",
+    "datum": "2025-08-21",
+    "kostenentscheidung": {
+      "rechtsgrundlage": "§§ 1,2 und 4 der Gebührenordnung für Maßnahmen im Straßenverkehr (GebOSt)",
+      "gebuehrennummer": "263.1",
+      "anhang_gebuehrennummer": "263.1.1",
+      "gebuehren_eur": 360,
+      "auslagen_eur": 0,
+      "gesamtbetrag_eur": 360
+    }
+  },
+  "anlage_2_auflagenkatalog": {
+    "geltungsbereich_von": "2025-08-21",
+    "geltungsbereich_bis": "2025-11-18",
+    "auflagen_gesamt": [
+      {
+        "stichwort": "Fahrtweg",
+        "rgst_nr": "12",
+        "auflage": "In Abweichung von dem beantragten Fahrtweg wird nachstehender Fahrtweg festgesetzt:\nFWT 1.1: geändert\nEverlingweg - Legienstr. - Kattenstreet - Glinder Str. - AS Hamburg-Öjendorf - A 1 - AK HH-Ost - A24 - AS Schwarzenbek-Grande - B404 - B209 - Schwarzenbek - B209 - B5 - Lauenburg/Elbe - B5 - Am Elbberg - Hamburger Str. - Fährweg\nFWT 1.2: geändert\nFährweg - Hamburger Str. - Am Elbberg - B5 - Lauenburg/Elbe - B5 - B209 - Schwarzenbek - B209 - B404 - AS Schwarzenbek-Grande - A24 - AK HH-Ost - A 1 - AS Hamburg-Öjendorf - Glinder Str. - Kattenstreet - Legienstr. - Everlingweg"
+      }
+    ],
+    "auflagen_pro_behoerde": [
+      {
+        "traeger": "Freie und Hansestadt Hamburg",
+        "behoerde": "Polizei Hamburg - Verkehrsdirektion 12 - Transportgenehmigungsmanagement/Großveranstaltungen",
+        "auflagen": [
+          {
+            "stichwort": "keine Konvoifahrt",
+            "rgst_nr": "05",
+            "auflage": "Es darf nicht im Konvoi gefahren werden."
+          },
+          {
+            "stichwort": "Fahrzeiten außerhalb AB (Werktage)",
+            "rgst_nr": "34",
+            "auflage": "Folgende Strecken/Streckenabschnitte außerhalb von BAB dürfen Montag bis Freitag jeweils von 06.00 Uhr bis 09.00 Uhr und von 16.00 Uhr bis 19.00 Uhr nicht befahren werden: Gesamter Fahrtweg"
+          },
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "Das Wochenendfahrverbot gem. § 29 Absatz 3, Rd. Nummer 141 sowie das Fahrverbot gem. § 30 Absatz 1 ff. Straßenverkehrs-Ordnung, wird für den gesamten Geltungsbereich außerhalb der BAB aufgehoben."
+          },
+          {
+            "stichwort": "private Begleitung außerhalb der AB (ohne WVZ-Anlage)",
+            "rgst_nr": "17",
+            "auflage": "Zur Absicherung des Transportes ist ein privates Begleitfahrzeug mit Kennleuchten für gelbes Blinklicht (Rundumlicht) auf der gesamten Strecke außerhalb der BAB und auf Straßen, die nicht wie eine BAB ausgebaut sind, erforderlich. Auf Straßen mit einem Fahrstreifen ist das private Begleitfahrzeug nach vorne einzusetzen. Auf Straßen mit mehr als einem Fahrstreifen ist das private Begleitfahrzeug nach hinten einzusetzen. Das Transportfahrzeug und das private Begleitfahrzeug müssen mit Funk ausgestattet sein."
+          },
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "Im gesamten Stadtgebiet werden Bauarbeiten mit erheblichen Auswirkungen auf den Straßenverkehr ausgeführt. Die Zustimmung / Genehmigung zum beantragten Transport erfolgt nur unter der Voraussetzung, dass vom Antragsteller kurz vor Transportdurchführung die vorgeschriebene Strecke auf Befahrbarkeit überprüft wird."
+          },
+          {
+            "stichwort": "Baustelleninformation",
+            "rgst_nr": "37",
+            "auflage": "Im Hinblick auf die Allgemeine Auflage gem. RGST 2013 ist die Transportfirma verpflichtet, unmittelbar vor Transportbeginn Informationen zu Baustellen einzuholen. Die Behörde für Wirtschaft und Innovation Hamburg bietet hierzu aktuelle Informationen auf der Internetseite - http://www.hamburg.de. Weiterhin bietet die Hamburg Port Authority unter - https://www.hamburg-port-authority.de/de/info-port/traffic-tower - die Möglichkeit an, sich bezüglich Sperrungen im Hamburger Hafen zu informieren."
+          }
+        ],
+        "fahrtwegteile": []
+      },
+      {
+        "traeger": "Bundesrepublik Deutschland",
+        "behoerde": "Die Autobahn GmbH des Bundes, Niederlassung Nord",
+        "fahrtwegteile": [
+          {
+            "teil_nr": "1.1",
+            "strecke": "Hamburg-Öjendorf, Ast M-N, Station: 10 - A1 - Kreuz Hamburg-Ost- A24 - A24/B404, AS Schwarzenbek/Grande (Nr. 6), Ast A-E, Station: 637"
+          }
+        ],
+        "auflagen": [
+          {
+            "stichwort": "Lastfahrt",
+            "rgst_nr": "10",
+            "auflage": "Nachstehende Auflagen gelten für die Lastfahrt: Fahrtwegteil 1.1 - Die Autobahn, NL Nord. Berechneter Fahrtweg / Geltungsbereich Strecke: Hamburg-Öjendorf, Ast M-N, Station: 10 - A1 - Kreuz Hamburg-Ost- A24 - A24/B404, AS Schwarzenbek/Grande (Nr. 6), Ast A-E, Station: 637"
+          },
+          {
+            "stichwort": "keine Konvoifahrt",
+            "rgst_nr": "05",
+            "auflage": "Es darf nicht im Konvoi gefahren werden."
+          },
+          {
+            "stichwort": "Privates Begleitfahrzeug mit WVZ-Anlage",
+            "rgst_nr": "20",
+            "auflage": "Der Transport ist auf den nachfolgenden Strecken / Streckenabschnitten nach hinten durch ein privates Begleitfahrzeug mit WVZ-Anlage abzusichern: - im Bereich von Baustellen auf AB, sobald mehr als ein Fahrstreifen in GST-Fahrtrichtung zur Verfügung steht. Das Zeichen 101 und die nach hinten wirkenden gelben Blinklichter sind stets einzuschalten: - bei Auffahrt auf die AB, - an Steigungen/Gefälle bei einer Geschwindigkeit von weniger als 40 km/h, - bei liegen gebliebenen Fahrzeugen und beim Halt oder - 200 m vor der ersten verkehrsregelnden Maßnahme und während der Durchfahrt von Baustellen. Auf AB und Straßen, die wie eine AB ausgebaut sind, ist bei Inanspruchnahme des 2. Fahrstreifens das Zeichen 276 StVO und bei 3 Fahrstreifen das Zeichen 277 StVO zu setzen. Zur Anzeige von Überholverboten (Zeichen 276 und 277 StVO) darf das private Begleitfahrzeug mit WVZ-Anlage straßenmittig bzw. links fahren."
+          },
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "Hinweis im Bereich NL Nord: Vor Durchführung des Transportes und/oder bei einer baustellenbedingten Ablehnung sind durch den Transportdurchführenden die aktuellen Arbeitsstellen / Baustellen und Sperrungen zu prüfen unter: https://www.autobahn.de/fuer-unternehmen/regionale-besonderheiten (Arbeitsstellen / Baustellen längerer Dauer in ihrer Gesamtheit, inkl. aller Baustellenphasen und Durchfahrtsbreiten). Hinweis: Baustellen werden zur Durchführung von Großraum- und Schwertransporten grundsätzlich nicht beräumt. Weitere Rückfragen zu Arbeitsstellen/Baustellen können an gst-baustellen.nord@autobahn.de gerichtet werden."
+          },
+          {
+            "stichwort": "Baustelleninformation",
+            "rgst_nr": "37",
+            "auflage": "Vor Durchführung des Transportes sind durch den Transportdurchführenden die aktuellen Baustellen und Sperrungen unter https://verkehr.vz-deutschland.de/?layer=baustellen&zoom=6 zu prüfen."
+          },
+          {
+            "stichwort": "Lastfahrt",
+            "rgst_nr": "10",
+            "auflage": "Nachstehende Auflagen gelten für die Lastfahrt: Fahrtwegteil 1.2 - Die Autobahn, NL Nord. Berechneter Fahrtweg / Geltungsbereich Strecke: Beginn Grande Rtg. HH - A24 - Kreuz Hamburg-Ost- A1 - Hamburg-Öjendorf, Ast G-H, Station: 264"
+          },
+          {
+            "stichwort": "keine Konvoifahrt",
+            "rgst_nr": "05",
+            "auflage": "Es darf nicht im Konvoi gefahren werden."
+          },
+          {
+            "stichwort": "Fahrtweg",
+            "rgst_nr": "12",
+            "auflage": "In Abweichung von dem beantragten Fahrtweg wird nachstehender Fahrtweg festgesetzt: ...A24 - Kreuz Hamburg-Ost- A1 - AS Hamburg-Öjendorf - weiter wie beantragt ..."
+          },
+          {
+            "stichwort": "Privates Begleitfahrzeug mit WVZ-Anlage",
+            "rgst_nr": "20",
+            "auflage": "Der Transport ist auf den nachfolgenden Strecken / Streckenabschnitten nach hinten durch ein privates Begleitfahrzeug mit WVZ-Anlage abzusichern: - im Bereich von Baustellen auf AB, sobald mehr als ein Fahrstreifen in GST-Fahrtrichtung zur Verfügung steht. Das Zeichen 101 und die nach hinten wirkenden gelben Blinklichter sind stets einzuschalten: - bei Auffahrt auf die AB, - an Steigungen/Gefälle bei einer Geschwindigkeit von weniger als 40 km/h, - bei liegen gebliebenen Fahrzeugen und beim Halt oder - 200 m vor der ersten verkehrsregelnden Maßnahme und während der Durchfahrt von Baustellen. Auf AB und Straßen, die wie eine AB ausgebaut sind, ist bei Inanspruchnahme des 2. Fahrstreifens das Zeichen 276 StVO und bei 3 Fahrstreifen das Zeichen 277 StVO zu setzen. Zur Anzeige von Überholverboten (Zeichen 276 und 277 StVO) darf das private Begleitfahrzeug mit WVZ-Anlage straßenmittig bzw. links fahren."
+          },
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "Hinweis im Bereich NL Nord: Vor Durchführung des Transportes und/oder bei einer baustellenbedingten Ablehnung sind durch den Transportdurchführenden die aktuellen Arbeitsstellen / Baustellen und Sperrungen zu prüfen unter: https://www.autobahn.de/fuer-unternehmen/regionale-besonderheiten (Arbeitsstellen / Baustellen längerer Dauer in ihrer Gesamtheit, inkl. aller Baustellenphasen und Durchfahrtsbreiten). Hinweis: Baustellen werden zur Durchführung von Großraum- und Schwertransporten grundsätzlich nicht beräumt. Weitere Rückfragen zu Arbeitsstellen/Baustellen können an gst-baustellen.nord@autobahn.de gerichtet werden."
+          },
+          {
+            "stichwort": "Baustelleninformation",
+            "rgst_nr": "37",
+            "auflage": "Vor Durchführung des Transportes sind durch den Transportdurchführenden die aktuellen Baustellen und Sperrungen unter https://verkehr.vz-deutschland.de/?layer=baustellen&zoom=6 zu prüfen."
+          }
+        ]
+      },
+      {
+        "traeger": "Schleswig-Holstein",
+        "behoerde": "Landesbetrieb Straßenbau und Verkehr Schleswig-Holstein",
+        "auflagen": [
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "Beim Überqueren von Bahnübergängen im anhörungsfreien Bereich ist bei Bedarf durch Zuwarten auf eine Lücke im Verkehrsfluss sicherzustellen, dass im Bereich des Bahnübergangs auf einer Länge von 50m vor und hinter dem Bahnübergang kein Gegenverkehr stattfindet. Die Querung des Bahnübergangs darf nur im Alleingang unter Ausschluss des gesamten Gegenverkehrs erfolgen. Das Überqueren des Bahnübergangs muss mit einer Mindesträumgeschwindigkeit von 20 km/h ohne Rangieren erfolgen. Beim Befahren des Bahnübergangs an elektrifizierten Strecken muss sichergestellt sein, dass sich keine Personen auf dem Fahrzeug befinden, noch Gegenstände, Fahrzeugteile (z. B. Antennen) oder Ladungsteile über die zugelassene Fahrzeughöhe von 4,50 m hinausragen. Auch etwaige Begleitfahrzeuge dürfen auf dem Bahnübergang nicht zum Stehen kommen."
+          },
+          {
+            "stichwort": "Baustelleninformation",
+            "rgst_nr": "37",
+            "auflage": "Informationen zu Baustellen in Schleswig-Holstein finden sie unter https://danord.gdi-sh.de/viewer/resources/apps/lbvsh_baustelleninfos"
+          }
+        ],
+        "fahrtwegteile": []
+      },
+      {
+        "traeger": "Schleswig-Holstein",
+        "behoerde": "LBV-SH, Niederlassung Lübeck",
+        "auflagen": [
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "Nachstehende Auflagen gelten für FW 1.1 und 1.2:"
+          },
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "Die hier zuständigen Meistereien müssen mindestens drei Tage vor Durchführung des Transportes kontaktiert werden, um sich über etwaige Arbeitsstellen, Einschränkungen und Vollsperrungen kürzerer Dauer zu informieren. Bitte richten Sie ihre Anfragen ausschließlich Telefonisch unter den nachfolgenden Kontaktdaten an die relevanten Meistereien. Servicezeiten: Mo.: 9:00 - 14:00, Di.: 9:00 - 14:00, Mi.: 9:00 - 14:00, Do.: 9:00 - 14:00, Fr.: 9:00 - 12:00"
+          },
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "SM Grande - Tel.: 04154/86020"
+          },
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "SM Breitenfelde - Tel.: 04542/85400"
+          }
+        ],
+        "fahrtwegteile": []
+      },
+      {
+        "traeger": "Schleswig-Holstein",
+        "behoerde": "GDWS Standort Magdeburg, WSA Elbe Standort Lauenburg",
+        "auflagen": [
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "Fahrtwegteil 1.1 + 1.2. Die Brücke Nr. 191 über den Elbe-Lübeck-Kanal (ELK) im Zuge der B 5 (Berliner Straße) kann ohne Auflagen befahren werden. Das WSA Elbe hat die Bauwerke nur statisch überprüft. Das Lichtraumprofil wurde nicht geprüft."
+          }
+        ],
+        "fahrtwegteile": []
+      },
+      {
+        "traeger": "Mecklenburg-Vorpommern",
+        "behoerde": "Landesamt für Straßenbau und Verkehr Mecklenburg-Vorpommern",
+        "auflagen": [
+          {
+            "stichwort": "Lastfahrt",
+            "rgst_nr": "10",
+            "auflage": "Nachstehende Auflagen gelten für die Lastfahrt:"
+          },
+          {
+            "stichwort": "private Begleitung außerhalb der AB (ohne WVZ-Anlage)",
+            "rgst_nr": "17",
+            "auflage": "Zur Absicherung des Transportes ist nach vorne ein privates Begleitfahrzeug mit Kennleuchten für gelbes Blinklicht (Rundumlicht) auf der gesamten Strecke außerhalb der AB und auf Straßen, die nicht wie eine AB ausgebaut sind, erforderlich. Das Transportfahrzeug und das private Begleitfahrzeug müssen mit Funk ausgestattet sein."
+          },
+          {
+            "stichwort": "Fahrzeiten außerhalb AB (Wochenende)",
+            "rgst_nr": "33",
+            "auflage": "Folgende Strecken / Streckenabschnitte außerhalb von AB dürfen in der Zeit von Sonntag, 22.00 Uhr, bis Samstag, 06.00 Uhr, benutzt werden: GESAMTER FAHRWEG"
+          },
+          {
+            "stichwort": "Fahrzeiten außerhalb AB (Werktage)",
+            "rgst_nr": "34",
+            "auflage": "Folgende Strecken/Streckenabschnitte außerhalb von AB dürfen werktags jeweils von 06.00 Uhr bis 09.00 Uhr und von 16.00 Uhr bis 19.00 Uhr nicht befahren werden: GESAMTER FAHRWEG"
+          },
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": "36",
+            "auflage": "Beim Überqueren eines Bahnübergangs ist bei Bedarf durch Zuwarten auf eine Lücke im Verkehrsfluss sicherzustellen, dass im Bereich des Bahnübergangs auf einer Länge von 50 m vor und hinter dem Bahnübergang kein Gegenverkehr stattfindet. Die Querung des Bahnübergangs darf nur im Alleingang unter Ausschluss des gesamten Gegenverkehrs erfolgen. Das Überqueren des Bahnübergangs muss mit einer Mindesträumgeschwindigkeit von 20 km/h ohne Rangieren erfolgen. Beim Befahren des Bahnübergangs an elektrifizierten Strecken muss sichergestellt sein, dass sich keine Personen auf dem Fahrzeug befinden, noch Gegenstände, Fahrzeugteile (z.B. Antennen) oder Ladungsteile über die zugelassene Fahrzeughöhe von 4,50 m hinausragen. Auch etwaige Begleitfahrzeuge dürfen auf dem Bahnübergang nicht zum Stehen kommen."
+          },
+          {
+            "stichwort": "Baustelleninformation",
+            "rgst_nr": "37",
+            "auflage": "Vor Durchführung des Transportes sind durch den Transportdurchführenden die aktuellen Baustellen und Sperrungen unter https://www.strassen-mv.de/verkehrsinfos/ zu prüfen."
+          }
+        ],
+        "fahrtwegteile": []
+      }
+    ]
+  },
+  "anlage_3_fahrauflagen": [
+    {
+      "fahrtweg_nr": 1,
+      "fahrtwegteile": [
+        {
+          "teil_nr": "1.1",
+          "von": "22119 Hamburg",
+          "bis": "19258 Boizenburg/Elbe",
+          "auflagen": [
+            {
+              "autor": "Schleswig-Holstein, WSA Elbe Standort Lauenburg",
+              "strasse": "B 5",
+              "bauwerks_nr": "0801191",
+              "lokalisation": "(ELK) Berliner Straße östlich Lauenburg (Elbe)",
+              "typ": "Br",
+              "hinweis": "Fb. Breite 7,50 m",
+              "von_km": null,
+              "bis_km": null,
+              "netzknoten": null,
+              "kmh": null,
+              "abstand_m": null,
+              "fahrauflage_wvz_polizei": null
+            }
+          ]
+        },
+        {
+          "teil_nr": "1.2",
+          "von": "19258 Boizenburg/Elbe",
+          "bis": "22119 Hamburg",
+          "auflagen": [
+            {
+              "autor": "Schleswig-Holstein, WSA Elbe Standort Lauenburg",
+              "strasse": "B 5",
+              "bauwerks_nr": "0801191",
+              "lokalisation": "(ELK) Berliner Straße östlich Lauenburg (Elbe)",
+              "typ": "Br",
+              "hinweis": "Fb. Breite 7,50 m",
+              "von_km": null,
+              "bis_km": null,
+              "netzknoten": null,
+              "kmh": null,
+              "abstand_m": null,
+              "fahrauflage_wvz_polizei": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "rechtsbehelfsbelehrung": {
+    "gericht": "Polizei Hamburg",
+    "postanschrift": "Bruno-Georges-Platz 2, 22297 Hamburg",
+    "frist": "innerhalb eines Monats nach Bekanntgabe",
+    "hausanschrift": null
+  }
+}

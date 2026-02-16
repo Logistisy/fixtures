@@ -1,0 +1,678 @@
+{
+  "bescheid_version": "20250132794_B_01",
+  "antrags_version": "20250132794_A_02",
+  "antrag_vom": "2025-05-20",
+  "seiten_gesamt": 16,
+  "1_antragsteller": {
+    "firma": "SCHORER + WOLF Service GmbH",
+    "strasse": "Heisinger Straße 9",
+    "plz": "87437",
+    "ort": "Kempten",
+    "telefon": "01703747214",
+    "fax": null,
+    "email": "oliver.vogel@schorer-wolf.de",
+    "geschaeftszeichen": null,
+    "transportverantwortlicher": {
+      "name": "Robert Stich",
+      "telefon": "08861 6377",
+      "fax": null
+    },
+    "zur_verfuegung_von": {
+      "firma": "Stich & Schäller GmbH",
+      "strasse": "Ammergauer Straße 39",
+      "plz": "86971",
+      "ort": "Peiting"
+    }
+  },
+  "erlaubnis_genehmigungsbehoerde": {
+    "name": "Landkreis Weilheim-Schongau",
+    "strasse": "Stainhartstraße 7",
+    "plz": "82362",
+    "ort": "Weilheim",
+    "sachbearbeiter": "Deschler-Fürmann, Monika",
+    "telefon": "0881 681 1418",
+    "fax": null,
+    "email": "schwertransporte@lra-wm.bayern.de"
+  },
+  "2_antrag": {
+    "art": "einzel",
+    "erlaubnis_29_3_stvo": true,
+    "ausnahmegenehmigungen_70_stvzo": [
+      "ROP-SG23-3614.7-784-298-2, Regierung der Oberpfalz",
+      "ROP-SG23-3614.7-784-298-4, Regierung der Oberpfalz"
+    ],
+    "ausnahmegenehmigung_46_1_nr5_stvo": true,
+    "ausnahmegenehmigung_46_1_nr2_stvo": false
+  },
+  "3_geltungsdauer": {
+    "beantragt_von": "2025-05-20",
+    "beantragt_bis": "2025-08-11",
+    "genehmigt_von": "2025-05-23",
+    "genehmigt_bis": "2025-08-11",
+    "wie_beantragt": false,
+    "fahrten_anzahl": 1
+  },
+  "4_ladung": {
+    "beschreibung": "Brecher",
+    "laenge_m": 9.8,
+    "breite_m": 2.5,
+    "hoehe_m": 3.23,
+    "masse_t": 28.89,
+    "unteilbar": false,
+    "unteilbar_begruendung_liegt_bei": false,
+    "asymmetrisch": false,
+    "asymmetrisch_skizze_liegt_bei": false
+  },
+  "5_fahrzeuge": {
+    "kraftfahrzeug": {
+      "art": "Sattelzugmaschine",
+      "fin": "WMA06KZZ5PM914892",
+      "kennzeichen": "SOG-TB 922"
+    },
+    "anhaenger": {
+      "art": "Sattelanhänger",
+      "fin": "W09STR3487SM39444",
+      "kennzeichen": "SOG-TB 7"
+    },
+    "bauartbedingte_hoechstgeschwindigkeit_kmh": 80,
+    "ketten_oder_raupenlaufwerk": false
+  },
+  "6_masse_und_massen": {
+    "leerfahrt": {
+      "gesamtlaenge_m": null,
+      "gesamtbreite_m": null,
+      "gesamthoehe_m": null,
+      "transporthoehe_absenkbar_m": null,
+      "leermasse_zugfahrzeug_t": 8.11,
+      "leermasse_anhaenger_t": 11,
+      "gesamt_t": null
+    },
+    "lastfahrt": {
+      "gesamtlaenge_m": 18,
+      "gesamtbreite_m": 2.55,
+      "gesamthoehe_m": 4.15,
+      "transporthoehe_absenkbar_m": null,
+      "leermasse_zugfahrzeug_t": 8.11,
+      "leermasse_anhaenger_t": 11,
+      "gesamt_t": 48
+    },
+    "ladung_ragt_ueber": {
+      "nach_vorn_m": null,
+      "nach_hinten_m": 1.3,
+      "nach_rechts_m": null,
+      "nach_links_m": null
+    },
+    "abstand_letzte_achse_bis_ladungsende_m": null,
+    "maximale_breite_beginnt_in_hoehe_m": null
+  },
+  "7_leerfahrt_achsen": {
+    "reifenbreite_max_achslast": null,
+    "spurweite_aussen": null,
+    "achsen": []
+  },
+  "8_lastfahrt_achsen": {
+    "reifenbreite_max_achslast": null,
+    "spurweite_aussen": null,
+    "achsen": [
+      {
+        "nr": 1,
+        "achslast_t": 7,
+        "achsabstand_m": null,
+        "raeder_je_achse": 2
+      },
+      {
+        "nr": 2,
+        "achslast_t": 11,
+        "achsabstand_m": 3.9,
+        "raeder_je_achse": 4
+      },
+      {
+        "nr": 3,
+        "achslast_t": 10,
+        "achsabstand_m": 6.18,
+        "raeder_je_achse": 4
+      },
+      {
+        "nr": 4,
+        "achslast_t": 10,
+        "achsabstand_m": 1.41,
+        "raeder_je_achse": 4
+      },
+      {
+        "nr": 5,
+        "achslast_t": 10,
+        "achsabstand_m": 2.05,
+        "raeder_je_achse": 4
+      }
+    ]
+  },
+  "9_fahrtwege": [
+    {
+      "fahrtweg_nr": 1,
+      "fahrtwegteile": [
+        {
+          "teil_nr": "1.1",
+          "art": "Lastfahrt",
+          "richtung": "Hinfahrt",
+          "start": {
+            "plz": "86971",
+            "ort": "Peiting",
+            "strasse": "Ammergauer Straße 39",
+            "zusatz": "Fa. Stich & Schäller"
+          },
+          "ziel": {
+            "plz": "87751",
+            "ort": "Heimertingen",
+            "strasse": "Wildspitzstraße 2",
+            "zusatz": "Fa. Kölsch"
+          },
+          "strecke": "Peiting, Fa. Stich & Schäller, Ammergauer Straße 39 - Ammergauer Straße - B472 - Schongau - B472 - Kreisverkehr Bertoldshofen 1. Ausfahrt - B16 - AS Kreen - Kreisverkehr 1. Ausfahrt - B12 - AS Kempten - A7 - AS Berkheim - B300 - Heimertingen - Wildspitzstraße - Wildspitzstraße 2, Fa. Kölsch"
+        },
+        {
+          "teil_nr": "1.2",
+          "art": "Lastfahrt",
+          "richtung": "Rückfahrt",
+          "start": {
+            "plz": "87751",
+            "ort": "Heimertingen",
+            "strasse": "Wildspitzstraße 2",
+            "zusatz": "Fa. Kölsch"
+          },
+          "ziel": {
+            "plz": "86971",
+            "ort": "Peiting",
+            "strasse": "Ammergauer Straße 39",
+            "zusatz": "Fa. Stich & Schäller"
+          },
+          "strecke": "Heimertingen, Fa. Kölsch, Wildspitzstraße 2 - Wildspitzstraße - B300 - AS Berkheim - A7 - AS Kempten - B12 - AS Altdorf - OAL 5 - Kreisverkehr 1. Ausf. B16 - Kreisverkehr 4. Ausfahrt B472 - B472 - Schongau - B472 - Peiting - Ammergauer Str. - Ammergauer Str. 39, Fa. Stich & Schäller"
+        }
+      ]
+    }
+  ],
+  "10_antragsrelevante_mitteilungen": {
+    "freitext": "Die SCHORER + WOLF Service GmbH beantragt diesen Bescheid als Genehmigungsservice zur Verfügung der oben genannten Firma.\nDie Vollmacht und Haftungserklärung befinden sich im Anhang (Unsere Haftungserklärung umfasst ebenfalls den für Sie relevanten Mustertext aus dem VEMAGS-Antrag Punkt 12).\nRückfragen bitte immer an Oliver Vogel (0170 3747214, oliver.vogel@schorer-wolf.de).\nRechnungsstellung bitte immer auf: SCHORER + WOLF Service GmbH, Heisinger Str. 9, 87437 Kempten.\nVielen Dank.",
+    "kommissionsnummer": "2025029",
+    "referenz_antragsidenten": [
+      "20250036354"
+    ]
+  },
+  "11_nachweise": {
+    "nachweis_liegt_bei": false,
+    "begruendung": "keine Schienen- oder Wasserwege zur Verfügung stehen"
+  },
+  "bescheid": {
+    "fahrtweg": "wie_beantragt",
+    "geltungsdauer_wie_beantragt": false,
+    "geltungsdauer_von": "2025-05-23",
+    "geltungsdauer_bis": "2025-08-11",
+    "behoerde": "Weilheim-Schongau, LK",
+    "behoerde_strasse": "Stainhartstraße 7",
+    "behoerde_plz": "82362",
+    "behoerde_ort": "Weilheim",
+    "datum": "2025-05-23",
+    "kostenentscheidung": {
+      "rechtsgrundlage": "§§ 1, 2 und 4 GebOSt",
+      "gebuehrennummer": "263.1",
+      "anhang_gebuehrennummer": "263.1.1"
+    }
+  },
+  "anlage_2_auflagenkatalog": {
+    "geltungsbereich_von": "2025-05-23",
+    "geltungsbereich_bis": "2025-08-11",
+    "auflagen_gesamt": [
+      {
+        "stichwort": "Lastfahrt",
+        "rgst_nr": 10,
+        "auflage": "Nachstehende Auflagen gelten für die Lastfahrt."
+      },
+      {
+        "stichwort": "Weitere Auflagen",
+        "rgst_nr": 36,
+        "auflage": "Fahrtweg ist vor Transportbeginn abzufahren. Transporteur muss sich überzeugen, dass Fahrtweg geeignet ist."
+      },
+      {
+        "stichwort": "Weitere Auflagen",
+        "rgst_nr": 36,
+        "auflage": "Auflagen zum Befahren höhengleicher Bahnübergänge (12 Unterpunkte: Alleingang, Mindestgeschwindigkeit 20 km/h, elektrifizierte Strecken, Stauraum, Schleppkurven, Notfallmanagement 112, etc.)"
+      },
+      {
+        "stichwort": "Weitere Auflagen",
+        "rgst_nr": 36,
+        "auflage": "Ladungsüberhang nach hinten sichern. Abbiegen nur ohne Gefährdung."
+      },
+      {
+        "stichwort": "Weitere Auflagen",
+        "rgst_nr": 36,
+        "auflage": "Kein weiterer Schwertransport gleichzeitig auf einem Bauwerk. Abstandsregelung."
+      },
+      {
+        "stichwort": "Weitere Auflagen",
+        "rgst_nr": 36,
+        "auflage": "Unterschreitungen Abmessung bis 15 cm und/oder Gewicht/Achslasten bis 5 % mitgenehmigt."
+      },
+      {
+        "stichwort": "Baustelleninformation",
+        "rgst_nr": 37,
+        "auflage": "Baustellen/Sperrungen prüfen unter bayerninfo.de und stbawm.bayern.de."
+      }
+    ],
+    "auflagen_pro_behoerde": [
+      {
+        "traeger": "Bundesrepublik Deutschland",
+        "behoerde": "Die Autobahn GmbH des Bundes, Niederlassung Südbayern",
+        "fahrtwegteile": [
+          {
+            "teil_nr": "1.1",
+            "strecke": "AS Kempten - A7 - AS Berkheim",
+            "auflagen": [
+              {
+                "stichwort": "private Begleitung auf Teilstrecken (ohne WVZ-Anlage)",
+                "rgst_nr": 18,
+                "auflage": "Privates Begleitfahrzeug nach hinten mit gelben Blinklicht auf Teilstrecken gem. Anlage 3. Funk erforderlich."
+              },
+              {
+                "stichwort": "Weitere Auflagen",
+                "rgst_nr": 36,
+                "auflage": "Örtlichkeit der Fahrauflagen online unter autobahn.de/fuer-unternehmen/gst/gst-viewer."
+              },
+              {
+                "stichwort": "Weitere Auflagen",
+                "rgst_nr": 36,
+                "auflage": "Keine Ausnahmegenehmigung von Verboten durch Vorschriftszeichen."
+              },
+              {
+                "stichwort": "Baustelleninformation",
+                "rgst_nr": 37,
+                "auflage": "Baustellen/Sperrungen prüfen unter verkehr.vz-deutschland.de."
+              }
+            ]
+          },
+          {
+            "teil_nr": "1.2",
+            "strecke": "AS Berkheim - A7 - AS Kempten",
+            "auflagen": [
+              {
+                "stichwort": "private Begleitung auf Teilstrecken (ohne WVZ-Anlage)",
+                "rgst_nr": 18,
+                "auflage": "Privates Begleitfahrzeug nach hinten mit gelben Blinklicht auf Teilstrecken gem. Anlage 3. Funk erforderlich."
+              },
+              {
+                "stichwort": "Weitere Auflagen",
+                "rgst_nr": 36,
+                "auflage": "Örtlichkeit der Fahrauflagen online unter autobahn.de/fuer-unternehmen/gst/gst-viewer."
+              },
+              {
+                "stichwort": "Weitere Auflagen",
+                "rgst_nr": 36,
+                "auflage": "Keine Ausnahmegenehmigung von Verboten durch Vorschriftszeichen."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "traeger": "Bayern, Freistaat - Bayerisches Staatsministerium des Innern",
+        "behoerde": "Landkreis Ostallgäu",
+        "auflagen": [
+          {
+            "stichwort": "Fahrzeiten außerhalb AB (Montag bis Freitag)",
+            "rgst_nr": 34,
+            "auflage": "Mo-Fr 06:00-09:00 und 16:00-19:00 nicht befahren: gesamte Strecke."
+          }
+        ]
+      },
+      {
+        "traeger": "Bayern, Freistaat - Bayerisches Staatsministerium des Innern",
+        "behoerde": "ZUA Tiefbau, Ostallgäu, LK",
+        "auflagen": [
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": 36,
+            "auflage": "Keine Auflagen im Bereich der OAL 5."
+          }
+        ]
+      },
+      {
+        "traeger": "Bayern, Freistaat - Bayerisches Staatsministerium des Innern",
+        "behoerde": "Staatliches Bauamt Kempten",
+        "auflagen": [
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": 36,
+            "auflage": "Gilt nur auf berechnetem Fahrtweg. Nicht kombinierbar. Keine Zwischenauf-/abfahrt."
+          },
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": 36,
+            "auflage": "Ggf. Zwischenabschnitte anderer Straßenbaubehörde."
+          }
+        ]
+      },
+      {
+        "traeger": "Bayern, Freistaat - Bayerisches Staatsministerium des Innern",
+        "behoerde": "Staatliches Bauamt Weilheim",
+        "auflagen": [
+          {
+            "stichwort": "Fahrauflagen bei Fahrzeug mit WVZ-Anlage",
+            "rgst_nr": 22,
+            "auflage": "Brücken/Unterführungen/Baustellen gem. Anlage 3. 500m vorher gelbe Blinklichter + Z101. 200m vorher Z276/277. Fahrstreifenwechsel."
+          },
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": 36,
+            "auflage": "Gilt nur auf berechnetem Fahrtweg. Nicht kombinierbar. Keine Zwischenauf-/abfahrt."
+          }
+        ]
+      },
+      {
+        "traeger": "Bayern, Freistaat - Bayerisches Staatsministerium des Innern",
+        "behoerde": "Landratsamt Unterallgäu",
+        "auflagen": [
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": 36,
+            "auflage": "Durchfahrtshöhen nicht geprüft! Verkehrseinrichtungen im Lichtraumprofil prüfen!"
+          },
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": 36,
+            "auflage": "Auflagen des SBA Kempten übernehmen. Bei polizeilichen Maßnahmen erneute Anhörung."
+          }
+        ]
+      }
+    ]
+  },
+  "anlage_3_fahrauflagen": [
+    {
+      "fahrtweg_nr": 1,
+      "fahrtwegteile": [
+        {
+          "teil_nr": "1.1",
+          "von": "86971 Peiting",
+          "bis": "87751 Heimertingen",
+          "auflagen": [
+            {
+              "autor": "Deutschland, AdB Südbayern",
+              "strasse": "AS Kempten",
+              "von_km": null,
+              "bis_km": null,
+              "bauwerks_nr": "8228652-4",
+              "lokalisation": "Brücke A7 ü. B12 Kaufbeuren - Kempten (AS Kempten) - Brücke Überbau Ast FR Füssen (87-2) im Ast A-M von Station 726 bis Station 780",
+              "netzknoten": "8228007A - 8228007M",
+              "typ": "Br",
+              "kmh": null,
+              "abstand_m": 25.0,
+              "fahrauflage_wvz_polizei": null,
+              "hinweis": "Pos.: 1.FS, Privates Begleitfahrzeug"
+            },
+            {
+              "autor": "Deutschland, AdB Südbayern",
+              "strasse": "AS Kempten",
+              "von_km": null,
+              "bis_km": null,
+              "bauwerks_nr": "8228652-4",
+              "lokalisation": "Brücke A7 ü. B12 Kaufbeuren - Kempten (AS Kempten) - Brücke Überbau Ast FR Füssen (87-2) im Ast K-I von Station 0 bis Station 10",
+              "netzknoten": "8228007K - 8228007I",
+              "typ": "Br",
+              "kmh": null,
+              "abstand_m": 25.0,
+              "fahrauflage_wvz_polizei": null,
+              "hinweis": "Pos.: 1.FS, Privates Begleitfahrzeug"
+            },
+            {
+              "autor": "Deutschland, AdB Südbayern",
+              "strasse": "A7",
+              "von_km": 920.393,
+              "bis_km": 920.319,
+              "bauwerks_nr": "8227656-1",
+              "lokalisation": "Brücke A7 über die Leubas - Brücke Überbau FR Würzburg (84-2)",
+              "netzknoten": "8227006O - 8127011O",
+              "typ": "Br",
+              "kmh": null,
+              "abstand_m": 25.0,
+              "fahrauflage_wvz_polizei": null,
+              "hinweis": "Pos.: 1.FS, Privates Begleitfahrzeug"
+            },
+            {
+              "autor": "Deutschland, AdB Südbayern",
+              "strasse": "A7",
+              "von_km": 895.105,
+              "bis_km": 895.034,
+              "bauwerks_nr": "8027653-1",
+              "lokalisation": "Brücke A7 ü. St2031 MM-Woringen (AS Memmingen Süd) - Brücke Überbau FR Würzburg (59-1)",
+              "netzknoten": "8027024O - 8026202O",
+              "typ": "Br",
+              "kmh": null,
+              "abstand_m": 25.0,
+              "fahrauflage_wvz_polizei": null,
+              "hinweis": "Pos.: 1.FS, Privates Begleitfahrzeug"
+            },
+            {
+              "autor": "Deutschland, AdB Südbayern",
+              "strasse": "A7",
+              "von_km": 890.43,
+              "bis_km": 890.359,
+              "bauwerks_nr": "8026870-2",
+              "lokalisation": "Brücke A7 über A96 Lindau-Landsberg (AK Memmingen) - Brücke Überbau FR Würzburg (54-2)",
+              "netzknoten": "8027008O - 7926031O",
+              "typ": "Br",
+              "kmh": null,
+              "abstand_m": 25.0,
+              "fahrauflage_wvz_polizei": null,
+              "hinweis": "Pos.: 1.FS, Privates Begleitfahrzeug"
+            },
+            {
+              "autor": "Bayern, STBA Kempten",
+              "strasse": "B 12",
+              "von_km": null,
+              "bis_km": null,
+              "bauwerks_nr": "8129541-0",
+              "lokalisation": "Brücke B 12 über Wertach 7 bei Marktoberdorf",
+              "netzknoten": "8129022O - 8229002O",
+              "typ": "Br",
+              "kmh": null,
+              "abstand_m": 25.0,
+              "fahrauflage_wvz_polizei": null,
+              "hinweis": "Abschnitt: 580; Station von: 4.469; Station bis: 4.359; Position des GST: 1.FS; Begleitung: Privates Begleitfahrzeug"
+            },
+            {
+              "autor": "Bayern, STBA Kempten",
+              "strasse": "B 12",
+              "von_km": null,
+              "bis_km": null,
+              "bauwerks_nr": "8228506-0",
+              "lokalisation": "Brücke B 12 über St 2012 Kraftisried",
+              "netzknoten": "8228003O - 8228016O",
+              "typ": "Br",
+              "kmh": null,
+              "abstand_m": 25.0,
+              "fahrauflage_wvz_polizei": null,
+              "hinweis": "Abschnitt: 540; Station von: 3.815; Position des GST: 1.FS; Begleitung: Privates Begleitfahrzeug"
+            },
+            {
+              "autor": "Bayern, STBA Kempten",
+              "strasse": "B 12",
+              "von_km": null,
+              "bis_km": null,
+              "bauwerks_nr": "8228517-0",
+              "lokalisation": "Brücke B 12 über KOA 18 und DB Betzigau",
+              "netzknoten": "8228016O - 8228007O",
+              "typ": "Br",
+              "kmh": null,
+              "abstand_m": 25.0,
+              "fahrauflage_wvz_polizei": null,
+              "hinweis": "Abschnitt: 520; Station von: 3.625; Station bis: 3.553; Position des GST: 1.FS; Begleitung: Privates Begleitfahrzeug"
+            },
+            {
+              "autor": "Bayern, STBA Weilheim",
+              "strasse": "B 472",
+              "von_km": null,
+              "bis_km": null,
+              "bauwerks_nr": "8130652-0",
+              "lokalisation": "Brücke B472 über Viehtrieb",
+              "netzknoten": "8130012O - 8130011O",
+              "typ": "Br",
+              "kmh": null,
+              "abstand_m": 50.0,
+              "fahrauflage_wvz_polizei": "WVZ+Polizei",
+              "hinweis": "Abschnitt: 300; Station von: 0.926; Position des GST: 1.FS; Zeichen-StVO: 277; Weitere besondere Maßnahmen: Gegenverkehr sperren"
+            }
+          ]
+        },
+        {
+          "teil_nr": "1.2",
+          "von": "87751 Heimertingen",
+          "bis": "86971 Peiting",
+          "auflagen": [
+            {
+              "autor": "Deutschland, AdB Südbayern",
+              "strasse": "A7",
+              "von_km": 890.361,
+              "bis_km": 890.433,
+              "bauwerks_nr": "8026870-3",
+              "lokalisation": "Brücke A7 über A96 Lindau-Landsberg (AK Memmingen) - Brücke Überbau FR Füssen (54-2)",
+              "netzknoten": "7926031O - 8027008O",
+              "typ": "Br",
+              "kmh": null,
+              "abstand_m": 25.0,
+              "fahrauflage_wvz_polizei": null,
+              "hinweis": "Pos.: 1.FS, Privates Begleitfahrzeug"
+            },
+            {
+              "autor": "Deutschland, AdB Südbayern",
+              "strasse": "A7",
+              "von_km": 895.037,
+              "bis_km": 895.108,
+              "bauwerks_nr": "8027653-2",
+              "lokalisation": "Brücke A7 ü. St2031 MM-Woringen (AS Memmingen Süd) - Brücke Überbau FR Füssen (59-1)",
+              "netzknoten": "8026202O - 8027024O",
+              "typ": "Br",
+              "kmh": null,
+              "abstand_m": 25.0,
+              "fahrauflage_wvz_polizei": null,
+              "hinweis": "Pos.: 1.FS, Privates Begleitfahrzeug"
+            },
+            {
+              "autor": "Deutschland, AdB Südbayern",
+              "strasse": "A7",
+              "von_km": 920.319,
+              "bis_km": 920.391,
+              "bauwerks_nr": "8227656-2",
+              "lokalisation": "Brücke A7 über die Leubas - Brücke Überbau FR Füssen (84-2)",
+              "netzknoten": "8127011O - 8227006O",
+              "typ": "Br",
+              "kmh": null,
+              "abstand_m": 25.0,
+              "fahrauflage_wvz_polizei": null,
+              "hinweis": "Pos.: 1.FS, Privates Begleitfahrzeug"
+            },
+            {
+              "autor": "Deutschland, AdB Südbayern",
+              "strasse": "A7",
+              "von_km": 921.842,
+              "bis_km": 921.915,
+              "bauwerks_nr": "8227659-2",
+              "lokalisation": "Brücke A7 über B19 Kaufb. - KE (AS Kempten/Leubas) - Brücke Überbau FR Füssen (85-2)",
+              "netzknoten": "8127011O - 8228007O",
+              "typ": "Br",
+              "kmh": null,
+              "abstand_m": 25.0,
+              "fahrauflage_wvz_polizei": null,
+              "hinweis": "Pos.: 1.FS, Privates Begleitfahrzeug"
+            },
+            {
+              "autor": "Deutschland, AdB Südbayern",
+              "strasse": "AS Kempten",
+              "von_km": null,
+              "bis_km": null,
+              "bauwerks_nr": "8228652-4",
+              "lokalisation": "Brücke A7 ü. B12 Kaufbeuren - Kempten (AS Kempten) - Brücke Überbau Ast FR Füssen (87-2) im Ast A-M von Station 726 bis Station 780",
+              "netzknoten": "8228007A - 8228007M",
+              "typ": "Br",
+              "kmh": null,
+              "abstand_m": 25.0,
+              "fahrauflage_wvz_polizei": null,
+              "hinweis": "Pos.: 1.FS, Privates Begleitfahrzeug"
+            },
+            {
+              "autor": "Deutschland, AdB Südbayern",
+              "strasse": "AS Kempten",
+              "von_km": null,
+              "bis_km": null,
+              "bauwerks_nr": "8228652-4",
+              "lokalisation": "Brücke A7 ü. B12 Kaufbeuren - Kempten (AS Kempten) - Brücke Überbau Ast FR Füssen (87-2) im Ast K-I von Station 0 bis Station 10",
+              "netzknoten": "8228007K - 8228007I",
+              "typ": "Br",
+              "kmh": null,
+              "abstand_m": 25.0,
+              "fahrauflage_wvz_polizei": null,
+              "hinweis": "Pos.: 1.FS, Privates Begleitfahrzeug"
+            },
+            {
+              "autor": "Bayern, STBA Kempten",
+              "strasse": "B 12",
+              "von_km": null,
+              "bis_km": null,
+              "bauwerks_nr": "8228517-0",
+              "lokalisation": "Brücke B 12 über KOA 18 und DB Betzigau",
+              "netzknoten": "8228007O - 8228016O",
+              "typ": "Br",
+              "kmh": null,
+              "abstand_m": 25.0,
+              "fahrauflage_wvz_polizei": null,
+              "hinweis": "Abschnitt: 520; Station von: 3.553; Station bis: 3.625; Position des GST: 1.FS; Begleitung: Privates Begleitfahrzeug"
+            },
+            {
+              "autor": "Bayern, STBA Kempten",
+              "strasse": "B 12",
+              "von_km": null,
+              "bis_km": null,
+              "bauwerks_nr": "8228506-0",
+              "lokalisation": "Brücke B 12 über St 2012 Kraftisried",
+              "netzknoten": "8228016O - 8228003O",
+              "typ": "Br",
+              "kmh": null,
+              "abstand_m": 25.0,
+              "fahrauflage_wvz_polizei": null,
+              "hinweis": "Abschnitt: 540; Station von: 3.815; Position des GST: 1.FS; Begleitung: Privates Begleitfahrzeug"
+            },
+            {
+              "autor": "Bayern, STBA Kempten",
+              "strasse": "B 12",
+              "von_km": null,
+              "bis_km": null,
+              "bauwerks_nr": "8129541-0",
+              "lokalisation": "Brücke B 12 über Wertach 7 bei Marktoberdorf",
+              "netzknoten": "8229002O - 8129022O",
+              "typ": "Br",
+              "kmh": null,
+              "abstand_m": 25.0,
+              "fahrauflage_wvz_polizei": null,
+              "hinweis": "Abschnitt: 580; Station von: 4.359; Station bis: 4.469; Position des GST: 1.FS; Begleitung: Privates Begleitfahrzeug"
+            },
+            {
+              "autor": "Bayern, STBA Weilheim",
+              "strasse": "B 472",
+              "von_km": null,
+              "bis_km": null,
+              "bauwerks_nr": "8130652-0",
+              "lokalisation": "Brücke B472 über Viehtrieb",
+              "netzknoten": "8130011O - 8130012O",
+              "typ": "Br",
+              "kmh": null,
+              "abstand_m": 50.0,
+              "fahrauflage_wvz_polizei": "WVZ+Polizei",
+              "hinweis": "Abschnitt: 300; Station von: 0.926; Position des GST: 1.FS; Zeichen-StVO: 277; Weitere besondere Maßnahmen: Gegenverkehr sperren"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "rechtsbehelfsbelehrung": {
+    "gericht": "Bayerisches Verwaltungsgericht München",
+    "postanschrift": "Postfach 20 05 43, 80005 München",
+    "hausanschrift": "Bayerstr. 30, 80335 München",
+    "frist": "innerhalb eines Monats nach Bekanntgabe"
+  }
+}
