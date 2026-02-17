@@ -176,7 +176,7 @@
   },
 
   "bescheid": {
-    "fahrtweg": null,
+    "fahrtweg_wie_beantragt": null,
     "geltungsdauer_wie_beantragt": false,
     "geltungsdauer_von": null,
     "geltungsdauer_bis": null,

@@ -201,7 +201,7 @@
     "begruendung": "keine Schienen- oder Wasserwege zur Verfügung stehen"
   },
   "bescheid": {
-    "fahrtweg": "wie_beantragt",
+    "fahrtweg_wie_beantragt": true,
     "geltungsdauer_wie_beantragt": false,
     "geltungsdauer_von": "2025-05-23",
     "geltungsdauer_bis": "2025-08-11",
@@ -401,7 +401,7 @@
               "netzknoten": "8228007A - 8228007M",
               "typ": "Br",
               "kmh": null,
-              "abstand_m": 25.0,
+              "abstand_m": 25,
               "fahrauflage_wvz_polizei": null,
               "hinweis": "Pos.: 1.FS, Privates Begleitfahrzeug"
             },
@@ -415,7 +415,7 @@
               "netzknoten": "8228007K - 8228007I",
               "typ": "Br",
               "kmh": null,
-              "abstand_m": 25.0,
+              "abstand_m": 25,
               "fahrauflage_wvz_polizei": null,
               "hinweis": "Pos.: 1.FS, Privates Begleitfahrzeug"
             },
@@ -429,7 +429,7 @@
               "netzknoten": "8227006O - 8127011O",
               "typ": "Br",
               "kmh": null,
-              "abstand_m": 25.0,
+              "abstand_m": 25,
               "fahrauflage_wvz_polizei": null,
               "hinweis": "Pos.: 1.FS, Privates Begleitfahrzeug"
             },
@@ -443,7 +443,7 @@
               "netzknoten": "8027024O - 8026202O",
               "typ": "Br",
               "kmh": null,
-              "abstand_m": 25.0,
+              "abstand_m": 25,
               "fahrauflage_wvz_polizei": null,
               "hinweis": "Pos.: 1.FS, Privates Begleitfahrzeug"
             },
@@ -457,7 +457,7 @@
               "netzknoten": "8027008O - 7926031O",
               "typ": "Br",
               "kmh": null,
-              "abstand_m": 25.0,
+              "abstand_m": 25,
               "fahrauflage_wvz_polizei": null,
               "hinweis": "Pos.: 1.FS, Privates Begleitfahrzeug"
             },
@@ -471,7 +471,7 @@
               "netzknoten": "8129022O - 8229002O",
               "typ": "Br",
               "kmh": null,
-              "abstand_m": 25.0,
+              "abstand_m": 25,
               "fahrauflage_wvz_polizei": null,
               "hinweis": "Abschnitt: 580; Station von: 4.469; Station bis: 4.359; Position des GST: 1.FS; Begleitung: Privates Begleitfahrzeug"
             },
@@ -485,7 +485,7 @@
               "netzknoten": "8228003O - 8228016O",
               "typ": "Br",
               "kmh": null,
-              "abstand_m": 25.0,
+              "abstand_m": 25,
               "fahrauflage_wvz_polizei": null,
               "hinweis": "Abschnitt: 540; Station von: 3.815; Position des GST: 1.FS; Begleitung: Privates Begleitfahrzeug"
             },
@@ -499,7 +499,7 @@
               "netzknoten": "8228016O - 8228007O",
               "typ": "Br",
               "kmh": null,
-              "abstand_m": 25.0,
+              "abstand_m": 25,
               "fahrauflage_wvz_polizei": null,
               "hinweis": "Abschnitt: 520; Station von: 3.625; Station bis: 3.553; Position des GST: 1.FS; Begleitung: Privates Begleitfahrzeug"
             },
@@ -513,7 +513,7 @@
               "netzknoten": "8130012O - 8130011O",
               "typ": "Br",
               "kmh": null,
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ+Polizei",
               "hinweis": "Abschnitt: 300; Station von: 0.926; Position des GST: 1.FS; Zeichen-StVO: 277; Weitere besondere Maßnahmen: Gegenverkehr sperren"
             }
@@ -534,7 +534,7 @@
               "netzknoten": "7926031O - 8027008O",
               "typ": "Br",
               "kmh": null,
-              "abstand_m": 25.0,
+              "abstand_m": 25,
               "fahrauflage_wvz_polizei": null,
               "hinweis": "Pos.: 1.FS, Privates Begleitfahrzeug"
             },
@@ -548,7 +548,7 @@
               "netzknoten": "8026202O - 8027024O",
               "typ": "Br",
               "kmh": null,
-              "abstand_m": 25.0,
+              "abstand_m": 25,
               "fahrauflage_wvz_polizei": null,
               "hinweis": "Pos.: 1.FS, Privates Begleitfahrzeug"
             },
@@ -562,7 +562,7 @@
               "netzknoten": "8127011O - 8227006O",
               "typ": "Br",
               "kmh": null,
-              "abstand_m": 25.0,
+              "abstand_m": 25,
               "fahrauflage_wvz_polizei": null,
               "hinweis": "Pos.: 1.FS, Privates Begleitfahrzeug"
             },
@@ -576,7 +576,7 @@
               "netzknoten": "8127011O - 8228007O",
               "typ": "Br",
               "kmh": null,
-              "abstand_m": 25.0,
+              "abstand_m": 25,
               "fahrauflage_wvz_polizei": null,
               "hinweis": "Pos.: 1.FS, Privates Begleitfahrzeug"
             },
@@ -590,7 +590,7 @@
               "netzknoten": "8228007A - 8228007M",
               "typ": "Br",
               "kmh": null,
-              "abstand_m": 25.0,
+              "abstand_m": 25,
               "fahrauflage_wvz_polizei": null,
               "hinweis": "Pos.: 1.FS, Privates Begleitfahrzeug"
             },
@@ -604,7 +604,7 @@
               "netzknoten": "8228007K - 8228007I",
               "typ": "Br",
               "kmh": null,
-              "abstand_m": 25.0,
+              "abstand_m": 25,
               "fahrauflage_wvz_polizei": null,
               "hinweis": "Pos.: 1.FS, Privates Begleitfahrzeug"
             },
@@ -618,7 +618,7 @@
               "netzknoten": "8228007O - 8228016O",
               "typ": "Br",
               "kmh": null,
-              "abstand_m": 25.0,
+              "abstand_m": 25,
               "fahrauflage_wvz_polizei": null,
               "hinweis": "Abschnitt: 520; Station von: 3.553; Station bis: 3.625; Position des GST: 1.FS; Begleitung: Privates Begleitfahrzeug"
             },
@@ -632,7 +632,7 @@
               "netzknoten": "8228016O - 8228003O",
               "typ": "Br",
               "kmh": null,
-              "abstand_m": 25.0,
+              "abstand_m": 25,
               "fahrauflage_wvz_polizei": null,
               "hinweis": "Abschnitt: 540; Station von: 3.815; Position des GST: 1.FS; Begleitung: Privates Begleitfahrzeug"
             },
@@ -646,7 +646,7 @@
               "netzknoten": "8229002O - 8129022O",
               "typ": "Br",
               "kmh": null,
-              "abstand_m": 25.0,
+              "abstand_m": 25,
               "fahrauflage_wvz_polizei": null,
               "hinweis": "Abschnitt: 580; Station von: 4.359; Station bis: 4.469; Position des GST: 1.FS; Begleitung: Privates Begleitfahrzeug"
             },
@@ -660,7 +660,7 @@
               "netzknoten": "8130011O - 8130012O",
               "typ": "Br",
               "kmh": null,
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ+Polizei",
               "hinweis": "Abschnitt: 300; Station von: 0.926; Position des GST: 1.FS; Zeichen-StVO: 277; Weitere besondere Maßnahmen: Gegenverkehr sperren"
             }

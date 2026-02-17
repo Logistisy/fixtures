@@ -228,7 +228,7 @@
     "begruendung": "keine Schienen- oder Wasserwege zur Verfügung stehen."
   },
   "bescheid": {
-    "fahrtweg": "wie beantragt",
+    "fahrtweg_wie_beantragt": true,
     "geltungsdauer_wie_beantragt": true,
     "behoerde": "Mühldorf a.Inn, LK",
     "behoerde_strasse": "Nordtangente 10 b",
@@ -236,9 +236,9 @@
     "behoerde_ort": "Mühldorf am Inn",
     "datum": "2025-12-09",
     "kostenentscheidung": {
-      "gebuehren_eur": 264.40,
+      "gebuehren_eur": 264.4,
       "auslagen_eur": 0,
-      "gesamtbetrag_eur": 264.40
+      "gesamtbetrag_eur": 264.4
     },
     "geltungsdauer_von": null,
     "geltungsdauer_bis": null
@@ -249,17 +249,17 @@
     "auflagen_gesamt": [
       {
         "stichwort": "Lastfahrt",
-        "rgst_nr": "10",
+        "rgst_nr": 10,
         "auflage": "Nachstehende Auflagen gelten für die Lastfahrt:"
       },
       {
         "stichwort": "Weitere Auflagen",
-        "rgst_nr": "36",
+        "rgst_nr": 36,
         "auflage": "Es gelten alle Auflagen und Streckenauflagen der beigefügten Stellungnahmen von den einzelnen Anhörstellen."
       },
       {
         "stichwort": "Baustelleninformation",
-        "rgst_nr": "37",
+        "rgst_nr": 37,
         "auflage": "Vor Durchführung des Transportes sind durch den Transportdurchführenden die aktuellen Baustellen und Sperrungen unter https://www.bayerninfo.de zu prüfen."
       }
     ],
@@ -270,17 +270,17 @@
         "auflagen": [
           {
             "stichwort": "keine Konvoifahrt",
-            "rgst_nr": "05",
+            "rgst_nr": 5,
             "auflage": "Es darf nicht im Konvoi gefahren werden."
           },
           {
             "stichwort": "Weitere Auflagen",
-            "rgst_nr": "36",
+            "rgst_nr": 36,
             "auflage": "Diese Stellungnahme beinhaltet keine Ausnahmegenehmigung von Verboten oder Beschränkungen, die durch Vorschriftszeichen (z.B.: 250;251;253;260;262;263;264;265;266;273;274;275;276;277;295), Richtzeichen (z.B.: 330.1; 331.1) oder Verkehrseinrichtungen (z.B.: 605; 628; 629) erlassen sind."
           },
           {
             "stichwort": "Baustelleninformation",
-            "rgst_nr": "37",
+            "rgst_nr": 37,
             "auflage": "Vor Durchführung des Transportes sind durch den Transportdurchführenden die aktuellen Baustellen und Sperrungen unter https://verkehr.vz-deutschland.de/?layer=baustellen&zoom=6 zu prüfen."
           }
         ],
@@ -298,42 +298,42 @@
         "auflagen": [
           {
             "stichwort": "Lastfahrt",
-            "rgst_nr": "10",
+            "rgst_nr": 10,
             "auflage": "NL Nordbayern"
           },
           {
             "stichwort": "Lastfahrt",
-            "rgst_nr": "10",
+            "rgst_nr": 10,
             "auflage": "Nachstehende Auflagen gelten für die Lastfahrt: Fahrtwegteil 1.1 - Die Autobahn, NL Nordbayern. Berechneter Fahrtweg / Geltungsbereich. Strecke: AS Kitzingen/Schwarzach - A3 - AK Nürnberg- A9 - NL-Grenze (A9) Nordbayern/Südbayern"
           },
           {
             "stichwort": "private Begleitung auf Teilstrecken (ohne WVZ-Anlage)",
-            "rgst_nr": "18",
+            "rgst_nr": 18,
             "auflage": "Zur Absicherung des Transportes ist nach hinten ein privates Begleitfahrzeug mit Kennleuchten für gelbes Blinklicht (Rundumlicht) auf folgenden Teilstrecken erforderlich: - siehe Anlage 3. Das Transportfahrzeug und das private Begleitfahrzeug müssen mit Funk ausgestattet sein."
           },
           {
             "stichwort": "Privates Begleitfahrzeug mit WVZ-Anlage",
-            "rgst_nr": "20",
+            "rgst_nr": 20,
             "auflage": "Der Transport ist auf den nachfolgenden Strecken / Streckenabschnitten nach hinten durch ein privates Begleitfahrzeug mit WVZ-Anlage abzusichern: - siehe Anlage 3 - im Bereich von Baustellen auf AB, sobald mehr als ein Fahrstreifen in GST-Fahrtrichtung zur Verfügung steht. Das Zeichen 101 und die nach hinten wirkenden gelben Blinklichter sind stets einzuschalten: - bei Auffahrt auf die AB, - an Steigungen/Gefälle bei einer Geschwindigkeit von weniger als 40 km/h, - bei liegen gebliebenen Fahrzeugen und beim Halt oder - 200 m vor der ersten verkehrsregelnden Maßnahme und während der Durchfahrt von Baustellen. Auf AB und Straßen, die wie eine AB ausgebaut sind, ist bei Inanspruchnahme des 2. Fahrstreifens das Zeichen 276 StVO und bei 3 Fahrstreifen das Zeichen 277 StVO zu setzen. Zur Anzeige von Überholverboten (Zeichen 276 und 277 StVO) darf das private Begleitfahrzeug mit WVZ-Anlage straßenmittig bzw. links fahren."
           },
           {
             "stichwort": "Fahrauflagen bei Fahrzeug mit WVZ-Anlage",
-            "rgst_nr": "22",
+            "rgst_nr": 22,
             "auflage": "Das Befahren von Brücken, Unterführungen, Baustellen und lastbeschränkten Strecken sowie die damit verbundenen Fahrstreifenwechsel und/oder das Setzen von Verkehrszeichen haben gemäß Anlage 3 zu erfolgen. 500 m vor Beginn des Auflagenbereiches sind die nach hinten wirkenden gelben Blinklichter einzuschalten und Zeichen 101 zu setzen. Sofern nach der jeweiligen Auflage ein Überholverbot mit Zeichen 276 bzw. 277 angeordnet ist, ist das entsprechende Zeichen 200 m vor Beginn des Auflagenbereiches zu setzen. Gleichzeitig ist der jeweils angeordnete Fahrstreifenwechsel einzuleiten. Hierbei darf der nachfolgende Verkehr nicht gefährdet werden. Nach Verlassen des Auflagenbereiches und der Rückkehr zur ursprünglichen Fahrweise ist die WVZ-Anlage auszuschalten."
           },
           {
             "stichwort": "Fahrzeiten auf AB (Wochenende)",
-            "rgst_nr": "30",
+            "rgst_nr": 30,
             "auflage": "Die folgenden AB/AB-Streckenabschnitte dürfen nur in der Zeit von Sonntag, 22.00 Uhr, bis Samstag, 06.00 Uhr, benutzt werden: bei Streckenauflagen mit WVZ, siehe Anlage 3"
           },
           {
             "stichwort": "Weitere Auflagen",
-            "rgst_nr": "36",
+            "rgst_nr": 36,
             "auflage": "Die genaue Örtlichkeit der Fahrauflagen gem. Anlage 3 kann online unter https://www.autobahn.de/fuer-unternehmen/gst-viewer unter Angabe der ersten sieben Ziffern der Bauwerksnummer gefunden werden."
           },
           {
             "stichwort": "Weitere Auflagen",
-            "rgst_nr": "36",
+            "rgst_nr": 36,
             "auflage": "Für die Absicherung sind die in Anlage 3 angeordneten Pläne von Verwaltungshelfern umzusetzen. In Anlage 3 in Spalte \"Besondere Maßnahmen, Hinweise\" Verweis auf jeweils angeordneten Plan. Die Pläne stehen unter https://www.autobahn.de/fuer-unternehmen/absicherung zum Download zur Verfügung. Die notwendige Fachkunde ist durch einen gültigen Berechtigungs-Ausweis zum Führen eines Begleitfahrzeuges mit Wechselverkehrszeichen-Anlage oder einen gültigen Ausweis / eine gültige Bescheinigung geprüfte Transportbegleitung Stufe BF4 nachzuweisen."
           }
         ]
@@ -350,57 +350,57 @@
         "auflagen": [
           {
             "stichwort": "Lastfahrt",
-            "rgst_nr": "10",
+            "rgst_nr": 10,
             "auflage": "NL Südbayern"
           },
           {
             "stichwort": "Lastfahrt",
-            "rgst_nr": "10",
+            "rgst_nr": 10,
             "auflage": "Nachstehende Auflagen gelten für die Lastfahrt: Fahrtwegteil 1.1 - Die Autobahn, NL Südbayern. Berechneter Fahrtweg / Geltungsbereich. Strecke: A9 NLG Nordbayern / Südbayern - A9 - AK München-Nord - A99 - AK München-Ost- A94 - AS Heldenstein"
           },
           {
             "stichwort": "private Begleitung auf Teilstrecken (ohne WVZ-Anlage)",
-            "rgst_nr": "18",
+            "rgst_nr": 18,
             "auflage": "Zur Absicherung des Transportes ist nach hinten ein privates Begleitfahrzeug mit Kennleuchten für gelbes Blinklicht (Rundumlicht) auf folgenden Teilstrecken erforderlich: - siehe Anlage 3. Das Transportfahrzeug und das private Begleitfahrzeug müssen mit Funk ausgestattet sein."
           },
           {
             "stichwort": "Privates Begleitfahrzeug mit WVZ-Anlage",
-            "rgst_nr": "20",
+            "rgst_nr": 20,
             "auflage": "Der Transport ist auf den nachfolgenden Strecken / Streckenabschnitten nach hinten durch ein privates Begleitfahrzeug mit WVZ-Anlage abzusichern: - siehe Anlage 3 - im Bereich von Baustellen auf AB, sobald mehr als ein Fahrstreifen in GST-Fahrtrichtung zur Verfügung steht. Das Zeichen 101 und die nach hinten wirkenden gelben Blinklichter sind stets einzuschalten: - bei Auffahrt auf die AB, - an Steigungen/Gefälle bei einer Geschwindigkeit von weniger als 40 km/h, - bei liegen gebliebenen Fahrzeugen und beim Halt oder - 200 m vor der ersten verkehrsregelnden Maßnahme und während der Durchfahrt von Baustellen. Auf AB und Straßen, die wie eine AB ausgebaut sind, ist bei Inanspruchnahme des 2. Fahrstreifens das Zeichen 276 StVO und bei 3 Fahrstreifen das Zeichen 277 StVO zu setzen. Zur Anzeige von Überholverboten (Zeichen 276 und 277 StVO) darf das private Begleitfahrzeug mit WVZ-Anlage straßenmittig bzw. links fahren."
           },
           {
             "stichwort": "Beifahrer bei Fahrzeug mit WVZ-Anlage",
-            "rgst_nr": "21",
+            "rgst_nr": 21,
             "auflage": "Der zu begleitende Schwertransport ist mit einem Beifahrer zu besetzen, der die angeordneten Auflagen sowie die Auflagenbereiche über Funk an das Begleitfahrzeug übermittelt."
           },
           {
             "stichwort": "Fahrauflagen bei Fahrzeug mit WVZ-Anlage",
-            "rgst_nr": "22",
+            "rgst_nr": 22,
             "auflage": "Das Befahren von Brücken, Unterführungen, Baustellen und lastbeschränkten Strecken sowie die damit verbundenen Fahrstreifenwechsel und/oder das Setzen von Verkehrszeichen haben gemäß Anlage 3 zu erfolgen. 500 m vor Beginn des Auflagenbereiches sind die nach hinten wirkenden gelben Blinklichter einzuschalten und Zeichen 101 zu setzen."
           },
           {
             "stichwort": "Fahrzeiten auf AB (Wochenende)",
-            "rgst_nr": "30",
+            "rgst_nr": 30,
             "auflage": "Die folgenden AB/AB-Streckenabschnitte dürfen nur in der Zeit von Sonntag, 22.00 Uhr, bis Samstag, 06.00 Uhr, benutzt werden: bei Streckenauflagen mit WVZ, siehe Anlage 3"
           },
           {
             "stichwort": "Fahrzeiten, alle Straßen, erhebliche Maßüberschreitungen",
-            "rgst_nr": "35",
+            "rgst_nr": 35,
             "auflage": "Der Transport darf nur an erlaubten Tagen in der Zeit von 20:00 Uhr bis 06:00 Uhr durchgeführt werden. Dies gilt für folgend(e/en) Streckenabschnitt(e) / Geltungsbereich: - siehe Anlage 3, Hinweis \"Nachtfahrt\""
           },
           {
             "stichwort": "Weitere Auflagen",
-            "rgst_nr": "36",
+            "rgst_nr": 36,
             "auflage": "Anstelle des menschlichen Beifahrers (Auflage 21) kann alternativ ein digitaler Beifahrer genutzt werden. Voraussetzung ist, dass der digitale Beifahrer bestimmte Systemanforderungen erfüllt. Die Erfüllung der Systemvoraussetzungen des digitalen Beifahrers und das Muster-Formblatt sind auf der VEMAGS-Internetpräsenz abrufbar (https://www.vemags.de/verfahrens-modul/digitaler-beifahrer). Die Nutzung ist nur für die mit den Zeichen 330.1 und 330.2 StVO gekennzeichneten Autobahnen in der Baulast des Bundes begrenzt."
           },
           {
             "stichwort": "Weitere Auflagen",
-            "rgst_nr": "36",
+            "rgst_nr": 36,
             "auflage": "Die genaue Örtlichkeit der Fahrauflagen gem. Anlage 3 kann online unter https://www.autobahn.de/fuer-unternehmen/gst-viewer unter Angabe der ersten sieben Ziffern der Bauwerksnummer gefunden werden."
           },
           {
             "stichwort": "Weitere Auflagen",
-            "rgst_nr": "36",
+            "rgst_nr": 36,
             "auflage": "Für die Absicherung sind die in Anlage 3 angeordneten Pläne von Verwaltungshelfern umzusetzen. Die Pläne stehen unter https://www.autobahn.de/fuer-unternehmen/absicherung zum Download zur Verfügung."
           }
         ]
@@ -417,42 +417,42 @@
         "auflagen": [
           {
             "stichwort": "Lastfahrt",
-            "rgst_nr": "10",
+            "rgst_nr": 10,
             "auflage": "NL Nordbayern"
           },
           {
             "stichwort": "Lastfahrt",
-            "rgst_nr": "10",
+            "rgst_nr": 10,
             "auflage": "Nachstehende Auflagen gelten für die Lastfahrt: Fahrtwegteil 1.2 - Die Autobahn, NL Nordbayern. Berechneter Fahrtweg / Geltungsbereich. Strecke: NL-Grenze (A9) Nordbayern/Südbayern - A9 - AK Nürnberg- A3 - AS Kitzingen/Schwarzach"
           },
           {
             "stichwort": "private Begleitung auf Teilstrecken (ohne WVZ-Anlage)",
-            "rgst_nr": "18",
+            "rgst_nr": 18,
             "auflage": "Zur Absicherung des Transportes ist nach hinten ein privates Begleitfahrzeug mit Kennleuchten für gelbes Blinklicht (Rundumlicht) auf folgenden Teilstrecken erforderlich: - siehe Anlage 3. Das Transportfahrzeug und das private Begleitfahrzeug müssen mit Funk ausgestattet sein."
           },
           {
             "stichwort": "Privates Begleitfahrzeug mit WVZ-Anlage",
-            "rgst_nr": "20",
+            "rgst_nr": 20,
             "auflage": "Der Transport ist auf den nachfolgenden Strecken / Streckenabschnitten nach hinten durch ein privates Begleitfahrzeug mit WVZ-Anlage abzusichern: - siehe Anlage 3 - im Bereich von Baustellen auf AB, sobald mehr als ein Fahrstreifen in GST-Fahrtrichtung zur Verfügung steht."
           },
           {
             "stichwort": "Fahrauflagen bei Fahrzeug mit WVZ-Anlage",
-            "rgst_nr": "22",
+            "rgst_nr": 22,
             "auflage": "Das Befahren von Brücken, Unterführungen, Baustellen und lastbeschränkten Strecken sowie die damit verbundenen Fahrstreifenwechsel und/oder das Setzen von Verkehrszeichen haben gemäß Anlage 3 zu erfolgen."
           },
           {
             "stichwort": "Fahrzeiten auf AB (Wochenende)",
-            "rgst_nr": "30",
+            "rgst_nr": 30,
             "auflage": "Die folgenden AB/AB-Streckenabschnitte dürfen nur in der Zeit von Sonntag, 22.00 Uhr, bis Samstag, 06.00 Uhr, benutzt werden: bei Streckenauflagen mit WVZ, siehe Anlage 3"
           },
           {
             "stichwort": "Weitere Auflagen",
-            "rgst_nr": "36",
+            "rgst_nr": 36,
             "auflage": "Die genaue Örtlichkeit der Fahrauflagen gem. Anlage 3 kann online unter https://www.autobahn.de/fuer-unternehmen/gst-viewer unter Angabe der ersten sieben Ziffern der Bauwerksnummer gefunden werden."
           },
           {
             "stichwort": "Weitere Auflagen",
-            "rgst_nr": "36",
+            "rgst_nr": 36,
             "auflage": "Für die Absicherung sind die in Anlage 3 angeordneten Pläne von Verwaltungshelfern umzusetzen. Die Pläne stehen unter https://www.autobahn.de/fuer-unternehmen/absicherung zum Download zur Verfügung."
           }
         ]
@@ -469,57 +469,57 @@
         "auflagen": [
           {
             "stichwort": "Lastfahrt",
-            "rgst_nr": "10",
+            "rgst_nr": 10,
             "auflage": "NL Südbayern"
           },
           {
             "stichwort": "Lastfahrt",
-            "rgst_nr": "10",
+            "rgst_nr": 10,
             "auflage": "Nachstehende Auflagen gelten für die Lastfahrt: Fahrtwegteil 1.2 - Die Autobahn, NL Südbayern. Berechneter Fahrtweg / Geltungsbereich. Strecke: AS Heldenstein - A94 - AK München-Ost - A99 - AK München-Nord- A9 - A9 NLG Nordbayern / Südbayern"
           },
           {
             "stichwort": "private Begleitung auf Teilstrecken (ohne WVZ-Anlage)",
-            "rgst_nr": "18",
+            "rgst_nr": 18,
             "auflage": "Zur Absicherung des Transportes ist nach hinten ein privates Begleitfahrzeug mit Kennleuchten für gelbes Blinklicht (Rundumlicht) auf folgenden Teilstrecken erforderlich: - siehe Anlage 3. Das Transportfahrzeug und das private Begleitfahrzeug müssen mit Funk ausgestattet sein."
           },
           {
             "stichwort": "Privates Begleitfahrzeug mit WVZ-Anlage",
-            "rgst_nr": "20",
+            "rgst_nr": 20,
             "auflage": "Der Transport ist auf den nachfolgenden Strecken / Streckenabschnitten nach hinten durch ein privates Begleitfahrzeug mit WVZ-Anlage abzusichern: - siehe Anlage 3 - im Bereich von Baustellen auf AB, sobald mehr als ein Fahrstreifen in GST-Fahrtrichtung zur Verfügung steht."
           },
           {
             "stichwort": "Beifahrer bei Fahrzeug mit WVZ-Anlage",
-            "rgst_nr": "21",
+            "rgst_nr": 21,
             "auflage": "Der zu begleitende Schwertransport ist mit einem Beifahrer zu besetzen, der die angeordneten Auflagen sowie die Auflagenbereiche über Funk an das Begleitfahrzeug übermittelt."
           },
           {
             "stichwort": "Fahrauflagen bei Fahrzeug mit WVZ-Anlage",
-            "rgst_nr": "22",
+            "rgst_nr": 22,
             "auflage": "Das Befahren von Brücken, Unterführungen, Baustellen und lastbeschränkten Strecken sowie die damit verbundenen Fahrstreifenwechsel und/oder das Setzen von Verkehrszeichen haben gemäß Anlage 3 zu erfolgen."
           },
           {
             "stichwort": "Fahrzeiten auf AB (Wochenende)",
-            "rgst_nr": "30",
+            "rgst_nr": 30,
             "auflage": "Die folgenden AB/AB-Streckenabschnitte dürfen nur in der Zeit von Sonntag, 22.00 Uhr, bis Samstag, 06.00 Uhr, benutzt werden: bei Streckenauflagen mit WVZ, siehe Anlage 3"
           },
           {
             "stichwort": "Fahrzeiten, alle Straßen, erhebliche Maßüberschreitungen",
-            "rgst_nr": "35",
+            "rgst_nr": 35,
             "auflage": "Der Transport darf nur an erlaubten Tagen in der Zeit von 20:00 Uhr bis 06:00 Uhr durchgeführt werden. Dies gilt für folgend(e/en) Streckenabschnitt(e) / Geltungsbereich: - siehe Anlage 3, Hinweis \"Nachtfahrt\""
           },
           {
             "stichwort": "Weitere Auflagen",
-            "rgst_nr": "36",
+            "rgst_nr": 36,
             "auflage": "Anstelle des menschlichen Beifahrers (Auflage 21) kann alternativ ein digitaler Beifahrer genutzt werden."
           },
           {
             "stichwort": "Weitere Auflagen",
-            "rgst_nr": "36",
+            "rgst_nr": 36,
             "auflage": "Die genaue Örtlichkeit der Fahrauflagen gem. Anlage 3 kann online unter https://www.autobahn.de/fuer-unternehmen/gst-viewer unter Angabe der ersten sieben Ziffern der Bauwerksnummer gefunden werden."
           },
           {
             "stichwort": "Weitere Auflagen",
-            "rgst_nr": "36",
+            "rgst_nr": 36,
             "auflage": "Für die Absicherung sind die in Anlage 3 angeordneten Pläne von Verwaltungshelfern umzusetzen. Die Pläne stehen unter https://www.autobahn.de/fuer-unternehmen/absicherung zum Download zur Verfügung."
           }
         ]
@@ -536,37 +536,37 @@
         "auflagen": [
           {
             "stichwort": "Lastfahrt",
-            "rgst_nr": "10",
+            "rgst_nr": 10,
             "auflage": "Nachstehende Auflagen gelten für die Lastfahrt:"
           },
           {
             "stichwort": "private Begleitung außerhalb der AB (ohne WVZ-Anlage)",
-            "rgst_nr": "17",
+            "rgst_nr": 17,
             "auflage": "Zur Absicherung des Transportes ist nach vorne ein privates Begleitfahrzeug mit Kennleuchten für gelbes Blinklicht (Rundumlicht) auf der gesamten Strecke außerhalb der AB und auf Straßen, die nicht wie eine AB ausgebaut sind, erforderlich. Das Transportfahrzeug und das private Begleitfahrzeug müssen mit Funk ausgestattet sein."
           },
           {
             "stichwort": "Privates Begleitfahrzeug mit WVZ-Anlage",
-            "rgst_nr": "20",
+            "rgst_nr": 20,
             "auflage": "Der Transport ist auf den nachfolgenden Strecken / Streckenabschnitten nach hinten durch ein privates Begleitfahrzeug mit WVZ-Anlage abzusichern: - gesamte Strecke außerhalb AB. Das Zeichen 101 und die nach hinten wirkenden gelben Blinklichter sind stets einzuschalten."
           },
           {
             "stichwort": "Weitere Auflagen",
-            "rgst_nr": "36",
+            "rgst_nr": 36,
             "auflage": "Während des Transports ist für den gesamten Fahrtweg sicherzustellen, dass sich kein weiterer Schwertransport gleichzeitig auf einem Bauwerk befindet."
           },
           {
             "stichwort": "Weitere Auflagen",
-            "rgst_nr": "36",
+            "rgst_nr": 36,
             "auflage": "Diese Stellungnahme gilt nur auf dem berechneten Fahrtweg und ist nicht mit anderen streckenbezogenen Einzel-, Kurzzeit- oder Dauergenehmigungen kombinierbar. Eine Zwischenauffahrt bzw. Zwischenabfahrt ist nicht gestattet."
           },
           {
             "stichwort": "Weitere Auflagen",
-            "rgst_nr": "36",
+            "rgst_nr": 36,
             "auflage": "Im Streckenverlauf befinden sich ggf. Zwischenabschnitte, für die eine andere Straßenbaubehörde zuständig ist."
           },
           {
             "stichwort": "Baustelleninformation",
-            "rgst_nr": "37",
+            "rgst_nr": 37,
             "auflage": "Vor Durchführung des Transportes sind durch den Transportdurchführenden die aktuellen Baustellen und Sperrungen unter https://www.bayerninfo.de/de/baustellenkalender?datetimeFrom=2025-12-09&datetimeTo=2026-03-08 zu prüfen."
           }
         ]
@@ -583,32 +583,32 @@
         "auflagen": [
           {
             "stichwort": "Lastfahrt",
-            "rgst_nr": "10",
+            "rgst_nr": 10,
             "auflage": "Nachstehende Auflagen gelten für die Lastfahrt:"
           },
           {
             "stichwort": "private Begleitung außerhalb der AB (ohne WVZ-Anlage)",
-            "rgst_nr": "17",
+            "rgst_nr": 17,
             "auflage": "Zur Absicherung des Transportes ist nach vorne ein privates Begleitfahrzeug mit Kennleuchten für gelbes Blinklicht (Rundumlicht) auf der gesamten Strecke außerhalb der AB und auf Straßen, die nicht wie eine AB ausgebaut sind, erforderlich. Das Transportfahrzeug und das private Begleitfahrzeug müssen mit Funk ausgestattet sein."
           },
           {
             "stichwort": "Privates Begleitfahrzeug mit WVZ-Anlage",
-            "rgst_nr": "20",
+            "rgst_nr": 20,
             "auflage": "Der Transport ist auf den nachfolgenden Strecken / Streckenabschnitten nach hinten durch ein privates Begleitfahrzeug mit WVZ-Anlage abzusichern: - gesamte Strecke außerhalb AB."
           },
           {
             "stichwort": "Weitere Auflagen",
-            "rgst_nr": "36",
+            "rgst_nr": 36,
             "auflage": "Während des Transports ist für den gesamten Fahrtweg sicherzustellen, dass sich kein weiterer Schwertransport gleichzeitig auf einem Bauwerk befindet."
           },
           {
             "stichwort": "Weitere Auflagen",
-            "rgst_nr": "36",
+            "rgst_nr": 36,
             "auflage": "Diese Stellungnahme gilt nur auf dem berechneten Fahrtweg und ist nicht mit anderen streckenbezogenen Einzel-, Kurzzeit- oder Dauergenehmigungen kombinierbar. Eine Zwischenauffahrt bzw. Zwischenabfahrt ist nicht gestattet."
           },
           {
             "stichwort": "Baustelleninformation",
-            "rgst_nr": "37",
+            "rgst_nr": 37,
             "auflage": "Vor Durchführung des Transportes sind durch den Transportdurchführenden die aktuellen Baustellen und Sperrungen unter https://www.bayerninfo.de/de/baustellenkalender?datetimeFrom=2025-12-09&datetimeTo=2026-03-08 zu prüfen."
           }
         ]
@@ -633,7 +633,7 @@
               "lokalisation": "Brücke A3 über das westliche Regnitztal - Überbau FR Frankfurt",
               "netzknoten": "6431019O - 6431028O",
               "typ": "Br",
-              "abstand_m": 25.0,
+              "abstand_m": 25,
               "hinweis": "Pos.: 1.FS Privates Begleitfahrzeug gültig für folgende VF: (_)_ohne.Baustelle.in.FR (_)_in.FR.verschwenkt (_)_übergeleiteter.GV (X)_in.FR.via.Überleitung",
               "kmh": null,
               "fahrauflage_wvz_polizei": null
@@ -647,7 +647,7 @@
               "lokalisation": "Brücke A3 über die Regnitz - Überbau FR Frankfurt",
               "netzknoten": "6431019O - 6431028O",
               "typ": "Br",
-              "abstand_m": 25.0,
+              "abstand_m": 25,
               "hinweis": "Pos.: 1.FS Privates Begleitfahrzeug gültig für folgende VF: (_)_ohne.Baustelle.in.FR (_)_in.FR.verschwenkt (_)_übergeleiteter.GV (X)_in.FR.via.Überleitung",
               "kmh": null,
               "fahrauflage_wvz_polizei": null
@@ -661,7 +661,7 @@
               "lokalisation": "Brücke A3 über Pegnitztal - Überbau FR Regensburg",
               "netzknoten": "6533007O - 6533008O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -675,7 +675,7 @@
               "lokalisation": "Brücke A9 über DB und Ortsstraße - Überbau FR München",
               "netzknoten": "6633001O - 6633020O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -689,7 +689,7 @@
               "lokalisation": "Brücke A9 über Main-Donau-Kanal - Überbau FR München",
               "netzknoten": "6733011O - 6833028O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277 gültig für folgende VF: (X)_ohne.Baustelle.in.FR (X)_in.FR.verschwenkt (_)_übergeleiteter.GV (_)_in.FR.via.Überleitung",
               "kmh": null
@@ -703,7 +703,7 @@
               "lokalisation": "Brücke A9 über St 2391",
               "netzknoten": "6833028O - 6934014O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -717,7 +717,7 @@
               "lokalisation": "Brücke A9 über die Schwarzach b. Kleinhöbing",
               "netzknoten": "6833028O - 6934014O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -731,7 +731,7 @@
               "lokalisation": "Brücke A9 über die Schwarzach b. Hausen - Überbau FR München",
               "netzknoten": "6833028O - 6934014O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -745,7 +745,7 @@
               "lokalisation": "Brücke A9 über die Anlauter",
               "netzknoten": "6934014O - 7034017O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 3.FS Absicherung nach Plan: S3",
               "kmh": null
@@ -759,7 +759,7 @@
               "lokalisation": "Brücke A9 über die Altmühl",
               "netzknoten": "7034024O - 7034025O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -773,7 +773,7 @@
               "lokalisation": "Brücke A9 über St 2230",
               "netzknoten": "7034024O - 7034025O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -787,7 +787,7 @@
               "lokalisation": "Brücke A9 über Kindinger Hang",
               "netzknoten": "7034024O - 7034026O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -801,7 +801,7 @@
               "lokalisation": "Brücke A9 über GVS",
               "netzknoten": "7034025O - 7034026O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -815,7 +815,7 @@
               "lokalisation": "Brücke A9 über St 2229",
               "netzknoten": "7034026O - 7134023O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -843,7 +843,7 @@
               "lokalisation": "Brücke A 9 über die Donau (18) - Überbau FR München (18)",
               "netzknoten": "7234024O - 7234033O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -857,7 +857,7 @@
               "lokalisation": "Brücke A 9 über Regenüberlauf von Ingolst.Hbf (22)",
               "netzknoten": "7234033O - 7234053O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -871,7 +871,7 @@
               "lokalisation": "Brücke A 9 über DB Regensburg-IN + Sandrach (25) - Überbau FR München (25)",
               "netzknoten": "7234033O - 7234053O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -886,7 +886,7 @@
               "netzknoten": "7234053O - 7335010O",
               "typ": "Br",
               "kmh": 5,
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 2.FS Absicherung nach Plan: S4 Nachtfahrt"
             },
@@ -899,7 +899,7 @@
               "lokalisation": "Brücke A 9 über Augraben (28) - Überbau Verbreiterung FR München (28)",
               "netzknoten": "7234053O - 7335010O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -913,7 +913,7 @@
               "lokalisation": "Brücke A 9 über Igelsbach (30) - Überbau Verbreiterung FR München (30)",
               "netzknoten": "7234053O - 7335010O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -927,7 +927,7 @@
               "lokalisation": "Brücke A 9 über Vogelaubach (33) - Überbau Verbreiterung FR München (33)",
               "netzknoten": "7234053O - 7335010O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -941,7 +941,7 @@
               "lokalisation": "Brücke A 9 über DB München-Ingolstadt (37) - Überbau FR München (37)",
               "netzknoten": "7234053O - 7335010O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -956,7 +956,7 @@
               "netzknoten": "7234053O - 7335010O",
               "typ": "Br",
               "kmh": 5,
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 2.FS/3.FS Absicherung nach Plan: S4 Nachtfahrt"
             },
@@ -969,7 +969,7 @@
               "lokalisation": "Brücke A 9 über A 93 Nord (AD Holledau) (60) - Überbau FR München (60)",
               "netzknoten": "7335010O - 7435026O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -983,7 +983,7 @@
               "lokalisation": "Brücke A 9 über K PAF9, Talbrücke Holledau (66) - Überbau FR München (66)",
               "netzknoten": "7435003O - 7435026O",
               "typ": "Br",
-              "abstand_m": 25.0,
+              "abstand_m": 25,
               "hinweis": "Pos.: 1.FS Privates Begleitfahrzeug",
               "kmh": null,
               "fahrauflage_wvz_polizei": null
@@ -997,7 +997,7 @@
               "lokalisation": "Brücke A 9 über K PAF6 Freising-Pfaffernhofen (78) - Brücke Überbau Mitte FR Nü. + Mü. (78)",
               "netzknoten": "7435026O - 7535015O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 3.FS Absicherung nach Plan: S3",
               "kmh": null
@@ -1011,7 +1011,7 @@
               "lokalisation": "Brücke A 9 über den Amperkanal (105) - Überbau FR München (105)",
               "netzknoten": "7535015O - 7635023O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -1025,7 +1025,7 @@
               "lokalisation": "Brücke A 9 über die Amper (107) - Überbau Verbreiterung FR München (107)",
               "netzknoten": "7535015O - 7635023O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -1053,7 +1053,7 @@
               "lokalisation": "Brücke A 9 über A 92 (AK Neufahrn) (121/1) - Überbau FR München (121/1)",
               "netzknoten": "7535015O - 7635022O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -1065,7 +1065,7 @@
               "lokalisation": "Brücke Rampe A 99 Ost über A 9 (AK M-Nord) (24/6) im Ast A-T von Station 2229 bis Station 2416",
               "netzknoten": "7735012A - 7735012T",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "von_km": null,
@@ -1079,7 +1079,7 @@
               "lokalisation": "Brücke Rampe über A 99 Ost (AK M-Nord) (24/5) im Ast A-T von Station 2844 bis Station 3085",
               "netzknoten": "7735012A - 7735012T",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "von_km": null,
@@ -1102,7 +1102,7 @@
               "lokalisation": "Brücke A 9 über die DB Landshut - München (122) - Überbau FR Nü+Mü (122)",
               "netzknoten": "7635022O - 7635023O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 2.FS Absicherung nach Plan: S3",
               "kmh": null
@@ -1116,7 +1116,7 @@
               "lokalisation": "Brücke A 9 über A 92 (AK Neufahrn) (121/1) - Überbau FR Nürnberg (121/1)",
               "netzknoten": "7635022O - 7535015O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -1144,7 +1144,7 @@
               "lokalisation": "Brücke A 9 über die Amper (107) - Überbau Verbreiterung FR Nürnberg (107)",
               "netzknoten": "7635023O - 7535015O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -1158,7 +1158,7 @@
               "lokalisation": "Brücke A 9 über den Amperkanal (105) - Überbau FR Nürnberg (105)",
               "netzknoten": "7635023O - 7535015O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -1172,7 +1172,7 @@
               "lokalisation": "Brücke A 9 über K PAF6 Freising-Pfaffernhofen (78) - Brücke Überbau Mitte FR Nü. + Mü. (78)",
               "netzknoten": "7535015O - 7435026O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 3.FS Absicherung nach Plan: S3",
               "kmh": null
@@ -1186,7 +1186,7 @@
               "lokalisation": "Brücke A 9 über K PAF9, Talbrücke Holledau (66) - Überbau FR Nürnberg (66)",
               "netzknoten": "7435026O - 7435003O",
               "typ": "Br",
-              "abstand_m": 25.0,
+              "abstand_m": 25,
               "hinweis": "Pos.: 1.FS Privates Begleitfahrzeug",
               "kmh": null,
               "fahrauflage_wvz_polizei": null
@@ -1200,7 +1200,7 @@
               "lokalisation": "Brücke A 9 über A 93 Nord (AD Holledau) (60) - Überbau FR Nürnberg (60)",
               "netzknoten": "7435026O - 7335010O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -1215,7 +1215,7 @@
               "netzknoten": "7335010O - 7234053O",
               "typ": "Br",
               "kmh": 5,
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 2.FS Absicherung nach Plan: S4 Nachtfahrt"
             },
@@ -1228,7 +1228,7 @@
               "lokalisation": "Brücke A 9 über DB München-Ingolstadt (37) - Überbau FR Nürnberg (37)",
               "netzknoten": "7335010O - 7234053O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -1242,7 +1242,7 @@
               "lokalisation": "Brücke A 9 über Vogelaubach (33) - Überbau Verbreiterung FR Nürnberg (33)",
               "netzknoten": "7335010O - 7234053O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -1256,7 +1256,7 @@
               "lokalisation": "Brücke A 9 über Igelsbach (30) - Überbau Verbreiterung FR Nürnberg (30)",
               "netzknoten": "7335010O - 7234053O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -1270,7 +1270,7 @@
               "lokalisation": "Brücke A 9 über Augraben (28)",
               "netzknoten": "7335010O - 7234053O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -1284,7 +1284,7 @@
               "lokalisation": "Brücke A 9 über DB Regensburg-IN + Sandrach (25) - Überbau FR Nürnberg (25)",
               "netzknoten": "7234053O - 7234033O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -1298,7 +1298,7 @@
               "lokalisation": "Brücke A 9 über Regenüberlauf von Ingolst.Hbf (22)",
               "netzknoten": "7234053O - 7234033O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -1312,7 +1312,7 @@
               "lokalisation": "Brücke A 9 über die Donau (18) - Überbau FR Nürnberg (18)",
               "netzknoten": "7234033O - 7234024O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -1326,7 +1326,7 @@
               "lokalisation": "Brücke A9 über St 2229",
               "netzknoten": "7134023O - 7034026O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -1340,7 +1340,7 @@
               "lokalisation": "Brücke A9 über die Altmühl",
               "netzknoten": "7034026O - 7034024O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -1354,7 +1354,7 @@
               "lokalisation": "Brücke A9 über die Anlauter",
               "netzknoten": "7034017O - 6934014O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 3.FS Absicherung nach Plan: S3",
               "kmh": null
@@ -1368,7 +1368,7 @@
               "lokalisation": "Brücke A9 über die Schwarzach b. Hausen - Überbau FR Berlin",
               "netzknoten": "6934014O - 6833028O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -1382,7 +1382,7 @@
               "lokalisation": "Brücke A9 über die Schwarzach b. Kleinhöbing",
               "netzknoten": "6934014O - 6833028O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -1396,7 +1396,7 @@
               "lokalisation": "Brücke A9 über St 2391",
               "netzknoten": "6934014O - 6833028O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -1410,7 +1410,7 @@
               "lokalisation": "Brücke A9 über Main-Donau-Kanal - Überbau FR Berlin",
               "netzknoten": "6833028O - 6733011O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277 gültig für folgende VF: (X)_ohne.Baustelle.in.FR (X)_in.FR.verschwenkt (_)_übergeleiteter.GV (_)_in.FR.via.Überleitung",
               "kmh": null
@@ -1424,7 +1424,7 @@
               "lokalisation": "Brücke A9 über DB und Ortsstraße - Überbau FR Berlin",
               "netzknoten": "6633020O - 6633001O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -1438,7 +1438,7 @@
               "lokalisation": "Brücke A3 über Pegnitztal - Überbau FR Frankfurt",
               "netzknoten": "6533008O - 6533007O",
               "typ": "Br",
-              "abstand_m": 50.0,
+              "abstand_m": 50,
               "fahrauflage_wvz_polizei": "WVZ",
               "hinweis": "Pos.: 1.FS Zeichen StVO: 277",
               "kmh": null
@@ -1452,7 +1452,7 @@
               "lokalisation": "Brücke A3 über die Regnitz - Überbau FR Frankfurt",
               "netzknoten": "6431028O - 6431019O",
               "typ": "Br",
-              "abstand_m": 25.0,
+              "abstand_m": 25,
               "hinweis": "Pos.: 1.FS Privates Begleitfahrzeug gültig für folgende VF: (_)_ohne.Baustelle.in.FR (_)_in.FR.verschwenkt (X)_übergeleiteter.GV (_)_in.FR.via.Überleitung",
               "kmh": null,
               "fahrauflage_wvz_polizei": null
@@ -1466,7 +1466,7 @@
               "lokalisation": "Brücke A3 über das westliche Regnitztal - Überbau FR Frankfurt",
               "netzknoten": "6431028O - 6431019O",
               "typ": "Br",
-              "abstand_m": 25.0,
+              "abstand_m": 25,
               "hinweis": "Pos.: 1.FS Privates Begleitfahrzeug gültig für folgende VF: (_)_ohne.Baustelle.in.FR (_)_in.FR.verschwenkt (X)_übergeleiteter.GV (_)_in.FR.via.Überleitung",
               "kmh": null,
               "fahrauflage_wvz_polizei": null

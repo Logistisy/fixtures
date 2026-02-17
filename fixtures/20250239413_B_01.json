@@ -167,7 +167,7 @@
     "begruendung": "kein Anschluß"
   },
   "bescheid": {
-    "fahrtweg": "geändert",
+    "fahrtweg_wie_beantragt": false,
     "geltungsdauer_wie_beantragt": false,
     "geltungsdauer_von": "2025-08-21",
     "geltungsdauer_bis": "2025-11-18",
@@ -191,7 +191,7 @@
     "auflagen_gesamt": [
       {
         "stichwort": "Fahrtweg",
-        "rgst_nr": "12",
+        "rgst_nr": 12,
         "auflage": "In Abweichung von dem beantragten Fahrtweg wird nachstehender Fahrtweg festgesetzt:\nFWT 1.1: geändert\nEverlingweg - Legienstr. - Kattenstreet - Glinder Str. - AS Hamburg-Öjendorf - A 1 - AK HH-Ost - A24 - AS Schwarzenbek-Grande - B404 - B209 - Schwarzenbek - B209 - B5 - Lauenburg/Elbe - B5 - Am Elbberg - Hamburger Str. - Fährweg\nFWT 1.2: geändert\nFährweg - Hamburger Str. - Am Elbberg - B5 - Lauenburg/Elbe - B5 - B209 - Schwarzenbek - B209 - B404 - AS Schwarzenbek-Grande - A24 - AK HH-Ost - A 1 - AS Hamburg-Öjendorf - Glinder Str. - Kattenstreet - Legienstr. - Everlingweg"
       }
     ],
@@ -202,32 +202,32 @@
         "auflagen": [
           {
             "stichwort": "keine Konvoifahrt",
-            "rgst_nr": "05",
+            "rgst_nr": 5,
             "auflage": "Es darf nicht im Konvoi gefahren werden."
           },
           {
             "stichwort": "Fahrzeiten außerhalb AB (Werktage)",
-            "rgst_nr": "34",
+            "rgst_nr": 34,
             "auflage": "Folgende Strecken/Streckenabschnitte außerhalb von BAB dürfen Montag bis Freitag jeweils von 06.00 Uhr bis 09.00 Uhr und von 16.00 Uhr bis 19.00 Uhr nicht befahren werden: Gesamter Fahrtweg"
           },
           {
             "stichwort": "Weitere Auflagen",
-            "rgst_nr": "36",
+            "rgst_nr": 36,
             "auflage": "Das Wochenendfahrverbot gem. § 29 Absatz 3, Rd. Nummer 141 sowie das Fahrverbot gem. § 30 Absatz 1 ff. Straßenverkehrs-Ordnung, wird für den gesamten Geltungsbereich außerhalb der BAB aufgehoben."
           },
           {
             "stichwort": "private Begleitung außerhalb der AB (ohne WVZ-Anlage)",
-            "rgst_nr": "17",
+            "rgst_nr": 17,
             "auflage": "Zur Absicherung des Transportes ist ein privates Begleitfahrzeug mit Kennleuchten für gelbes Blinklicht (Rundumlicht) auf der gesamten Strecke außerhalb der BAB und auf Straßen, die nicht wie eine BAB ausgebaut sind, erforderlich. Auf Straßen mit einem Fahrstreifen ist das private Begleitfahrzeug nach vorne einzusetzen. Auf Straßen mit mehr als einem Fahrstreifen ist das private Begleitfahrzeug nach hinten einzusetzen. Das Transportfahrzeug und das private Begleitfahrzeug müssen mit Funk ausgestattet sein."
           },
           {
             "stichwort": "Weitere Auflagen",
-            "rgst_nr": "36",
+            "rgst_nr": 36,
             "auflage": "Im gesamten Stadtgebiet werden Bauarbeiten mit erheblichen Auswirkungen auf den Straßenverkehr ausgeführt. Die Zustimmung / Genehmigung zum beantragten Transport erfolgt nur unter der Voraussetzung, dass vom Antragsteller kurz vor Transportdurchführung die vorgeschriebene Strecke auf Befahrbarkeit überprüft wird."
           },
           {
             "stichwort": "Baustelleninformation",
-            "rgst_nr": "37",
+            "rgst_nr": 37,
             "auflage": "Im Hinblick auf die Allgemeine Auflage gem. RGST 2013 ist die Transportfirma verpflichtet, unmittelbar vor Transportbeginn Informationen zu Baustellen einzuholen. Die Behörde für Wirtschaft und Innovation Hamburg bietet hierzu aktuelle Informationen auf der Internetseite - http://www.hamburg.de. Weiterhin bietet die Hamburg Port Authority unter - https://www.hamburg-port-authority.de/de/info-port/traffic-tower - die Möglichkeit an, sich bezüglich Sperrungen im Hamburger Hafen zu informieren."
           }
         ],
@@ -245,57 +245,57 @@
         "auflagen": [
           {
             "stichwort": "Lastfahrt",
-            "rgst_nr": "10",
+            "rgst_nr": 10,
             "auflage": "Nachstehende Auflagen gelten für die Lastfahrt: Fahrtwegteil 1.1 - Die Autobahn, NL Nord. Berechneter Fahrtweg / Geltungsbereich Strecke: Hamburg-Öjendorf, Ast M-N, Station: 10 - A1 - Kreuz Hamburg-Ost- A24 - A24/B404, AS Schwarzenbek/Grande (Nr. 6), Ast A-E, Station: 637"
           },
           {
             "stichwort": "keine Konvoifahrt",
-            "rgst_nr": "05",
+            "rgst_nr": 5,
             "auflage": "Es darf nicht im Konvoi gefahren werden."
           },
           {
             "stichwort": "Privates Begleitfahrzeug mit WVZ-Anlage",
-            "rgst_nr": "20",
+            "rgst_nr": 20,
             "auflage": "Der Transport ist auf den nachfolgenden Strecken / Streckenabschnitten nach hinten durch ein privates Begleitfahrzeug mit WVZ-Anlage abzusichern: - im Bereich von Baustellen auf AB, sobald mehr als ein Fahrstreifen in GST-Fahrtrichtung zur Verfügung steht. Das Zeichen 101 und die nach hinten wirkenden gelben Blinklichter sind stets einzuschalten: - bei Auffahrt auf die AB, - an Steigungen/Gefälle bei einer Geschwindigkeit von weniger als 40 km/h, - bei liegen gebliebenen Fahrzeugen und beim Halt oder - 200 m vor der ersten verkehrsregelnden Maßnahme und während der Durchfahrt von Baustellen. Auf AB und Straßen, die wie eine AB ausgebaut sind, ist bei Inanspruchnahme des 2. Fahrstreifens das Zeichen 276 StVO und bei 3 Fahrstreifen das Zeichen 277 StVO zu setzen. Zur Anzeige von Überholverboten (Zeichen 276 und 277 StVO) darf das private Begleitfahrzeug mit WVZ-Anlage straßenmittig bzw. links fahren."
           },
           {
             "stichwort": "Weitere Auflagen",
-            "rgst_nr": "36",
+            "rgst_nr": 36,
             "auflage": "Hinweis im Bereich NL Nord: Vor Durchführung des Transportes und/oder bei einer baustellenbedingten Ablehnung sind durch den Transportdurchführenden die aktuellen Arbeitsstellen / Baustellen und Sperrungen zu prüfen unter: https://www.autobahn.de/fuer-unternehmen/regionale-besonderheiten (Arbeitsstellen / Baustellen längerer Dauer in ihrer Gesamtheit, inkl. aller Baustellenphasen und Durchfahrtsbreiten). Hinweis: Baustellen werden zur Durchführung von Großraum- und Schwertransporten grundsätzlich nicht beräumt. Weitere Rückfragen zu Arbeitsstellen/Baustellen können an gst-baustellen.nord@autobahn.de gerichtet werden."
           },
           {
             "stichwort": "Baustelleninformation",
-            "rgst_nr": "37",
+            "rgst_nr": 37,
             "auflage": "Vor Durchführung des Transportes sind durch den Transportdurchführenden die aktuellen Baustellen und Sperrungen unter https://verkehr.vz-deutschland.de/?layer=baustellen&zoom=6 zu prüfen."
           },
           {
             "stichwort": "Lastfahrt",
-            "rgst_nr": "10",
+            "rgst_nr": 10,
             "auflage": "Nachstehende Auflagen gelten für die Lastfahrt: Fahrtwegteil 1.2 - Die Autobahn, NL Nord. Berechneter Fahrtweg / Geltungsbereich Strecke: Beginn Grande Rtg. HH - A24 - Kreuz Hamburg-Ost- A1 - Hamburg-Öjendorf, Ast G-H, Station: 264"
           },
           {
             "stichwort": "keine Konvoifahrt",
-            "rgst_nr": "05",
+            "rgst_nr": 5,
             "auflage": "Es darf nicht im Konvoi gefahren werden."
           },
           {
             "stichwort": "Fahrtweg",
-            "rgst_nr": "12",
+            "rgst_nr": 12,
             "auflage": "In Abweichung von dem beantragten Fahrtweg wird nachstehender Fahrtweg festgesetzt: ...A24 - Kreuz Hamburg-Ost- A1 - AS Hamburg-Öjendorf - weiter wie beantragt ..."
           },
           {
             "stichwort": "Privates Begleitfahrzeug mit WVZ-Anlage",
-            "rgst_nr": "20",
+            "rgst_nr": 20,
             "auflage": "Der Transport ist auf den nachfolgenden Strecken / Streckenabschnitten nach hinten durch ein privates Begleitfahrzeug mit WVZ-Anlage abzusichern: - im Bereich von Baustellen auf AB, sobald mehr als ein Fahrstreifen in GST-Fahrtrichtung zur Verfügung steht. Das Zeichen 101 und die nach hinten wirkenden gelben Blinklichter sind stets einzuschalten: - bei Auffahrt auf die AB, - an Steigungen/Gefälle bei einer Geschwindigkeit von weniger als 40 km/h, - bei liegen gebliebenen Fahrzeugen und beim Halt oder - 200 m vor der ersten verkehrsregelnden Maßnahme und während der Durchfahrt von Baustellen. Auf AB und Straßen, die wie eine AB ausgebaut sind, ist bei Inanspruchnahme des 2. Fahrstreifens das Zeichen 276 StVO und bei 3 Fahrstreifen das Zeichen 277 StVO zu setzen. Zur Anzeige von Überholverboten (Zeichen 276 und 277 StVO) darf das private Begleitfahrzeug mit WVZ-Anlage straßenmittig bzw. links fahren."
           },
           {
             "stichwort": "Weitere Auflagen",
-            "rgst_nr": "36",
+            "rgst_nr": 36,
             "auflage": "Hinweis im Bereich NL Nord: Vor Durchführung des Transportes und/oder bei einer baustellenbedingten Ablehnung sind durch den Transportdurchführenden die aktuellen Arbeitsstellen / Baustellen und Sperrungen zu prüfen unter: https://www.autobahn.de/fuer-unternehmen/regionale-besonderheiten (Arbeitsstellen / Baustellen längerer Dauer in ihrer Gesamtheit, inkl. aller Baustellenphasen und Durchfahrtsbreiten). Hinweis: Baustellen werden zur Durchführung von Großraum- und Schwertransporten grundsätzlich nicht beräumt. Weitere Rückfragen zu Arbeitsstellen/Baustellen können an gst-baustellen.nord@autobahn.de gerichtet werden."
           },
           {
             "stichwort": "Baustelleninformation",
-            "rgst_nr": "37",
+            "rgst_nr": 37,
             "auflage": "Vor Durchführung des Transportes sind durch den Transportdurchführenden die aktuellen Baustellen und Sperrungen unter https://verkehr.vz-deutschland.de/?layer=baustellen&zoom=6 zu prüfen."
           }
         ]
@@ -306,12 +306,12 @@
         "auflagen": [
           {
             "stichwort": "Weitere Auflagen",
-            "rgst_nr": "36",
+            "rgst_nr": 36,
             "auflage": "Beim Überqueren von Bahnübergängen im anhörungsfreien Bereich ist bei Bedarf durch Zuwarten auf eine Lücke im Verkehrsfluss sicherzustellen, dass im Bereich des Bahnübergangs auf einer Länge von 50m vor und hinter dem Bahnübergang kein Gegenverkehr stattfindet. Die Querung des Bahnübergangs darf nur im Alleingang unter Ausschluss des gesamten Gegenverkehrs erfolgen. Das Überqueren des Bahnübergangs muss mit einer Mindesträumgeschwindigkeit von 20 km/h ohne Rangieren erfolgen. Beim Befahren des Bahnübergangs an elektrifizierten Strecken muss sichergestellt sein, dass sich keine Personen auf dem Fahrzeug befinden, noch Gegenstände, Fahrzeugteile (z. B. Antennen) oder Ladungsteile über die zugelassene Fahrzeughöhe von 4,50 m hinausragen. Auch etwaige Begleitfahrzeuge dürfen auf dem Bahnübergang nicht zum Stehen kommen."
           },
           {
             "stichwort": "Baustelleninformation",
-            "rgst_nr": "37",
+            "rgst_nr": 37,
             "auflage": "Informationen zu Baustellen in Schleswig-Holstein finden sie unter https://danord.gdi-sh.de/viewer/resources/apps/lbvsh_baustelleninfos"
           }
         ],
@@ -323,22 +323,22 @@
         "auflagen": [
           {
             "stichwort": "Weitere Auflagen",
-            "rgst_nr": "36",
+            "rgst_nr": 36,
             "auflage": "Nachstehende Auflagen gelten für FW 1.1 und 1.2:"
           },
           {
             "stichwort": "Weitere Auflagen",
-            "rgst_nr": "36",
+            "rgst_nr": 36,
             "auflage": "Die hier zuständigen Meistereien müssen mindestens drei Tage vor Durchführung des Transportes kontaktiert werden, um sich über etwaige Arbeitsstellen, Einschränkungen und Vollsperrungen kürzerer Dauer zu informieren. Bitte richten Sie ihre Anfragen ausschließlich Telefonisch unter den nachfolgenden Kontaktdaten an die relevanten Meistereien. Servicezeiten: Mo.: 9:00 - 14:00, Di.: 9:00 - 14:00, Mi.: 9:00 - 14:00, Do.: 9:00 - 14:00, Fr.: 9:00 - 12:00"
           },
           {
             "stichwort": "Weitere Auflagen",
-            "rgst_nr": "36",
+            "rgst_nr": 36,
             "auflage": "SM Grande - Tel.: 04154/86020"
           },
           {
             "stichwort": "Weitere Auflagen",
-            "rgst_nr": "36",
+            "rgst_nr": 36,
             "auflage": "SM Breitenfelde - Tel.: 04542/85400"
           }
         ],
@@ -350,7 +350,7 @@
         "auflagen": [
           {
             "stichwort": "Weitere Auflagen",
-            "rgst_nr": "36",
+            "rgst_nr": 36,
             "auflage": "Fahrtwegteil 1.1 + 1.2. Die Brücke Nr. 191 über den Elbe-Lübeck-Kanal (ELK) im Zuge der B 5 (Berliner Straße) kann ohne Auflagen befahren werden. Das WSA Elbe hat die Bauwerke nur statisch überprüft. Das Lichtraumprofil wurde nicht geprüft."
           }
         ],
@@ -362,32 +362,32 @@
         "auflagen": [
           {
             "stichwort": "Lastfahrt",
-            "rgst_nr": "10",
+            "rgst_nr": 10,
             "auflage": "Nachstehende Auflagen gelten für die Lastfahrt:"
           },
           {
             "stichwort": "private Begleitung außerhalb der AB (ohne WVZ-Anlage)",
-            "rgst_nr": "17",
+            "rgst_nr": 17,
             "auflage": "Zur Absicherung des Transportes ist nach vorne ein privates Begleitfahrzeug mit Kennleuchten für gelbes Blinklicht (Rundumlicht) auf der gesamten Strecke außerhalb der AB und auf Straßen, die nicht wie eine AB ausgebaut sind, erforderlich. Das Transportfahrzeug und das private Begleitfahrzeug müssen mit Funk ausgestattet sein."
           },
           {
             "stichwort": "Fahrzeiten außerhalb AB (Wochenende)",
-            "rgst_nr": "33",
+            "rgst_nr": 33,
             "auflage": "Folgende Strecken / Streckenabschnitte außerhalb von AB dürfen in der Zeit von Sonntag, 22.00 Uhr, bis Samstag, 06.00 Uhr, benutzt werden: GESAMTER FAHRWEG"
           },
           {
             "stichwort": "Fahrzeiten außerhalb AB (Werktage)",
-            "rgst_nr": "34",
+            "rgst_nr": 34,
             "auflage": "Folgende Strecken/Streckenabschnitte außerhalb von AB dürfen werktags jeweils von 06.00 Uhr bis 09.00 Uhr und von 16.00 Uhr bis 19.00 Uhr nicht befahren werden: GESAMTER FAHRWEG"
           },
           {
             "stichwort": "Weitere Auflagen",
-            "rgst_nr": "36",
+            "rgst_nr": 36,
             "auflage": "Beim Überqueren eines Bahnübergangs ist bei Bedarf durch Zuwarten auf eine Lücke im Verkehrsfluss sicherzustellen, dass im Bereich des Bahnübergangs auf einer Länge von 50 m vor und hinter dem Bahnübergang kein Gegenverkehr stattfindet. Die Querung des Bahnübergangs darf nur im Alleingang unter Ausschluss des gesamten Gegenverkehrs erfolgen. Das Überqueren des Bahnübergangs muss mit einer Mindesträumgeschwindigkeit von 20 km/h ohne Rangieren erfolgen. Beim Befahren des Bahnübergangs an elektrifizierten Strecken muss sichergestellt sein, dass sich keine Personen auf dem Fahrzeug befinden, noch Gegenstände, Fahrzeugteile (z.B. Antennen) oder Ladungsteile über die zugelassene Fahrzeughöhe von 4,50 m hinausragen. Auch etwaige Begleitfahrzeuge dürfen auf dem Bahnübergang nicht zum Stehen kommen."
           },
           {
             "stichwort": "Baustelleninformation",
-            "rgst_nr": "37",
+            "rgst_nr": 37,
             "auflage": "Vor Durchführung des Transportes sind durch den Transportdurchführenden die aktuellen Baustellen und Sperrungen unter https://www.strassen-mv.de/verkehrsinfos/ zu prüfen."
           }
         ],
