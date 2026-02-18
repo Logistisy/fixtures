@@ -176,7 +176,7 @@
   },
 
   "bescheid": {
-    "fahrtweg_wie_beantragt": null,
+    "fahrtweg_wie_beantragt": false,
     "geltungsdauer_wie_beantragt": false,
     "geltungsdauer_von": null,
     "geltungsdauer_bis": null,
@@ -208,7 +208,7 @@
         "behoerde": null,
         "fahrtwegteile": [
           {
-            "$comment": "Only present if authority scopes conditions to a specific Fahrtwegteil. Omit this level if auflagen apply to all Fahrtwegteile.",
+            "$comment": "Scopes this entry's auflagen to specific Fahrtwegteile. Omit fahrtwegteile entirely if auflagen apply to all. NEVER nest auflagen inside fahrtwegteile — auflagen is always a sibling array. If the same authority has different auflagen per Fahrtwegteil, create separate auflagen_pro_behoerde entries.",
             "teil_nr": null,
             "strecke": null
           }
