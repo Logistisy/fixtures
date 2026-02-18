@@ -194,8 +194,7 @@
             "strasse": "Bürgermeister-Steinberger-Ring",
             "zusatz": null
           },
-          "strecke": "AS Kitzingen/Schwarzach - A3 - AK Nürnberg - A9 - AK München-Nord - A99 - AK München-Ost - A94 - AS Heldenstein - B12 - St2084 {im Kreisverkehr nördlich der AS Heldenstein WENDEN} - B12 {AS Haun} - MÜ21 - MÜ38 - Bürgermeister-Steinberger-Ring",
-          "richtung": null
+          "strecke": "AS Kitzingen/Schwarzach - A3 - AK Nürnberg - A9 - AK München-Nord - A99 - AK München-Ost - A94 - AS Heldenstein - B12 - St2084 {im Kreisverkehr nördlich der AS Heldenstein WENDEN} - B12 {AS Haun} - MÜ21 - MÜ38 - Bürgermeister-Steinberger-Ring"
         },
         {
           "teil_nr": "1.2",
@@ -212,8 +211,7 @@
             "zusatz": "Baulager AS Kitzingen",
             "strasse": null
           },
-          "strecke": "Bürgermeister-Steinberger-Ring - MÜ38 - B12 - AS Heldenstein - A94 - AK München-Ost - A99 - AK München-Nord - A9 - AK Nürnberg - A3 - AS Kitzingen/Schwarzach - B22 - ausserhalb der StVO {Baulager AS Kitzingen}",
-          "richtung": null
+          "strecke": "Bürgermeister-Steinberger-Ring - MÜ38 - B12 - AS Heldenstein - A94 - AK München-Ost - A99 - AK München-Nord - A9 - AK Nürnberg - A3 - AS Kitzingen/Schwarzach - B22 - ausserhalb der StVO {Baulager AS Kitzingen}"
         }
       ]
     }

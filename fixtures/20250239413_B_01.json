@@ -133,8 +133,7 @@
             "strasse": "Fährweg 5",
             "zusatz": "LiWood AG Produktionshalle"
           },
-          "strecke": "Everlingweg - Legienstr. - Kattenstreet - Glinder Str. - AS Hamburg-Öjendorf - A24 - AS Schwarzenbek-Grande - B404 - B209 - Schwarzenbek - B209 - B5 - Lauenburg/Elbe - B5 - Am Elbberg - Hamburger Str. - Fährweg",
-          "richtung": null
+          "strecke": "Everlingweg - Legienstr. - Kattenstreet - Glinder Str. - AS Hamburg-Öjendorf - A24 - AS Schwarzenbek-Grande - B404 - B209 - Schwarzenbek - B209 - B5 - Lauenburg/Elbe - B5 - Am Elbberg - Hamburger Str. - Fährweg"
         },
         {
           "teil_nr": "1.2",
@@ -151,8 +150,7 @@
             "strasse": "Everlingweg 11A",
             "zusatz": "Baustelle LiWood AG"
           },
-          "strecke": "Fährweg - Hamburger Str. - Am Elbberg - B5 - Lauenburg/Elbe - B5 - B209 - Schwarzenbek - B209 - B404 - AS Schwarzenbek-Grande - A24 - AS Hamburg-Öjendorf - Glinder Str. - Kattenstreet - Legienstr. - Everlingweg",
-          "richtung": null
+          "strecke": "Fährweg - Hamburger Str. - Am Elbberg - B5 - Lauenburg/Elbe - B5 - B209 - Schwarzenbek - B209 - B404 - AS Schwarzenbek-Grande - A24 - AS Hamburg-Öjendorf - Glinder Str. - Kattenstreet - Legienstr. - Everlingweg"
         }
       ]
     }
