@@ -153,7 +153,6 @@
         {
           "teil_nr": "1.1",
           "art": "Lastfahrt",
-          "richtung": "Hinfahrt",
           "start": {
             "plz": "86971",
             "ort": "Peiting",
@@ -171,7 +170,6 @@
         {
           "teil_nr": "1.2",
           "art": "Lastfahrt",
-          "richtung": "Rückfahrt",
           "start": {
             "plz": "87751",
             "ort": "Heimertingen",
