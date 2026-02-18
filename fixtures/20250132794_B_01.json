@@ -208,9 +208,9 @@
     "behoerde_ort": "Weilheim",
     "datum": "2025-05-23",
     "kostenentscheidung": {
-      "rechtsgrundlage": "§§ 1, 2 und 4 GebOSt",
-      "gebuehrennummer": "263.1",
-      "anhang_gebuehrennummer": "263.1.1"
+      "gebuehren_eur": null,
+      "auslagen_eur": null,
+      "gesamtbetrag_eur": null
     }
   },
   "anlage_2_auflagenkatalog": {
