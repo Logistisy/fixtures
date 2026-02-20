@@ -64,16 +64,20 @@
     "asymmetrisch_skizze_liegt_bei": false
   },
   "5_fahrzeuge": {
-    "kraftfahrzeug": {
-      "art": "Sattelzugmaschine",
-      "fin": "WMA06KZZ5PM914892",
-      "kennzeichen": "SOG-TB 922"
-    },
-    "anhaenger": {
-      "art": "Sattelanhänger",
-      "fin": "W09STR3487SM39444",
-      "kennzeichen": "SOG-TB 7"
-    },
+    "kraftfahrzeuge": [
+      {
+        "art": "Sattelzugmaschine",
+        "fin": "WMA06KZZ5PM914892",
+        "kennzeichen": "SOG-TB 922"
+      }
+    ],
+    "anhaenger": [
+      {
+        "art": "Sattelanhänger",
+        "fin": "W09STR3487SM39444",
+        "kennzeichen": "SOG-TB 7"
+      }
+    ],
     "bauartbedingte_hoechstgeschwindigkeit_kmh": 80,
     "ketten_oder_raupenlaufwerk": false
   },
@@ -260,50 +264,56 @@
         "fahrtwegteile": [
           {
             "teil_nr": "1.1",
-            "strecke": "AS Kempten - A7 - AS Berkheim",
-            "auflagen": [
-              {
-                "stichwort": "private Begleitung auf Teilstrecken (ohne WVZ-Anlage)",
-                "rgst_nr": 18,
-                "auflage": "Privates Begleitfahrzeug nach hinten mit gelben Blinklicht auf Teilstrecken gem. Anlage 3. Funk erforderlich."
-              },
-              {
-                "stichwort": "Weitere Auflagen",
-                "rgst_nr": 36,
-                "auflage": "Örtlichkeit der Fahrauflagen online unter autobahn.de/fuer-unternehmen/gst/gst-viewer."
-              },
-              {
-                "stichwort": "Weitere Auflagen",
-                "rgst_nr": 36,
-                "auflage": "Keine Ausnahmegenehmigung von Verboten durch Vorschriftszeichen."
-              },
-              {
-                "stichwort": "Baustelleninformation",
-                "rgst_nr": 37,
-                "auflage": "Baustellen/Sperrungen prüfen unter verkehr.vz-deutschland.de."
-              }
-            ]
+            "strecke": "AS Kempten - A7 - AS Berkheim"
+          }
+        ],
+        "auflagen": [
+          {
+            "stichwort": "private Begleitung auf Teilstrecken (ohne WVZ-Anlage)",
+            "rgst_nr": 18,
+            "auflage": "Privates Begleitfahrzeug nach hinten mit gelben Blinklicht auf Teilstrecken gem. Anlage 3. Funk erforderlich."
           },
           {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": 36,
+            "auflage": "Örtlichkeit der Fahrauflagen online unter autobahn.de/fuer-unternehmen/gst/gst-viewer."
+          },
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": 36,
+            "auflage": "Keine Ausnahmegenehmigung von Verboten durch Vorschriftszeichen."
+          },
+          {
+            "stichwort": "Baustelleninformation",
+            "rgst_nr": 37,
+            "auflage": "Baustellen/Sperrungen prüfen unter verkehr.vz-deutschland.de."
+          }
+        ]
+      },
+      {
+        "traeger": "Bundesrepublik Deutschland",
+        "behoerde": "Die Autobahn GmbH des Bundes, Niederlassung Südbayern",
+        "fahrtwegteile": [
+          {
             "teil_nr": "1.2",
-            "strecke": "AS Berkheim - A7 - AS Kempten",
-            "auflagen": [
-              {
-                "stichwort": "private Begleitung auf Teilstrecken (ohne WVZ-Anlage)",
-                "rgst_nr": 18,
-                "auflage": "Privates Begleitfahrzeug nach hinten mit gelben Blinklicht auf Teilstrecken gem. Anlage 3. Funk erforderlich."
-              },
-              {
-                "stichwort": "Weitere Auflagen",
-                "rgst_nr": 36,
-                "auflage": "Örtlichkeit der Fahrauflagen online unter autobahn.de/fuer-unternehmen/gst/gst-viewer."
-              },
-              {
-                "stichwort": "Weitere Auflagen",
-                "rgst_nr": 36,
-                "auflage": "Keine Ausnahmegenehmigung von Verboten durch Vorschriftszeichen."
-              }
-            ]
+            "strecke": "AS Berkheim - A7 - AS Kempten"
+          }
+        ],
+        "auflagen": [
+          {
+            "stichwort": "private Begleitung auf Teilstrecken (ohne WVZ-Anlage)",
+            "rgst_nr": 18,
+            "auflage": "Privates Begleitfahrzeug nach hinten mit gelben Blinklicht auf Teilstrecken gem. Anlage 3. Funk erforderlich."
+          },
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": 36,
+            "auflage": "Örtlichkeit der Fahrauflagen online unter autobahn.de/fuer-unternehmen/gst/gst-viewer."
+          },
+          {
+            "stichwort": "Weitere Auflagen",
+            "rgst_nr": 36,
+            "auflage": "Keine Ausnahmegenehmigung von Verboten durch Vorschriftszeichen."
           }
         ]
       },

@@ -63,16 +63,14 @@
     "masse_t": null
   },
   "5_fahrzeuge": {
-    "kraftfahrzeug": {
-      "art": "Autokran",
-      "fin": "WLFA54CZ6REZZ0878",
-      "kennzeichen": "M-LW 1034"
-    },
-    "anhaenger": {
-      "art": null,
-      "fin": null,
-      "kennzeichen": null
-    },
+    "kraftfahrzeuge": [
+      {
+        "art": "Autokran",
+        "fin": "WLFA54CZ6REZZ0878",
+        "kennzeichen": "M-LW 1034"
+      }
+    ],
+    "anhaenger": [],
     "bauartbedingte_hoechstgeschwindigkeit_kmh": 80,
     "ketten_oder_raupenlaufwerk": false
   },

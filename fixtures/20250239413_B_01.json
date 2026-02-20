@@ -63,16 +63,20 @@
     "asymmetrisch_skizze_liegt_bei": false
   },
   "5_fahrzeuge": {
-    "kraftfahrzeug": {
-      "art": "Sattelzugmaschine",
-      "fin": "WMA30XZZXGM707071",
-      "kennzeichen": "M-LW 432"
-    },
-    "anhaenger": {
-      "art": "Sattelauflieger",
-      "fin": "YAMT52XX6M0106795",
-      "kennzeichen": "M-LW 1148"
-    },
+    "kraftfahrzeuge": [
+      {
+        "art": "Sattelzugmaschine",
+        "fin": "WMA30XZZXGM707071",
+        "kennzeichen": "M-LW 432"
+      }
+    ],
+    "anhaenger": [
+      {
+        "art": "Sattelauflieger",
+        "fin": "YAMT52XX6M0106795",
+        "kennzeichen": "M-LW 1148"
+      }
+    ],
     "bauartbedingte_hoechstgeschwindigkeit_kmh": 80,
     "ketten_oder_raupenlaufwerk": false
   },

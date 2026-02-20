@@ -62,16 +62,20 @@
     "asymmetrisch_skizze_liegt_bei": false
   },
   "5_fahrzeuge": {
-    "kraftfahrzeug": {
-      "art": "Sattelzugmaschine",
-      "fin": "YV2R0P0D4JB842404",
-      "kennzeichen": "DON-LF 750"
-    },
-    "anhaenger": {
-      "art": "Sattelanhänger",
-      "fin": "WG0STZV43P0042334",
-      "kennzeichen": "DON-LF 752"
-    },
+    "kraftfahrzeuge": [
+      {
+        "art": "Sattelzugmaschine",
+        "fin": "YV2R0P0D4JB842404",
+        "kennzeichen": "DON-LF 750"
+      }
+    ],
+    "anhaenger": [
+      {
+        "art": "Sattelanhänger",
+        "fin": "WG0STZV43P0042334",
+        "kennzeichen": "DON-LF 752"
+      }
+    ],
     "bauartbedingte_hoechstgeschwindigkeit_kmh": 80,
     "ketten_oder_raupenlaufwerk": false
   },

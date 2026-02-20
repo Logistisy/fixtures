@@ -65,16 +65,65 @@
     "asymmetrisch_skizze_liegt_bei": false
   },
   "5_fahrzeuge": {
-    "kraftfahrzeug": {
-      "art": "Sattelzugmaschine",
-      "fin": "WMA86KZZ3RL079063, WMA86KZZ2RL079071, WMA86KZZ0RL079215, WMA86KZZ8RL079205, WMA86KZZ0RL079229, WMA86KZZ2RL079183, WMA86KZZXRL079237, WMA86KZZ2RL079135",
-      "kennzeichen": "BC-PB 7, BC-PB 33, BC-PB 40, BC-PB 50, BC-PB 66, BC-PB 80, BC-PB 85, BC-PB 99"
-    },
-    "anhaenger": {
-      "art": "Sattelauflieger",
-      "fin": "WG0STZV3580032537, WG0STZV3580032536, YAFTLS008J0021527",
-      "kennzeichen": "BC-PB 90, BC-PB 105, BC-PB 527"
-    },
+    "kraftfahrzeuge": [
+      {
+        "art": "Sattelzugmaschine",
+        "fin": "WMA86KZZ3RL079063",
+        "kennzeichen": "BC-PB 7"
+      },
+      {
+        "art": "Sattelzugmaschine",
+        "fin": "WMA86KZZ2RL079071",
+        "kennzeichen": "BC-PB 33"
+      },
+      {
+        "art": "Sattelzugmaschine",
+        "fin": "WMA86KZZ0RL079215",
+        "kennzeichen": "BC-PB 40"
+      },
+      {
+        "art": "Sattelzugmaschine",
+        "fin": "WMA86KZZ8RL079205",
+        "kennzeichen": "BC-PB 50"
+      },
+      {
+        "art": "Sattelzugmaschine",
+        "fin": "WMA86KZZ0RL079229",
+        "kennzeichen": "BC-PB 66"
+      },
+      {
+        "art": "Sattelzugmaschine",
+        "fin": "WMA86KZZ2RL079183",
+        "kennzeichen": "BC-PB 80"
+      },
+      {
+        "art": "Sattelzugmaschine",
+        "fin": "WMA86KZZXRL079237",
+        "kennzeichen": "BC-PB 85"
+      },
+      {
+        "art": "Sattelzugmaschine",
+        "fin": "WMA86KZZ2RL079135",
+        "kennzeichen": "BC-PB 99"
+      }
+    ],
+    "anhaenger": [
+      {
+        "art": "Sattelauflieger",
+        "fin": "WG0STZV3580032537",
+        "kennzeichen": "BC-PB 90"
+      },
+      {
+        "art": "Sattelauflieger",
+        "fin": "WG0STZV3580032536",
+        "kennzeichen": "BC-PB 105"
+      },
+      {
+        "art": "Sattelauflieger",
+        "fin": "YAFTLS008J0021527",
+        "kennzeichen": "BC-PB 527"
+      }
+    ],
     "bauartbedingte_hoechstgeschwindigkeit_kmh": 80,
     "ketten_oder_raupenlaufwerk": false
   },

@@ -40,6 +40,7 @@
   },
 
   "2_antrag": {
+    "$comment_art": "ENUM: 'einzel' | 'kurzzeit' | 'dauer'",
     "art": null,
     "erlaubnis_29_3_stvo": false,
     "ausnahmegenehmigungen_70_stvzo": [],
@@ -70,16 +71,21 @@
   },
 
   "5_fahrzeuge": {
-    "kraftfahrzeug": {
-      "art": null,
-      "fin": null,
-      "kennzeichen": null
-    },
-    "anhaenger": {
-      "art": null,
-      "fin": null,
-      "kennzeichen": null
-    },
+    "$comment": "Arrays — permits often list multiple alternate vehicles per type. The art is stated once and applies to all entries.",
+    "kraftfahrzeuge": [
+      {
+        "art": null,
+        "fin": null,
+        "kennzeichen": null
+      }
+    ],
+    "anhaenger": [
+      {
+        "art": null,
+        "fin": null,
+        "kennzeichen": null
+      }
+    ],
     "bauartbedingte_hoechstgeschwindigkeit_kmh": null,
     "ketten_oder_raupenlaufwerk": false
   },
@@ -146,6 +152,7 @@
       "fahrtwegteile": [
         {
           "teil_nr": null,
+          "$comment_art": "ENUM: 'Lastfahrt' | 'Leerfahrt'",
           "art": null,
           "start": {
             "plz": null,
@@ -198,6 +205,7 @@
     "auflagen_gesamt": [
       {
         "stichwort": null,
+        "$comment_rgst_nr": "Integer, not string. E.g. 36, not \"36\".",
         "rgst_nr": null,
         "auflage": null
       }
@@ -216,6 +224,7 @@
         "auflagen": [
           {
             "stichwort": null,
+            "$comment_rgst_nr": "Integer, not string. E.g. 36, not \"36\".",
             "rgst_nr": null,
             "auflage": null
           }
@@ -241,8 +250,10 @@
               "bauwerks_nr": null,
               "lokalisation": null,
               "netzknoten": null,
+              "$comment_typ": "ENUM: 'Br' (Brücke) | 'H' (Höhe) | 'LS' (Lastbeschränkte Strecke) | 'BA' (Baustellenanfang) | 'BE' (Baustellenende)",
               "typ": null,
               "kmh": null,
+              "$comment_abstand_m": "Integer meters, not float. E.g. 25, not 25.0.",
               "abstand_m": null,
               "fahrauflage_wvz_polizei": null,
               "hinweis": null

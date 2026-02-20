@@ -63,16 +63,20 @@
     "asymmetrisch_skizze_liegt_bei": false
   },
   "5_fahrzeuge": {
-    "kraftfahrzeug": {
-      "art": "Sattelzugmaschine",
-      "fin": "W1T96342510820855",
-      "kennzeichen": "MÜ-K 3375"
-    },
-    "anhaenger": {
-      "art": "Sattelanhänger",
-      "fin": "W09S30120RPS17752",
-      "kennzeichen": "MÜ-KX 3363"
-    },
+    "kraftfahrzeuge": [
+      {
+        "art": "Sattelzugmaschine",
+        "fin": "W1T96342510820855",
+        "kennzeichen": "MÜ-K 3375"
+      }
+    ],
+    "anhaenger": [
+      {
+        "art": "Sattelanhänger",
+        "fin": "W09S30120RPS17752",
+        "kennzeichen": "MÜ-KX 3363"
+      }
+    ],
     "bauartbedingte_hoechstgeschwindigkeit_kmh": 80,
     "ketten_oder_raupenlaufwerk": false
   },
